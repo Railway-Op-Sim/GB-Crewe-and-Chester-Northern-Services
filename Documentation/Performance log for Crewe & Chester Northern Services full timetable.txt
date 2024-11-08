@@ -1,0 +1,3396 @@
+Performance Log:
+Railway: Crewe & Chester Northern Services
+Timetable: Crewe & Chester Northern Services
+Start Time: 06:00
+06:00:00: No random delays selected
+06:00:00: No random failures selected
+06:00:00: No random delays selected on loading session
+06:00:00: No random failures selected on loading session
+06:00:00: 2H40 created at track element 70-28, on time
+06:00:00: 1R10 entered railway at Manchester Link, track element 96-9, on time
+06:00:00: 2H30 created at track element 10-31, on time
+06:00:00: 1K03 created at track element 36-33, on time
+06:00:00: 1H79 created at Helsby on time
+06:00:00: 1D30 created at track element 63-9, on time
+06:00:00: 4L44 entered railway at Manchester Airport Link, track element 87-27, on time
+06:00:00: 4M73 entered railway at Crewe Link, track element 57-33, on time
+06:00:00: 3S06 entered railway at Wigan Link, track element 41-N2, on time
+06:00:00: 6F90 created at Warrington Goods on time
+06:00:00: 4M17 created at track element 41-9, on time
+06:00:17: 4L44 passed Wilmslow 1 minute early
+06:00:42: 4M17 passed Winwick Jn. on time
+06:01:03: 4M73 passed Sandbach on time
+06:01:16: 4M17 passed Warrington Bank Quay 2 minutes early
+06:01:19: 1R10 passed Heaton Norris Jn. on time
+06:01:21: 2H30 passed Mickle Trafford Jn. on time
+06:01:48: 1D30 passed Parkside Jn. on time
+06:02:00: 1H79 departed from Helsby on time
+06:02:04: 1R10 arrived at Stockport 1 minute early
+06:02:06: 3S06 passed Golborne Jn. on time
+06:03:18: 1D30 arrived at Newton-le-Willows, on time
+06:03:23: 4M17 passed Acton Grange Jn. 5 minutes early
+06:03:54: 3S06 passed Winwick Jn. 1 minute early
+06:04:00: 1S34 entered railway at Crewe Link, track element 56-31, on time
+06:04:11: 2H40 arrived at Chelford on time
+06:04:23: 4M17 passed Weaver Jn. 12 minutes early
+06:04:29: 3S06 passed Warrington Bank Quay 6 minutes early
+06:05:00: 2H40 departed from Chelford on time
+06:05:00: 1R10 departed from Stockport on time
+06:05:00: 1D30 departed from Newton-le-Willows, on time
+06:05:58: 1H79 arrived at Frodsham on time
+06:06:00: 1D00 entered railway at Liverpool Link, track element 17-10, on time
+06:06:00: 5J25 entered railway at Crewe Link, track element 55-34, on time
+06:06:20: 2H30 arrived at Mouldsworth on time
+06:06:28: 1H79 departed from Frodsham on time
+06:07:14: 1D30 arrived at Earlestown 1 minute late
+06:07:39: 1D00 arrived at Runcorn on time
+06:07:40: 3S06 passed Acton Grange Jn. 5 minutes early
+06:07:44: 1D30 departed from Earlestown on time
+06:07:59: 1K03 left railway at Crewe Link, track element 55-33, 1 minute early
+06:08:00: 2H30 departed from Mouldsworth on time
+06:08:00: 1P13 entered railway at Liverpool Link, track element 17-8, on time
+06:08:21: 1S34 passed Hartford Jn. on time
+06:08:26: 4M17 passed Acton Bridge 10 minutes early
+06:08:45: 1D30 passed Winwick Jn. 1 minute early
+06:09:00: 1D00 departed from Runcorn on time
+06:09:38: 1S34 passed Acton Bridge on time
+06:09:41: 1D30 arrived at Warrington Bank Quay 4 minutes early
+06:09:45: 3S06 passed Runcorn East 7 minutes early
+06:09:52: 2H40 arrived at Wilmslow 2 minutes early
+06:10:00: 2F13 entered railway at Manchester Link, track element 92-9, on time
+06:10:00: 1H60 entered railway at Crewe Link, track element 57-33, on time
+06:10:00: 1D00 passed Halton Jn. on time
+06:10:13: 1P13 passed Earlestown on time
+06:11:15: 1S34 passed Weaver Jn. on time
+06:11:16: 1R10 arrived at Wilmslow 1 minute early
+06:11:23: 1H79 arrived at Runcorn East 1 minute late
+06:11:45: 4M17 arrived at Hartford Jn. 10 minutes early
+06:11:53: 1H79 departed from Runcorn East on time
+06:11:54: 2H30 arrived at Delamere on time
+06:11:58: 1P13 arrived at Newton-le-Willows, on time
+06:12:37: 1D00 passed Frodsham on time
+06:12:37: 1S34 passed Acton Grange Jn. 1 minute early
+06:13:00: 2K30 entered railway at Manchester Link, track element 96-9, on time
+06:13:00: 2H40 departed from Wilmslow on time
+06:13:00: 2H30 departed from Delamere on time
+06:13:00: 1P13 departed from Newton-le-Willows, on time
+06:13:02: 4L44 passed Sandbach 5 minutes early
+06:13:28: 1S34 arrived at Warrington Bank Quay 2 minutes early
+06:14:00: 1R10 departed from Wilmslow on time
+06:14:00: 4L44 left railway at Crewe Link, track element 57-34, 6 minutes early
+06:14:02: 4M73 passed Wilmslow 7 minutes early
+06:14:16: 1P13 passed Parkside Jn. on time
+06:14:19: 2K30 passed Heaton Norris Jn. on time
+06:14:19: 4M73 left railway at Manchester Airport Link, track element 87-26, 9 minutes early
+06:14:57: 1H79 passed Acton Grange Jn. 1 minute early
+06:15:00: 2D40 entered railway at Manchester Link, track element 96-9, on time
+06:15:00: 1Q44 entered railway at Manchester Airport Link, track element 87-27, on time
+06:15:00: 1D30 departed from Warrington Bank Quay on time
+06:15:04: 2K30 arrived at Stockport on time
+06:15:28: 1D00 arrived at Helsby on time
+06:15:35: 1Q44 passed Wilmslow on time
+06:15:47: 3S06 passed Frodsham Jn. 5 minutes early
+06:15:54: 1H79 arrived at Warrington Bank Quay 4 minutes early
+06:15:55: 2F13 passed Parkside Jn. on time
+06:16:00: 5F42 entered railway at Crewe Link, track element 56-31, on time
+06:16:00: 1R14 entered railway at Wigan Link, track element 41-N2, on time
+06:16:00: 4G62 entered railway at Liverpool Link, track element 17-8, on time
+06:16:00: 1D00 departed from Helsby on time
+06:16:52: 2H40 arrived at Cheadle Hulme 3 minutes early
+06:16:56: 2D40 passed Heaton Norris Jn. on time
+06:17:00: 1R12 entered railway at Liverpool Link, track element 17-10, on time
+06:17:00: 2K30 departed from Stockport on time
+06:17:00: 2H30 arrived at Cuddington on time
+06:17:05: 1D30 passed Acton Grange Jn. 1 minute early
+06:17:16: 1R14 passed Golborne Jn. on time
+06:17:26: 2F13 arrived at Newton-le-Willows, on time
+06:17:47: 2D40 arrived at Stockport on time
+06:18:00: 2H30 departed from Cuddington on time
+06:18:00: 1S34 departed from Warrington Bank Quay on time
+06:18:36: 1R12 arrived at Runcorn on time
+06:18:52: 1D00 passed Mickle Trafford Jn. 3 minutes early
+06:19:00: 2F13 departed from Newton-le-Willows, on time
+06:19:26: 1S34 passed Winwick Jn. 1 minute early
+06:19:33: 1D30 arrived at Runcorn East 4 minutes early
+06:19:43: 1R14 passed Winwick Jn. on time
+06:19:44: 4G62 passed Earlestown 4 minutes early
+06:20:00: 2A81 entered railway at Crewe Link, track element 57-33, on time
+06:20:00: 9R20 entered railway at Manchester Airport Link, track element 87-27, on time
+06:20:00: 2D40 departed from Stockport on time
+06:20:15: 1P13 left railway at Manchester Link, track element 92-8, on time
+06:20:17: 2H30 passed Hartford CLC Jn. on time
+06:20:21: 5F42 passed Hartford Jn. 1 minute early
+06:20:41: 1R14 arrived at Warrington Bank Quay 1 minute early
+06:20:46: 2K30 arrived at Cheadle Hulme on time
+06:20:49: 9R20 arrived at Wilmslow on time
+06:20:57: 1S34 passed Golborne Jn. 1 minute early
+06:21:00: 2H40 departed from Cheadle Hulme on time
+06:21:00: 1H79 departed from Warrington Bank Quay on time
+06:21:00: 1R12 departed from Runcorn on time
+06:21:25: 3S06 passed Helsby 7 minutes early
+06:21:26: 2A81 arrived at Sandbach on time
+06:21:27: 2F13 arrived at Earlestown on time
+06:21:34: 5F42 passed Acton Bridge 1 minute early
+06:21:49: 1S34 left railway at Wigan Link, track element 40-N2, 2 minutes early
+06:21:55: 1R12 passed Halton Jn. on time
+06:22:00: 2F13 departed from Earlestown on time
+06:22:00: 2K30 departed from Cheadle Hulme on time
+06:22:00: 9R20 departed from Wilmslow on time
+06:22:01: 1E50 entered railway at Chester Link, track element 7-31, on time
+06:22:24: 5F42 passed Weaver Jn. 2 minutes early
+06:22:35: 1H79 passed Winwick Jn. 2 minutes early
+06:23:00: 2A81 departed from Sandbach on time
+06:23:32: 1D00 left railway at Chester Link, track element 7-32, 2 minutes early
+06:23:46: 1H79 arrived at Earlestown 4 minutes early
+06:23:46: 1R10 left railway at Crewe Link, track element 57-34, 5 minutes early
+06:24:00: 1G40 entered railway at Liverpool Link, track element 17-10, on time
+06:24:00: 1R14 departed from Warrington Bank Quay on time
+06:24:09: 1H60 arrived at Wilmslow on time
+06:24:27: 2H40 arrived at Stockport on time
+06:24:46: 2H30 arrived at Northwich 3 minutes early
+06:24:48: 2F13 left railway at Liverpool Link, track element 17-9, on time
+06:25:00: 1D30 departed from Runcorn East on time
+06:25:05: 5F42 passed Halton Jn. 2 minutes early
+06:25:21: 1E50 passed Mickle Trafford Jn. on time
+06:25:35: 5F42 passed Runcorn 3 minutes early
+06:25:36: 1G40 arrived at Runcorn on time
+06:25:45: 4G62 passed Winwick Jn. 3 minutes early
+06:25:50: 1R14 passed Acton Grange Jn. on time
+06:25:59: 2K30 arrived at Wilmslow 3 minutes early
+06:25:59: 3S06 passed Mickle Trafford Jn. 9 minutes early
+06:26:00: 1D80 entered railway at Crewe Link, track element 55-34, on time
+06:26:00: 1D69 entered railway at Manchester Link, track element 92-9, on time
+06:26:00: 2H40 departed from Stockport on time
+06:26:00: 1H60 departed from Wilmslow on time
+06:26:18: 5F42 left railway at Liverpool Link, track element 17-11, 4 minutes early
+06:26:23: 1R14 passed Weaver Jn. 3 minutes early
+06:26:37: 2H40 passed Heaton Norris Jn. on time
+06:26:49: 4G62 passed Warrington Bank Quay 5 minutes early
+06:27:18: 5J25 left railway at Chester Link, track element 7-32, on time
+06:27:19: 2A81 arrived at Holmes Chapel on time
+06:27:37: 1Q44 passed Sandbach 5 minutes early
+06:28:00: 2A81 departed from Holmes Chapel on time
+06:28:00: 1G40 departed from Runcorn on time
+06:28:12: 1Q44 left railway at Crewe Link, track element 57-34, 5 minutes early
+06:28:24: 1R14 passed Acton Bridge 3 minutes early
+06:28:35: 2H40 left railway at Manchester Link, track element 95-9, 1 minute early
+06:28:39: 1E50 arrived at Helsby on time
+06:29:00: 9M23 entered railway at Manchester Link, track element 92-9, on time
+06:29:00: 2A10 entered railway at Liverpool Link, track element 17-8, on time
+06:29:00: 2H30 departed from Northwich on time
+06:29:00: 1H79 departed from Earlestown on time
+06:29:31: 1G40 passed Halton Jn. on time
+06:29:39: 1D30 arrived at Frodsham on time
+06:29:41: 1R14 passed Hartford Jn. 3 minutes early
+06:30:00: 2K30 departed from Wilmslow on time
+06:30:00: 1E50 departed from Helsby on time
+06:30:03: 1R12 passed Weaver Jn. 4 minutes late
+06:30:09: 1D30 departed from Frodsham on time
+06:30:40: 4G62 passed Acton Grange Jn. 3 minutes early
+06:31:23: 1H79 arrived at Newton-le-Willows, 1 minute late
+06:31:46: 3S06 left railway at Chester Link, track element 7-32, 8 minutes early
+06:31:53: 1H79 departed from Newton-le-Willows, on time
+06:31:56: 1D69 passed Parkside Jn. on time
+06:31:57: 2A10 arrived at Earlestown on time
+06:31:59: 1H60 arrived at Stockport 2 minutes early
+06:32:00: 1W10 entered railway at Crewe Link, track element 57-33, on time
+06:32:00: 2H20 entered railway at Alderley Edge Up Siding, track element 77-31, on time
+06:32:00: 1V33 entered railway at Manchester Link, track element 96-9, on time
+06:32:10: 9R20 left railway at Crewe Link, track element 57-34, 4 minutes early
+06:32:19: 1R12 passed Acton Bridge 4 minutes late
+06:32:27: 2A10 departed from Earlestown on time
+06:33:00: 2H80 entered railway at Macclesfield Link, track element 95-34, on time
+06:33:04: 2D40 arrived at Altrincham 2 minutes early
+06:33:10: 1H79 passed Parkside Jn. on time
+06:33:19: 1V33 passed Heaton Norris Jn. on time
+06:33:26: 1D69 arrived at Newton-le-Willows, 1 minute late
+06:33:32: 1R14 left railway at Crewe Link, track element 57-31, 4 minutes early
+06:33:34: 1D30 arrived at Helsby on time
+06:33:37: 1R12 passed Hartford Jn. 4 minutes late
+06:33:56: 1D69 departed from Newton-le-Willows, on time
+06:33:59: 1E50 arrived at Frodsham on time
+06:34:04: 1V33 arrived at Stockport 1 minute early
+06:34:04: 1D30 departed from Helsby on time
+06:34:28: 1G40 passed Weaver Jn. on time
+06:34:29: 1E50 departed from Frodsham on time
+06:34:32: 2A81 arrived at Wilmslow 5 minutes early
+06:34:47: 2H80 arrived at Cheadle Hulme on time
+06:34:55: 2K30 arrived at Chelford 2 minutes early
+06:34:55: 2A10 arrived at Newton-le-Willows, on time
+06:35:00: 2H31 entered railway at Chester Link, track element 7-31, on time
+06:35:00: 1H60 departed from Stockport on time
+06:35:17: 2H80 departed from Cheadle Hulme on time
+06:35:25: 2A10 departed from Newton-le-Willows, on time
+06:35:43: 1H60 passed Heaton Norris Jn. 1 minute early
+06:36:11: 1D69 arrived at Earlestown 1 minute late
+06:36:21: 2H30 arrived at Knutsford 3 minutes early
+06:36:36: 2H20 arrived at Wilmslow on time
+06:36:41: 1D69 departed from Earlestown on time
+06:36:42: 2A10 passed Parkside Jn. on time
+06:36:43: 1G40 passed Acton Bridge on time
+06:37:00: 2D40 departed from Altrincham on time
+06:37:06: 2H20 departed from Wilmslow on time
+06:37:28: 1R12 left railway at Crewe Link, track element 57-31, 3 minutes late
+06:37:30: 9M23 passed Parkside Jn. 2 minutes late
+06:37:41: 1H60 left railway at Manchester Link, track element 94-9, 1 minute early
+06:37:41: 1D69 passed Winwick Jn. 1 minute early
+06:38:00: 2K30 departed from Chelford on time
+06:38:00: 1V33 departed from Stockport on time
+06:38:09: 1G40 passed Hartford Jn. 1 minute late
+06:38:11: 4G62 passed Weaver Jn. 1 minute early
+06:38:16: 2H80 arrived at Stockport on time
+06:38:38: 2H31 passed Mickle Trafford Jn. 1 minute late
+06:38:43: 1D69 arrived at Warrington Bank Quay 5 minutes early
+06:38:57: 9M23 arrived at Newton-le-Willows, 2 minutes late
+06:39:00: 1F42 entered railway at Crewe Link, track element 56-31, on time
+06:39:10: 1H79 left railway at Manchester Link, track element 92-8, 2 minutes late
+06:39:24: 1E50 arrived at Runcorn East 1 minute late
+06:39:27: 9M23 departed from Newton-le-Willows, on time
+06:39:54: 1E50 departed from Runcorn East on time
+06:40:00: 1F91 entered railway at Chester Link, track element 7-31, on time
+06:40:00: 4M17 departed from Hartford Jn. on time
+06:40:00: 2H80 departed from Stockport on time
+06:40:37: 2H80 passed Heaton Norris Jn. 1 minute early
+06:40:54: 1D30 passed Mickle Trafford Jn. 2 minutes late
+06:40:59: 2H20 arrived at Cheadle Hulme 1 minute early
+06:41:00: 2K12 entered railway at Manchester Link, track element 96-9, on time
+06:41:00: 2H30 departed from Knutsford on time
+06:41:11: 9M23 passed Earlestown on time
+06:42:00: 2A81 departed from Wilmslow on time
+06:42:15: 1E50 passed Acton Grange Jn. 1 minute early
+06:42:19: 2K12 passed Heaton Norris Jn. on time
+06:42:21: 4G62 passed Acton Bridge on time
+06:42:26: 2A81 left railway at Manchester Airport Link, track element 87-26, 1 minute early
+06:42:35: 2H80 left railway at Manchester Link, track element 95-9, 1 minute early
+06:42:46: 1W10 arrived at Wilmslow 4 minutes early
+06:42:57: 2K30 arrived at Holmes Chapel 2 minutes early
+06:43:00: 2H20 departed from Cheadle Hulme on time
+06:43:10: 2K12 arrived at Stockport 1 minute early
+06:43:13: 1E50 arrived at Warrington Bank Quay 4 minutes early
+06:43:15: 9M23 left railway at Liverpool Link, track element 17-9, on time
+06:43:19: 1F91 passed Mickle Trafford Jn. on time
+06:43:22: 1F42 passed Hartford Jn. 1 minute early
+06:43:29: 2A10 left railway at Manchester Link, track element 92-8, on time
+06:43:38: 2H31 arrived at Mouldsworth 1 minute late
+06:44:08: 2H31 departed from Mouldsworth 1 minute late
+06:44:16: 1V33 arrived at Wilmslow 1 minute early
+06:44:54: 1G40 left railway at Crewe Link, track element 57-31, 2 minutes late
+06:45:00: 6C53 entered railway at Crewe Link, track element 56-31, on time
+06:45:00: 1D69 departed from Warrington Bank Quay on time
+06:45:06: 2D40 arrived at Knutsford 5 minutes early
+06:45:29: 1F42 arrived at Acton Bridge 1 minute early
+06:45:34: 1D30 left railway at Chester Link, track element 7-32, 4 minutes late
+06:46:00: 6F90 departed from Warrington Goods on time
+06:46:00: 2K30 departed from Holmes Chapel on time
+06:46:00: 2K12 departed from Stockport on time
+06:46:07: 2H20 arrived at Stockport on time
+06:46:37: 1F91 arrived at Helsby on time
+06:47:00: 1G41 entered railway at Liverpool Link, track element 17-10, on time
+06:47:07: 1F91 departed from Helsby on time
+06:47:10: 1D69 passed Acton Grange Jn. on time
+06:48:00: 4K97 entered railway at Manchester Airport Link, track element 87-27, on time
+06:48:00: 2H20 departed from Stockport on time
+06:48:00: 1F42 departed from Acton Bridge on time
+06:48:03: 2H31 arrived at Delamere 1 minute late
+06:48:33: 2H31 departed from Delamere on time
+06:48:34: 2H30 arrived at Altrincham 8 minutes early
+06:48:36: 1G41 arrived at Runcorn on time
+06:48:37: 2H20 passed Heaton Norris Jn. 1 minute early
+06:48:50: 4K97 passed Wilmslow 1 minute early
+06:48:56: 1D80 left railway at Chester Link, track element 7-32, 1 minute late
+06:49:00: 1K04 entered railway at Chester Link, track element 7-31, on time
+06:49:00: 1E50 departed from Warrington Bank Quay on time
+06:49:00: 1V33 departed from Wilmslow on time
+06:49:38: 1D69 arrived at Runcorn East 1 minute early
+06:49:39: 1F42 passed Weaver Jn. on time
+06:50:00: 1W10 departed from Wilmslow on time
+06:50:00: 2H41 entered railway at Crewe Link, track element 57-33, on time
+06:50:00: 2K80 entered railway at Manchester Link, track element 96-9, on time
+06:50:05: 2K30 arrived at Sandbach on time
+06:50:14: 2K12 arrived at Cheadle Hulme on time
+06:50:35: 1E50 passed Winwick Jn. 2 minutes early
+06:50:36: 2H20 left railway at Manchester Link, track element 95-9, 2 minutes early
+06:51:00: 2K30 departed from Sandbach on time
+06:51:00: 2K12 departed from Cheadle Hulme on time
+06:51:00: 1G41 departed from Runcorn on time
+06:51:03: 4G62 arrived at Hartford Jn. 5 minutes late
+06:51:06: 1F91 arrived at Frodsham on time
+06:51:19: 2K80 passed Heaton Norris Jn. 1 minute early
+06:51:26: 2H41 arrived at Sandbach on time
+06:51:37: 2K12 left railway at Macclesfield Link, track element 96-34, on time
+06:51:46: 1E50 arrived at Earlestown 4 minutes early
+06:51:55: 1G41 passed Halton Jn. on time
+06:52:00: 2H32 entered railway at Chester Link, track element 7-31, on time
+06:52:00: 2D40 departed from Knutsford on time
+06:52:00: 1D69 departed from Runcorn East on time
+06:52:00: 1F91 departed from Frodsham on time
+06:52:05: 2K80 arrived at Stockport 2 minutes early
+06:52:17: 2K30 left railway at Crewe Link, track element 57-34, on time
+06:52:25: 1F42 passed Halton Jn. on time
+06:52:34: 2H31 arrived at Cuddington on time
+06:52:36: 6C53 passed Hartford Jn. on time
+06:52:45: 6F90 passed Acton Grange Jn. 3 minutes early
+06:53:00: 2H41 departed from Sandbach on time
+06:53:01: 4M17 left railway at Crewe Link, track element 57-31, 6 minutes late
+06:53:04: 2H31 departed from Cuddington on time
+06:53:36: 1F42 arrived at Runcorn 1 minute early
+06:54:00 HELD: 1H80 can't enter railway, train obstructing entry position Chester Link
+06:54:48: 1H80 entered railway at Chester Link, track element 7-31, on time
+06:55:04: 6C53 passed Acton Bridge 1 minute late
+06:55:16: 1G41 passed Weaver Jn. on time
+06:55:22: 2H31 passed Hartford CLC Jn. on time
+06:55:40: 1W10 arrived at Stockport 2 minutes early
+06:55:44: 1F91 passed Halton Jn. on time
+06:56:00: 1D10 entered railway at Crewe Link, track element 55-34, on time
+06:56:00: 1F42 departed from Runcorn on time
+06:56:00: 2K80 departed from Stockport on time
+06:56:39: 1D69 arrived at Frodsham on time
+06:56:47: 2H32 passed Mickle Trafford Jn. 2 minutes late
+06:57:00: 4G62 departed from Hartford Jn. on time
+06:57:00: 1E50 departed from Earlestown on time
+06:57:09: 1D69 departed from Frodsham on time
+06:57:20: 2H41 arrived at Holmes Chapel on time
+06:57:25: 1F42 left railway at Liverpool Link, track element 17-11, on time
+06:57:43: 6F90 passed Runcorn East 3 minutes early
+06:58:00: 1D31 entered railway at Manchester Link, track element 92-9, on time
+06:58:00: 2H30 departed from Altrincham on time
+06:58:00: 2H41 departed from Holmes Chapel on time
+06:58:24: 1G41 arrived at Acton Bridge on time
+06:58:39: 1F91 arrived at Runcorn 1 minute late
+06:58:46: 1V33 left railway at Crewe Link, track element 57-34, 5 minutes early
+06:58:48: 6C53 passed Weaver Jn. 2 minutes late
+06:58:57: 2D40 arrived at Northwich 5 minutes early
+06:59:00: 1R18 entered railway at Liverpool Link, track element 17-10, on time
+06:59:09: 1F91 departed from Runcorn 1 minute late
+06:59:23: 1E50 arrived at Newton-le-Willows, 1 minute late
+06:59:50: 2H31 arrived at Northwich 3 minutes early
+06:59:53: 1D69 passed Helsby on time
+06:59:53: 1E50 departed from Newton-le-Willows, on time
+07:00:00: 1R21 entered railway at Manchester Link, track element 96-9, on time
+07:00:00: 5D14 entered railway at Crewe Link, track element 55-34, on time
+07:00:00: 1W10 departed from Stockport on time
+07:00:00: 1G41 departed from Acton Bridge on time
+07:00:13: 1H80 passed Mickle Trafford Jn. 3 minutes late
+07:00:28: 2K80 arrived at Cheadle Hulme on time
+07:00:34: 1F91 left railway at Liverpool Link, track element 17-11, 1 minute late
+07:00:36: 1R18 arrived at Runcorn on time
+07:00:36: 6C53 passed Acton Grange Jn. on time
+07:00:37: 1W10 passed Heaton Norris Jn. 1 minute early
+07:01:00: 2K80 departed from Cheadle Hulme on time
+07:01:05: 6C53 passed Warrington Bank Quay 1 minute early
+07:01:10: 1E50 passed Parkside Jn. on time
+07:01:18: 1R21 passed Heaton Norris Jn. on time
+07:01:46: 2H32 arrived at Mouldsworth 2 minutes late
+07:02:04: 1R21 arrived at Stockport 1 minute early
+07:02:12: 1D69 passed Mickle Trafford Jn. 4 minutes early
+07:02:16: 2H32 departed from Mouldsworth 1 minute late
+07:02:24: 6C53 passed Winwick Jn. 4 minutes early
+07:02:33: 6F90 passed Frodsham Jn. 1 minute early
+07:02:34: 1G41 passed Hartford Jn. on time
+07:02:35: 1W10 left railway at Manchester Link, track element 95-9, 1 minute early
+07:03:00: 2H89 entered railway at Macclesfield Link, track element 95-34, on time
+07:03:00: 1R18 departed from Runcorn on time
+07:03:28: 2H41 arrived at Chelford 1 minute early
+07:03:31: 1H80 arrived at Helsby 2 minutes late
+07:03:55: 1R18 passed Halton Jn. on time
+07:03:56: 1D31 passed Parkside Jn. on time
+07:04:00: 2H31 departed from Northwich on time
+07:04:01: 1H80 departed from Helsby 2 minutes late
+07:04:29: 6C53 passed Golborne Jn. 7 minutes early
+07:04:47: 2H89 arrived at Cheadle Hulme on time
+07:04:59: 2K80 arrived at Wilmslow 1 minute early
+07:05:00: 2D40 departed from Northwich on time
+07:05:00: 1R21 departed from Stockport on time
+07:05:17: 2H89 departed from Cheadle Hulme on time
+07:05:26: 1D31 arrived at Newton-le-Willows, on time
+07:05:49: 6C53 left railway at Wigan Link, track element 40-N2, 9 minutes early
+07:06:00: 1D01 entered railway at Liverpool Link, track element 17-10, on time
+07:06:00: 2H41 departed from Chelford on time
+07:06:00: 1D31 departed from Newton-le-Willows, on time
+07:06:11: 2H32 arrived at Delamere on time
+07:06:29: 4K97 passed Sandbach on time
+07:06:53: 1D69 left railway at Chester Link, track element 7-32, 3 minutes early
+07:07:00: 2K80 departed from Wilmslow on time
+07:07:00: 2H32 departed from Delamere on time
+07:07:10: 1E50 left railway at Manchester Link, track element 92-8, 2 minutes late
+07:07:16: 1R18 passed Weaver Jn. on time
+07:07:17: 2D40 passed Northwich West Jn. 4 minutes early
+07:07:26: 4G62 left railway at Crewe Link, track element 57-31, 3 minutes late
+07:07:27: 4K97 left railway at Crewe Link, track element 57-34, 1 minute early
+07:07:38: 1D01 arrived at Runcorn on time
+07:08:00: 1P15 entered railway at Liverpool Link, track element 17-8, on time
+07:08:00: 2A92 entered railway at Manchester Airport Link, track element 87-27, on time
+07:08:00: 1F43 entered railway at Crewe Link, track element 56-31, on time
+07:08:00: 1H80 arrived at Frodsham 3 minutes late
+07:08:09: 2H30 arrived at Stockport 5 minutes early
+07:08:15: 1D31 arrived at Earlestown on time
+07:08:16: 2H89 arrived at Stockport on time
+07:08:30: 1H80 departed from Frodsham 2 minutes late
+07:08:49: 2A92 arrived at Wilmslow on time
+07:09:00: 1D31 departed from Earlestown on time
+07:09:00: 1D01 departed from Runcorn on time
+07:09:30: 1K04 left railway at Crewe Link, track element 55-33, on time
+07:09:56: 1G41 left railway at Crewe Link, track element 57-31, 2 minutes late
+07:10:00: 2F17 entered railway at Manchester Link, track element 92-9, on time
+07:10:00: 2H89 departed from Stockport on time
+07:10:00: 1D31 passed Winwick Jn. 1 minute early
+07:10:02: 2K80 left railway at Alderley Edge Up Siding, track element 77-31, on time
+07:10:03: 6F90 passed Helsby 1 minute late
+07:10:24: 1R18 passed Acton Bridge on time
+07:10:31: 1P15 passed Earlestown on time
+07:10:33: 1D01 passed Halton Jn. on time
+07:10:37: 2H89 passed Heaton Norris Jn. 1 minute early
+07:10:39: 2D40 arrived at Cuddington 4 minutes early
+07:10:56: 1D31 arrived at Warrington Bank Quay 6 minutes early
+07:11:00: 2H32 arrived at Cuddington on time
+07:11:21: 2H31 arrived at Knutsford 4 minutes early
+07:11:50: 6F90 left railway at Ince & Elton Sidings, track element 12-20, 4 minutes early
+07:12:00: 2H32 departed from Cuddington on time
+07:12:20: 1P15 arrived at Newton-le-Willows, on time
+07:12:22: 1F43 passed Hartford Jn. 1 minute early
+07:12:35: 2H89 left railway at Manchester Link, track element 95-9, 1 minute early
+07:12:57: 1R18 passed Hartford Jn. 1 minute late
+07:13:00: 1P15 departed from Newton-le-Willows, on time
+07:13:02: 2D41 entered railway at Manchester Link, track element 96-9, on time
+07:13:17: 2H41 arrived at Wilmslow on time
+07:13:25: 1H80 arrived at Runcorn East 2 minutes late
+07:13:34: 1F43 passed Acton Bridge 1 minute early
+07:13:55: 1H80 departed from Runcorn East 1 minute late
+07:14:00: 1S36 entered railway at Crewe Link, track element 56-31, on time
+07:14:00: 2H41 departed from Wilmslow on time
+07:14:16: 1P15 passed Parkside Jn. on time
+07:14:18: 2H32 passed Hartford CLC Jn. on time
+07:14:18: 1D01 arrived at Frodsham 1 minute late
+07:14:21: 2D41 passed Heaton Norris Jn. on time
+07:14:24: 1R21 arrived at Wilmslow 1 minute late
+07:14:24: 1F43 passed Weaver Jn. 2 minutes early
+07:14:48: 1D01 departed from Frodsham on time
+07:14:54: 1R21 departed from Wilmslow on time
+07:15:00: 2K31 entered railway at Manchester Link, track element 96-9, on time
+07:15:00: 2H30 departed from Stockport on time
+07:15:06: 2D41 arrived at Stockport on time
+07:15:43: 2H30 passed Heaton Norris Jn. 1 minute early
+07:15:55: 2F17 passed Parkside Jn. on time
+07:16:00: 1R22 entered railway at Wigan Link, track element 41-N2, on time
+07:16:00: 2D40 departed from Cuddington on time
+07:16:01: 1D10 left railway at Chester Link, track element 7-32, 2 minutes early
+07:16:16: 1H80 passed Acton Grange Jn. on time
+07:16:19: 2K31 passed Heaton Norris Jn. on time
+07:17:00: 2H31 departed from Knutsford on time
+07:17:00: 2A92 departed from Wilmslow on time
+07:17:03: 1R18 left railway at Crewe Link, track element 57-31, 1 minute late
+07:17:06: 1F43 passed Halton Jn. 2 minutes early
+07:17:09: 2K31 arrived at Stockport on time
+07:17:14: 1H80 arrived at Warrington Bank Quay 2 minutes early
+07:17:16: 1R22 passed Golborne Jn. on time
+07:17:26: 2F17 arrived at Newton-le-Willows, on time
+07:17:41: 2H30 left railway at Manchester Link, track element 94-9, 1 minute early
+07:17:52: 2H41 arrived at Cheadle Hulme 3 minutes early
+07:18:00: 2H33 entered railway at Chester Link, track element 7-31, on time
+07:18:00: 2D41 departed from Stockport on time
+07:18:12: 1D01 arrived at Helsby 2 minutes late
+07:18:17: 1F43 arrived at Runcorn 3 minutes early
+07:18:22: 1S36 passed Hartford Jn. on time
+07:18:42: 1D01 departed from Helsby 1 minute late
+07:18:44: 1R22 passed Winwick Jn. on time
+07:18:46: 2H32 arrived at Northwich 2 minutes early
+07:19:00: 1D31 departed from Warrington Bank Quay on time
+07:19:00: 2F17 departed from Newton-le-Willows, on time
+07:19:00: 2K31 departed from Stockport on time
+07:19:38: 1S36 passed Acton Bridge on time
+07:19:46: 1R22 arrived at Warrington Bank Quay 2 minutes early
+07:20:00: 2A82 entered railway at Crewe Link, track element 57-33, on time
+07:20:00: 1D70 entered railway at Manchester Link, track element 92-9, on time
+07:20:00: 2D40 arrived at Delamere on time
+07:20:16: 1P15 left railway at Manchester Link, track element 92-8, on time
+07:21:00: 1D51 entered railway at Crewe Link, track element 55-34, on time
+07:21:00: 6G99 entered railway at Chinley Link, track element 92-21, on time
+07:21:00: 2D40 departed from Delamere on time
+07:21:00: 1H80 departed from Warrington Bank Quay on time
+07:21:05: 1D31 passed Acton Grange Jn. 1 minute early
+07:21:26: 2A82 arrived at Sandbach on time
+07:21:27: 2F17 arrived at Earlestown on time
+07:21:30: 2H33 passed Mickle Trafford Jn. 1 minute late
+07:21:57: 1S36 passed Weaver Jn. on time
+07:22:00: 1G42 entered railway at Liverpool Link, track element 17-10, on time
+07:22:00: 2H41 departed from Cheadle Hulme on time
+07:22:00: 2H32 departed from Northwich on time
+07:22:00: 2F17 departed from Earlestown on time
+07:22:35: 1H80 passed Winwick Jn. 2 minutes early
+07:22:45: 5D14 left railway at Chester Link, track element 7-32, 2 minutes early
+07:22:52: 2K31 arrived at Cheadle Hulme on time
+07:23:00: 1F43 departed from Runcorn on time
+07:23:00: 2A82 departed from Sandbach on time
+07:23:33: 1D31 arrived at Runcorn East 2 minutes early
+07:23:36: 1G42 arrived at Runcorn on time
+07:23:46: 1H80 arrived at Earlestown 4 minutes early
+07:23:49: 1D01 passed Mickle Trafford Jn. on time
+07:24:00: 1E52 entered railway at Chester Link, track element 7-31, on time
+07:24:00: 2K31 departed from Cheadle Hulme on time
+07:24:00: 1R22 departed from Warrington Bank Quay on time
+07:24:25: 1F43 left railway at Liverpool Link, track element 17-11, on time
+07:24:33: 2H31 arrived at Altrincham 8 minutes early
+07:24:41: 1S36 passed Acton Grange Jn. on time
+07:24:41: 1R21 left railway at Crewe Link, track element 57-34, 4 minutes early
+07:24:48: 2F17 left railway at Liverpool Link, track element 17-9, on time
+07:25:00: 4H00 entered railway at Crewe Link, track element 57-33, on time
+07:25:00: 1M35 entered railway at Wigan Link, track element 41-N2, on time
+07:25:00: 2D40 arrived at Mouldsworth on time
+07:25:04: 2H41 arrived at Stockport on time
+07:25:29: 1S36 arrived at Warrington Bank Quay on time
+07:25:55: 1R22 passed Acton Grange Jn. on time
+07:25:56: 1D70 passed Parkside Jn. on time
+07:26:00: 1G42 departed from Runcorn on time
+07:26:17: 4H00 passed Sandbach on time
+07:26:28: 1R22 passed Weaver Jn. 3 minutes early
+07:26:28: 1M35 passed Golborne Jn. on time
+07:26:30: 2H33 arrived at Mouldsworth 1 minute late
+07:26:54: 1G42 passed Halton Jn. on time
+07:27:00: 2D40 departed from Mouldsworth on time
+07:27:00: 2H41 departed from Stockport on time
+07:27:00: 1D31 departed from Runcorn East on time
+07:27:20: 2A82 arrived at Holmes Chapel on time
+07:27:20: 1E52 passed Mickle Trafford Jn. on time
+07:27:26: 1D70 arrived at Newton-le-Willows, on time
+07:27:33: 2A92 arrived at Holmes Chapel on time
+07:27:37: 2H41 passed Heaton Norris Jn. on time
+07:27:59: 2K31 arrived at Wilmslow 3 minutes early
+07:28:00: 1S36 departed from Warrington Bank Quay on time
+07:28:00: 2A82 departed from Holmes Chapel on time
+07:28:00: 1D70 departed from Newton-le-Willows, on time
+07:28:08: 1M35 passed Winwick Jn. on time
+07:28:29: 1R22 passed Acton Bridge 2 minutes early
+07:28:30: 1D01 left railway at Chester Link, track element 7-32, 1 minute late
+07:29:00: 9M05 entered railway at Manchester Link, track element 92-9, on time
+07:29:00: 2A11 entered railway at Liverpool Link, track element 17-8, on time
+07:29:00: 1H80 departed from Earlestown on time
+07:29:00: 2A92 departed from Holmes Chapel on time
+07:29:21: 2H32 arrived at Knutsford 4 minutes early
+07:29:22: 1M35 arrived at Warrington Bank Quay 1 minute early
+07:29:26: 1S36 passed Winwick Jn. 1 minute early
+07:29:35: 2H41 left railway at Manchester Link, track element 95-9, 1 minute early
+07:29:45: 1R22 passed Hartford Jn. 2 minutes early
+07:29:56: 2D41 arrived at Altrincham 4 minutes early
+07:30:37: 1E52 arrived at Helsby on time
+07:30:57: 1S36 passed Golborne Jn. 1 minute early
+07:31:00: 1S37 entered railway at Crewe Link, track element 56-31, on time
+07:31:00: 2H33 departed from Mouldsworth on time
+07:31:01: 1G42 passed Weaver Jn. 2 minutes early
+07:31:24: 1H80 arrived at Newton-le-Willows, 1 minute late
+07:31:37: 2D40 passed Mickle Trafford Jn. 1 minute early
+07:31:39: 1D31 arrived at Frodsham on time
+07:31:49: 1S36 left railway at Wigan Link, track element 40-N2, 2 minutes early
+07:31:54: 1H80 departed from Newton-le-Willows, on time
+07:31:57: 2A11 arrived at Earlestown on time
+07:32:00: 2H21 entered railway at Alderley Edge Up Siding, track element 77-31, on time
+07:32:00: 1V35 entered railway at Manchester Link, track element 96-9, on time
+07:32:00: 1R25 entered railway at Chester Link, track element 7-31, on time
+07:32:00: 2K31 departed from Wilmslow on time
+07:32:00: 1E52 departed from Helsby on time
+07:32:09: 1D31 departed from Frodsham on time
+07:32:27: 2A11 departed from Earlestown on time
+07:32:27: 1D70 arrived at Earlestown 2 minutes late
+07:32:57: 1D70 departed from Earlestown 1 minute late
+07:33:00: 2H81 entered railway at Macclesfield Link, track element 95-34, on time
+07:33:00: 1M35 departed from Warrington Bank Quay on time
+07:33:06: 2A92 arrived at Sandbach 1 minute late
+07:33:10: 1H80 passed Parkside Jn. on time
+07:33:18: 1V35 passed Heaton Norris Jn. on time
+07:33:36: 2A92 departed from Sandbach on time
+07:33:36: 1R22 left railway at Crewe Link, track element 57-31, 3 minutes early
+07:33:57: 1D70 passed Winwick Jn. on time
+07:34:00: 1W11 entered railway at Crewe Link, track element 57-33, on time
+07:34:03: 1G42 passed Acton Bridge 1 minute early
+07:34:04: 1V35 arrived at Stockport 1 minute early
+07:34:31: 2A82 arrived at Wilmslow 5 minutes early
+07:34:47: 2H81 arrived at Cheadle Hulme on time
+07:34:54: 2A92 left railway at Crewe Link, track element 57-34, on time
+07:34:54: 2H33 arrived at Delamere on time
+07:34:56: 9M05 passed Parkside Jn. on time
+07:34:59: 1D70 arrived at Warrington Bank Quay 4 minutes early
+07:35:00: 2H31 departed from Altrincham on time
+07:35:00: 2D41 departed from Altrincham on time
+07:35:06: 1M35 passed Acton Grange Jn. 1 minute early
+07:35:17: 2H81 departed from Cheadle Hulme on time
+07:35:22: 1S37 passed Hartford Jn. on time
+07:35:34: 1D31 arrived at Helsby on time
+07:35:44: 2A11 arrived at Newton-le-Willows, 1 minute late
+07:35:59: 1E52 arrived at Frodsham on time
+07:36:00: 9A31 entered railway at Wigan Link, track element 41-N2, on time
+07:36:00: 2H32 departed from Knutsford on time
+07:36:00: 2H33 departed from Delamere on time
+07:36:04: 1D31 departed from Helsby on time
+07:36:14: 2A11 departed from Newton-le-Willows, 1 minute late
+07:36:16: 2D40 left railway at Chester Link, track element 7-32, 1 minute late
+07:36:26: 9M05 arrived at Newton-le-Willows, on time
+07:36:29: 1E52 departed from Frodsham on time
+07:36:37: 1G42 passed Hartford Jn. on time
+07:36:38: 1S37 passed Acton Bridge on time
+07:36:55: 2K31 arrived at Chelford 2 minutes early
+07:37:16: 9A31 passed Golborne Jn. on time
+07:37:31: 2A11 passed Parkside Jn. on time
+07:38:00: 1V35 departed from Stockport on time
+07:38:15: 1S37 passed Weaver Jn. on time
+07:38:16: 2H81 arrived at Stockport on time
+07:38:37: 2H21 arrived at Wilmslow 2 minutes late
+07:38:44: 9A31 passed Winwick Jn. on time
+07:39:00: 9M05 departed from Newton-le-Willows, on time
+07:39:07: 2H21 departed from Wilmslow 2 minutes late
+07:39:10: 1H80 left railway at Manchester Link, track element 92-8, 2 minutes late
+07:39:37: 1S37 passed Acton Grange Jn. 1 minute early
+07:39:40: 9A31 arrived at Warrington Bank Quay 1 minute early
+07:40:00: 6N42 entered railway at Chinley Link, track element 92-21, on time
+07:40:00: 2K31 departed from Chelford on time
+07:40:00: 2H81 departed from Stockport on time
+07:40:00: 2H33 arrived at Cuddington on time
+07:40:28: 1S37 arrived at Warrington Bank Quay 3 minutes early
+07:40:37: 2H81 passed Heaton Norris Jn. 1 minute early
+07:40:38: 1D31 passed Mickle Trafford Jn. 2 minutes early
+07:40:42: 1G42 left railway at Crewe Link, track element 57-31, 1 minute early
+07:40:43: 9M05 passed Earlestown on time
+07:41:00: 2H33 departed from Cuddington on time
+07:41:00: 1D70 departed from Warrington Bank Quay on time
+07:41:01: 1D51 left railway at Chester Link, track element 7-32, on time
+07:41:24: 1E52 arrived at Runcorn East 1 minute late
+07:41:54: 1E52 departed from Runcorn East on time
+07:42:00: 1F44 entered railway at Crewe Link, track element 56-31, on time
+07:42:00: 2A82 departed from Wilmslow on time
+07:42:26: 2A82 left railway at Manchester Airport Link, track element 87-26, 1 minute early
+07:42:35: 2H81 left railway at Manchester Link, track element 95-9, 1 minute early
+07:42:44: 1M35 passed Hartford Jn. 3 minutes early
+07:42:47: 9M05 left railway at Liverpool Link, track element 17-9, on time
+07:42:58: 4H00 passed Wilmslow 4 minutes early
+07:42:59: 2H21 arrived at Cheadle Hulme on time
+07:43:00: 6D43 entered railway at Crewe Link, track element 55-34, on time
+07:43:00: 9A31 departed from Warrington Bank Quay on time
+07:43:05: 6G99 passed Altrincham 4 minutes early
+07:43:06: 2D41 arrived at Knutsford 5 minutes early
+07:43:10: 1D70 passed Acton Grange Jn. on time
+07:43:15: 4H00 left railway at Manchester Airport Link, track element 87-26, 5 minutes early
+07:43:18: 2H33 passed Hartford CLC Jn. on time
+07:43:29: 2H21 departed from Cheadle Hulme on time
+07:43:32: 2A11 left railway at Manchester Link, track element 92-8, on time
+07:43:33: 2H32 arrived at Altrincham 8 minutes early
+07:44:49: 1E52 passed Acton Grange Jn. 1 minute early
+07:44:57: 2K31 arrived at Holmes Chapel 2 minutes early
+07:44:57: 1V35 arrived at Wilmslow 1 minute early
+07:45:00: 1F92 entered railway at Chester Link, track element 7-31, on time
+07:45:38: 1D70 arrived at Runcorn East 1 minute early
+07:45:39: 1D31 left railway at Chester Link, track element 7-32, on time
+07:45:46: 9A31 passed Acton Grange Jn. on time
+07:45:46: 1E52 arrived at Warrington Bank Quay 4 minutes early
+07:46:00: 1S37 departed from Warrington Bank Quay on time
+07:46:14: 2H31 arrived at Stockport 4 minutes early
+07:46:22: 1F44 passed Hartford Jn. 1 minute early
+07:46:27: 9A31 passed Weaver Jn. 2 minutes early
+07:46:44: 2H21 arrived at Stockport on time
+07:46:52: 1W11 arrived at Wilmslow 2 minutes early
+07:47:00: 2K81 entered railway at Manchester Link, track element 96-9, on time
+07:47:00: 1G43 entered railway at Liverpool Link, track element 17-10, on time
+07:47:26: 1S37 passed Winwick Jn. 1 minute early
+07:47:46: 2H33 arrived at Northwich 3 minutes early
+07:48:00: 2K31 departed from Holmes Chapel on time
+07:48:00: 1D70 departed from Runcorn East on time
+07:48:00: 2H21 departed from Stockport on time
+07:48:19: 2K81 passed Heaton Norris Jn. 1 minute early
+07:48:20: 1F92 passed Mickle Trafford Jn. on time
+07:48:29: 1F44 arrived at Acton Bridge 1 minute early
+07:48:36: 1G43 arrived at Runcorn on time
+07:48:37: 2H21 passed Heaton Norris Jn. 1 minute early
+07:48:57: 1S37 passed Golborne Jn. 2 minutes early
+07:49:00: 1V35 departed from Wilmslow on time
+07:49:04: 2K81 arrived at Stockport 2 minutes early
+07:49:07: Timetable clock speed changed to twice normal
+07:49:10: 1M35 left railway at Crewe Link, track element 57-31, 3 minutes early
+07:49:49: 1S37 left railway at Wigan Link, track element 40-N2, 3 minutes early
+07:50:00: 2K14 entered railway at Manchester Link, track element 96-9, on time
+07:50:00: 2H42 entered railway at Crewe Link, track element 57-33, on time
+07:50:00: 2D41 departed from Knutsford on time
+07:50:20: 9A31 passed Acton Bridge on time
+07:50:35: 2H21 left railway at Manchester Link, track element 95-9, 2 minutes early
+07:51:00: 1E52 departed from Warrington Bank Quay on time
+07:51:00: 1F44 departed from Acton Bridge on time
+07:51:00: 1G43 departed from Runcorn on time
+07:51:19: 2K14 passed Heaton Norris Jn. on time
+07:51:26: 2H42 arrived at Sandbach on time
+07:51:38: 1F92 arrived at Helsby on time
+07:51:55: 1G43 passed Halton Jn. on time
+07:52:00: 2H33 departed from Northwich on time
+07:52:00: 1W11 departed from Wilmslow on time
+07:52:06: 2K31 arrived at Sandbach on time
+07:52:08: 1F92 departed from Helsby on time
+07:52:10: 2K14 arrived at Stockport 1 minute early
+07:52:21: 9A31 passed Hartford Jn. 1 minute late
+07:52:35: 1E52 passed Winwick Jn. 2 minutes early
+07:52:39: 1D70 arrived at Frodsham on time
+07:52:40: 1F44 passed Weaver Jn. on time
+07:53:00: 2H31 became new service 5J31 at Stockport on time
+07:53:00: 2H32 departed from Altrincham on time
+07:53:00: 2K31 departed from Sandbach on time
+07:53:00: 2K81 departed from Stockport on time
+07:53:00: 2H42 departed from Sandbach on time
+07:53:30: 1R25 left railway at Crewe Link, track element 55-33, on time
+07:53:46: 1E52 arrived at Earlestown 4 minutes early
+07:54:00: 5J31 departed from Stockport on time
+07:54:00: 1D70 departed from Frodsham on time
+07:54:17: 2K31 left railway at Crewe Link, track element 57-34, on time
+07:54:43: 5J31 passed Heaton Norris Jn. 1 minute early
+07:55:00: 1K05 entered railway at Chester Link, track element 7-31, on time
+07:55:00 HELD: 1H82 can't enter railway, train obstructing entry position Chester Link
+07:55:00: 6N42 passed Altrincham 12 minutes early
+07:55:00: 2K14 departed from Stockport on time
+07:55:17: 1G43 passed Weaver Jn. on time
+07:55:26: 1F44 passed Halton Jn. on time
+07:55:26: Timetable clock speed changed to normal
+07:56:00: 1A10 entered railway at Liverpool Link, track element 17-10, on time
+07:56:07: 1F92 arrived at Frodsham on time
+07:56:36: 1H82 entered railway at Chester Link, track element 7-31, 1 minute late
+07:56:37: 1F44 arrived at Runcorn 1 minute early
+07:56:42: 5J31 left railway at Manchester Link, track element 94-9, 1 minute early
+07:56:47: 2K81 arrived at Cheadle Hulme on time
+07:56:57: 2D41 arrived at Northwich 5 minutes early
+07:57:00: 1F92 departed from Frodsham on time
+07:57:01: 9A31 left railway at Crewe Link, track element 57-31, 1 minute late
+07:57:02: 4C32 entered railway at Crewe Link, track element 56-31, on time
+07:57:20: 2H42 arrived at Holmes Chapel on time
+07:57:24: 1D70 arrived at Helsby on time
+07:57:36: 1A10 arrived at Runcorn on time
+07:58:00: 1D32 entered railway at Manchester Link, track element 92-9, on time
+07:58:00: 1D70 departed from Helsby on time
+07:58:00: 2K81 departed from Cheadle Hulme on time
+07:58:00: 2H42 departed from Holmes Chapel on time
+07:58:25: 1G43 arrived at Acton Bridge on time
+07:58:25: 1W11 arrived at Stockport 1 minute early
+07:58:39: 2K14 arrived at Cheadle Hulme on time
+07:58:46: 1V35 left railway at Crewe Link, track element 57-34, 5 minutes early
+07:59:00 HELD: 6K61 can't enter railway, train obstructing entry position Chester Link
+07:59:00: 1E52 departed from Earlestown on time
+07:59:00: 1F44 departed from Runcorn on time
+07:59:21: 2H33 arrived at Knutsford 3 minutes early
+08:00:00: 1A11 entered railway at Manchester Link, track element 96-9, on time
+08:00:00: 1G43 departed from Acton Bridge on time
+08:00:00: 2K14 departed from Cheadle Hulme on time
+08:00:00: 1A10 departed from Runcorn on time
+08:00:07: 6K61 entered railway at Chester Link, track element 7-31, 1 minute late
+08:00:25: 1F44 left railway at Liverpool Link, track element 17-11, on time
+08:00:37: 2K14 left railway at Macclesfield Link, track element 96-34, on time
+08:00:43: 1F92 passed Halton Jn. on time
+08:00:54: 1A10 passed Halton Jn. on time
+08:01:00: 6D61 entered railway at Crewe Link, track element 55-34, on time
+08:01:18: 1A11 passed Heaton Norris Jn. on time
+08:01:23: 1E52 arrived at Newton-le-Willows, 1 minute late
+08:01:29: 1D70 passed Mickle Trafford Jn. 3 minutes early
+08:01:53: 1E52 departed from Newton-le-Willows, on time
+08:01:55: 1H82 passed Mickle Trafford Jn. 3 minutes late
+08:01:59: 2K81 arrived at Wilmslow 1 minute early
+08:02:00: 1W11 departed from Stockport on time
+08:02:04: 1A11 arrived at Stockport 1 minute early
+08:02:18: 1F92 arrived at Runcorn on time
+08:02:33: 1G43 passed Hartford Jn. on time
+08:02:37: 1W11 passed Heaton Norris Jn. 1 minute early
+08:03:00: 2H82 entered railway at Macclesfield Link, track element 95-34, on time
+08:03:00 HELD: 2H34 can't enter railway, train obstructing entry position Chester Link
+08:03:00: 2D41 departed from Northwich on time
+08:03:08: 6D43 left railway at Chester Link, track element 7-32, 5 minutes early
+08:03:10: 1E52 passed Parkside Jn. on time
+08:03:28: 2H42 arrived at Chelford 1 minute early
+08:03:56: 1D32 passed Parkside Jn. on time
+08:04:00: 2H33 departed from Knutsford on time
+08:04:00: 2K81 departed from Wilmslow on time
+08:04:14: 2H32 arrived at Stockport 4 minutes early
+08:04:16: 1A10 passed Weaver Jn. on time
+08:04:35: 1W11 left railway at Manchester Link, track element 95-9, 1 minute early
+08:04:39: 4C32 passed Hartford Jn. on time
+08:04:43: 2H34 entered railway at Chester Link, track element 7-31, 1 minute late
+08:04:47: 2H82 arrived at Cheadle Hulme on time
+08:05:00: 1P17 entered railway at Liverpool Link, track element 17-8, on time
+08:05:00: 1A11 departed from Stockport on time
+08:05:13: 1H82 arrived at Helsby 3 minutes late
+08:05:17: 2H82 departed from Cheadle Hulme on time
+08:05:17: 2D41 passed Northwich West Jn. 4 minutes early
+08:05:26: 1D32 arrived at Newton-le-Willows, on time
+08:05:43: 1H82 departed from Helsby 2 minutes late
+08:06:00: 1D02 entered railway at Liverpool Link, track element 17-10, on time
+08:06:00: 3S09 entered railway at Liverpool Link, track element 17-8, on time
+08:06:00: 2H42 departed from Chelford on time
+08:06:00: 1D32 departed from Newton-le-Willows, on time
+08:06:10: 1A10 passed Acton Bridge on time
+08:06:39: 1G43 left railway at Crewe Link, track element 57-31, on time
+08:06:46: 1D70 left railway at Chester Link, track element 7-32, 1 minute early
+08:07:00: 1F92 departed from Runcorn on time
+08:07:00: 6H66 entered railway at Wigan Link, track element 39-N2, on time
+08:07:02: 2K81 left railway at Alderley Edge Up Siding, track element 77-31, on time
+08:07:04: 4C32 passed Acton Bridge 2 minutes late
+08:07:13: 1P17 passed Earlestown on time
+08:07:27: 1A10 passed Hartford Jn. on time
+08:07:38: 1D02 arrived at Runcorn on time
+08:07:56: No random delays selected on loading session
+08:07:56: No random failures selected on loading session
+08:08:00: 2A93 entered railway at Manchester Airport Link, track element 87-27, on time
+08:08:00: 1F45 entered railway at Crewe Link, track element 56-31, on time
+08:08:15: 1D32 arrived at Earlestown on time
+08:08:16: 2H82 arrived at Stockport on time
+08:08:24: 1F92 left railway at Liverpool Link, track element 17-11, on time
+08:08:38: 2D41 arrived at Cuddington 4 minutes early
+08:08:50: 2A93 arrived at Wilmslow on time
+08:08:58: 1P17 arrived at Newton-le-Willows, on time
+08:08:59: 6H66 arrived at Golborne Holding Area on time
+08:09:00: 1D32 departed from Earlestown on time
+08:09:00: 1D02 departed from Runcorn on time
+08:09:09: 1E52 left railway at Manchester Link, track element 92-8, 2 minutes late
+08:09:16: 4C32 passed Weaver Jn. 2 minutes late
+08:09:38: 6G99 passed Northwich 8 minutes early
+08:09:42: 1H82 arrived at Frodsham 3 minutes late
+08:09:57: 2H34 passed Mickle Trafford Jn. 4 minutes late
+08:10:00: 2F21 entered railway at Manchester Link, track element 92-9, on time
+08:10:00: 1H61 entered railway at Crewe Link, track element 57-33, on time
+08:10:00: 2H32 departed from Stockport on time
+08:10:00: 2H82 departed from Stockport on time
+08:10:00: 1P17 departed from Newton-le-Willows, on time
+08:10:00: 1D02 passed Halton Jn. on time
+08:10:00: 1D32 passed Winwick Jn. 1 minute early
+08:10:12: 1H82 departed from Frodsham 3 minutes late
+08:10:37: 2H82 passed Heaton Norris Jn. 1 minute early
+08:10:43: 2H32 passed Heaton Norris Jn. 1 minute early
+08:10:56: 1D32 arrived at Warrington Bank Quay 6 minutes early
+08:11:00: 4C32 passed Acton Grange Jn. on time
+08:11:02: 3S09 passed Earlestown 4 minutes early
+08:11:16: 1P17 passed Parkside Jn. on time
+08:11:18: 1A10 left railway at Crewe Link, track element 57-31, 1 minute early
+08:11:33: 2H33 arrived at Altrincham 7 minutes early
+08:12:00: 6H89 entered railway at Crewe Link, track element 57-33, on time
+08:12:04: 4C32 arrived at Warrington Bank Quay on time
+08:12:08: 2H42 arrived at Wilmslow on time
+08:12:22: 1F45 passed Hartford Jn. 1 minute early
+08:12:35: 2H82 left railway at Manchester Link, track element 95-9, 1 minute early
+08:12:41: 2H32 left railway at Manchester Link, track element 94-9, 1 minute early
+08:12:56: 1A11 arrived at Wilmslow on time
+08:13:00: 2D42 entered railway at Manchester Link, track element 96-9, on time
+08:13:00: 1S39 entered railway at Crewe Link, track element 56-31, on time
+08:13:05: 3S09 passed Newton-le-Willows, 3 minutes early
+08:13:34: 1F45 passed Acton Bridge 1 minute early
+08:14:00: 2D41 departed from Cuddington on time
+08:14:00: 2H42 departed from Wilmslow on time
+08:14:00: 1A11 departed from Wilmslow on time
+08:14:18: 2D42 passed Heaton Norris Jn. on time
+08:14:25: 1F45 passed Weaver Jn. 2 minutes early
+08:14:57: 2H34 arrived at Mouldsworth 4 minutes late
+08:15:00: 2K32 entered railway at Manchester Link, track element 96-9, on time
+08:15:00: 4C32 departed from Warrington Bank Quay on time
+08:15:02: 6N42 arrived at Northwich Goods Loop 18 minutes early
+08:15:04: 2D42 arrived at Stockport on time
+08:15:07: 1H82 arrived at Runcorn East 4 minutes late
+08:15:22: 1K05 left railway at Crewe Link, track element 55-33, on time
+08:15:27: 2H34 departed from Mouldsworth 3 minutes late
+08:15:30: 6H89 passed Sandbach North Jn. on time
+08:15:37: 1H82 departed from Runcorn East 3 minutes late
+08:15:56: 2F21 passed Parkside Jn. on time
+08:16:07: 1D02 arrived at Frodsham 3 minutes late
+08:16:18: 2K32 passed Heaton Norris Jn. on time
+08:16:28: 4C32 passed Winwick Jn. 3 minutes early
+08:16:34: 6H89 arrived at Middlewich 11 minutes early
+08:16:37: 1D02 departed from Frodsham 2 minutes late
+08:16:45: 6G99 passed Sandbach North Jn. 31 minutes early
+08:17:00: 2A93 departed from Wilmslow on time
+08:17:07: 1F45 passed Halton Jn. 2 minutes early
+08:17:09: 2K32 arrived at Stockport on time
+08:17:16: 1P17 left railway at Manchester Link, track element 92-8, on time
+08:17:21: 1S39 passed Hartford Jn. on time
+08:17:26: 2F21 arrived at Newton-le-Willows, on time
+08:17:52: 2H42 arrived at Cheadle Hulme 3 minutes early
+08:17:59: 1H82 passed Acton Grange Jn. on time
+08:18:00: 1M06 entered railway at Wigan Link, track element 41-N2, on time
+08:18:00: 2D42 departed from Stockport on time
+08:18:00: 2D41 arrived at Delamere on time
+08:18:18: 1F45 arrived at Runcorn 4 minutes early
+08:18:32: 1S39 passed Acton Bridge on time
+08:18:36: 4C32 passed Golborne Jn. 7 minutes early
+08:18:57: 1H82 arrived at Warrington Bank Quay 2 minutes early
+08:19:00: 6B71 entered railway at Chinley Link, track element 92-21, on time
+08:19:00: 2D41 departed from Delamere on time
+08:19:00: 2F21 departed from Newton-le-Willows, on time
+08:19:00: 2K32 departed from Stockport on time
+08:19:22: 2H34 arrived at Delamere 2 minutes late
+08:19:49: 6G99 left railway at Crewe Link, track element 57-34, 39 minutes early
+08:19:52: 2H34 departed from Delamere 1 minute late
+08:19:55: 4C32 left railway at Wigan Link, track element 40-N2, 9 minutes early
+08:20:00: 2A83 entered railway at Crewe Link, track element 57-33, on time
+08:20:00: 2H33 departed from Altrincham on time
+08:20:00: 1D32 departed from Warrington Bank Quay on time
+08:20:02: 1D02 arrived at Helsby 4 minutes late
+08:20:29: 1M06 passed Golborne Jn. 1 minute late
+08:20:32: 1D02 departed from Helsby 3 minutes late
+08:20:43: 1S39 passed Weaver Jn. on time
+08:21:00: 1D71 entered railway at Manchester Link, track element 92-9, on time
+08:21:26: 2A83 arrived at Sandbach on time
+08:21:27: 2F21 arrived at Earlestown on time
+08:21:27: 6D61 left railway at Chester Link, track element 7-32, 10 minutes early
+08:22:00: 1D52 entered railway at Crewe Link, track element 55-34, on time
+08:22:00: 1E54 entered railway at Chester Link, track element 7-31, on time
+08:22:00: 1G44 entered railway at Liverpool Link, track element 17-10, on time
+08:22:00: 2H42 departed from Cheadle Hulme on time
+08:22:00: 1H82 departed from Warrington Bank Quay on time
+08:22:00: 2F21 departed from Earlestown on time
+08:22:11: 1M06 passed Winwick Jn. 2 minutes late
+08:22:15: 1D32 passed Acton Grange Jn. 1 minute early
+08:22:52: 2K32 arrived at Cheadle Hulme on time
+08:23:00: 4S43 entered railway at Crewe Link, track element 56-31, on time
+08:23:00: 6H66 departed from Golborne Holding Area on time
+08:23:00: 2A83 departed from Sandbach on time
+08:23:00: 2D41 arrived at Mouldsworth on time
+08:23:13: 1M06 arrived at Warrington Bank Quay on time
+08:23:24: 1D02 passed Mickle Trafford Jn. on time
+08:23:25: 1H61 arrived at Wilmslow 1 minute early
+08:23:29: 6K61 left railway at Crewe Link, track element 55-33, 9 minutes early
+08:23:35: 1H82 passed Winwick Jn. 2 minutes early
+08:23:36: 1G44 arrived at Runcorn on time
+08:23:46: 1A11 left railway at Crewe Link, track element 57-34, 5 minutes early
+08:23:52: 2H34 arrived at Cuddington 1 minute late
+08:24:00: 1F45 departed from Runcorn on time
+08:24:00: 2K32 departed from Cheadle Hulme on time
+08:24:23: 2H34 departed from Cuddington 1 minute late
+08:24:27: 3S09 left railway at Manchester Link, track element 92-8, 4 minutes early
+08:24:43: 1D32 arrived at Runcorn East 2 minutes early
+08:24:46: 1H82 arrived at Earlestown 4 minutes early
+08:24:48: 2F21 left railway at Liverpool Link, track element 17-9, on time
+08:25:00: 2D41 departed from Mouldsworth on time
+08:25:00: 1M06 departed from Warrington Bank Quay on time
+08:25:19: 1E54 passed Mickle Trafford Jn. on time
+08:25:21: 1S39 passed Acton Grange Jn. 2 minutes late
+08:25:25: 1F45 left railway at Liverpool Link, track element 17-11, on time
+08:25:28: 2H42 arrived at Stockport on time
+08:26:00: 1H61 departed from Wilmslow on time
+08:26:00: 1G44 departed from Runcorn on time
+08:26:01: 2A93 arrived at Holmes Chapel 1 minute early
+08:26:09: 6H66 passed Winwick Jn. on time
+08:26:10: 1S39 arrived at Warrington Bank Quay 1 minute late
+08:26:40: 2H34 passed Hartford CLC Jn. 1 minute late
+08:26:54: 1G44 passed Halton Jn. on time
+08:26:55: 1M06 passed Acton Grange Jn. 1 minute early
+08:26:56: 1D71 passed Parkside Jn. on time
+08:27:00: 2H42 departed from Stockport on time
+08:27:00: 1S39 departed from Warrington Bank Quay on time
+08:27:20: 6H66 passed Warrington Bank Quay 3 minutes early
+08:27:20: 2A83 arrived at Holmes Chapel on time
+08:27:28: 1M06 passed Weaver Jn. 3 minutes early
+08:27:37: 2H42 passed Heaton Norris Jn. on time
+08:27:59: 2K32 arrived at Wilmslow 3 minutes early
+08:28:00: 1D32 departed from Runcorn East on time
+08:28:00: 2A83 departed from Holmes Chapel on time
+08:28:04: 1D02 left railway at Chester Link, track element 7-32, 1 minute late
+08:28:26: 1D71 arrived at Newton-le-Willows, 1 minute late
+08:28:37: 1E54 arrived at Helsby on time
+08:28:39: 1S39 passed Winwick Jn. 1 minute early
+08:28:56: 1D71 departed from Newton-le-Willows, on time
+08:29:00: 9M25 entered railway at Manchester Link, track element 92-9, on time
+08:29:00: 2A12 entered railway at Liverpool Link, track element 17-8, on time
+08:29:00: 1F11 entered railway at Crewe Link, track element 56-31, on time
+08:29:00: 2A93 departed from Holmes Chapel on time
+08:29:29: 1M06 passed Acton Bridge 2 minutes early
+08:29:35: 2H42 left railway at Manchester Link, track element 95-9, 1 minute early
+08:29:37: 2D41 passed Mickle Trafford Jn. 1 minute early
+08:29:56: 2D42 arrived at Altrincham 4 minutes early
+08:30:00: 1H17 entered railway at Crewe Link, track element 57-33, on time
+08:30:00: 1H82 departed from Earlestown on time
+08:30:00: 1E54 departed from Helsby on time
+08:30:10: 1S39 passed Golborne Jn. 1 minute early
+08:30:39: 2H33 arrived at Stockport 6 minutes early
+08:30:45: 1M06 passed Hartford Jn. 2 minutes early
+08:30:58: 4S43 passed Hartford Jn. on time
+08:31:02: 1S39 left railway at Wigan Link, track element 40-N2, 2 minutes early
+08:31:09: 2H34 arrived at Northwich on time
+08:31:45: 6H66 passed Acton Grange Jn. 2 minutes early
+08:31:46: 1G44 passed Weaver Jn. 2 minutes early
+08:31:57: 2A12 arrived at Earlestown on time
+08:32:00: 2H22 entered railway at Alderley Edge Up Siding, track element 77-31, on time
+08:32:00: 1V37 entered railway at Manchester Link, track element 96-9, on time
+08:32:00: 1A14 entered railway at Chester Link, track element 7-31, on time
+08:32:00: 2K32 departed from Wilmslow on time
+08:32:23: 1H82 arrived at Newton-le-Willows, 1 minute late
+08:32:27: 2A12 departed from Earlestown on time
+08:32:27: 1H61 arrived at Stockport 1 minute early
+08:32:39: 1D32 arrived at Frodsham on time
+08:32:53: 1H82 departed from Newton-le-Willows, on time
+08:33:00: 2H83 entered railway at Macclesfield Link, track element 95-34, on time
+08:33:00: 2H34 departed from Northwich on time
+08:33:06: 2A93 arrived at Sandbach 1 minute late
+08:33:09: 1D32 departed from Frodsham on time
+08:33:18: 1V37 passed Heaton Norris Jn. on time
+08:33:23: 4S43 passed Acton Bridge 2 minutes late
+08:33:36: 2A93 departed from Sandbach on time
+08:33:45: 1D71 arrived at Earlestown 3 minutes late
+08:33:58: 1E54 arrived at Frodsham on time
+08:34:00: 1W12 entered railway at Crewe Link, track element 57-33, on time
+08:34:01: 1G44 passed Acton Bridge on time
+08:34:09: 1V37 arrived at Stockport 1 minute early
+08:34:10: 1H82 passed Parkside Jn. on time
+08:34:15: 1D71 departed from Earlestown 3 minutes late
+08:34:17: 2D41 left railway at Chester Link, track element 7-32, 1 minute late
+08:34:28: 1E54 departed from Frodsham on time
+08:34:31: 2A83 arrived at Wilmslow 5 minutes early
+08:34:36: 1M06 left railway at Crewe Link, track element 57-31, 3 minutes early
+08:34:47: 2H83 arrived at Cheadle Hulme on time
+08:34:53: 2A93 left railway at Crewe Link, track element 57-34, on time
+08:35:00: 9M48 entered railway at Wigan Link, track element 41-N2, on time
+08:35:00: 1H61 departed from Stockport on time
+08:35:00: 2D42 departed from Altrincham on time
+08:35:17: 2H83 departed from Cheadle Hulme on time
+08:35:19: 1D71 passed Winwick Jn. 1 minute late
+08:35:19: 2A12 arrived at Newton-le-Willows, 1 minute late
+08:35:21: 9M25 passed Parkside Jn. on time
+08:35:27: 1G44 passed Hartford Jn. 1 minute early
+08:35:35: 4S43 passed Weaver Jn. 2 minutes late
+08:35:37: 1H61 passed Heaton Norris Jn. 1 minute early
+08:35:41: 1F11 passed Hartford Jn. on time
+08:35:49: 2A12 departed from Newton-le-Willows, on time
+08:36:15: 1D71 arrived at Warrington Bank Quay 2 minutes early
+08:36:16: 9M48 passed Golborne Jn. on time
+08:36:34: 1D32 arrived at Helsby on time
+08:36:34: No random delays selected on loading session
+08:36:34: No random failures selected on loading session
+08:36:45: 9M25 arrived at Newton-le-Willows, on time
+08:36:55: 2K32 arrived at Chelford 2 minutes early
+08:37:06: 2A12 passed Parkside Jn. on time
+08:37:19: 4S43 passed Acton Grange Jn. on time
+08:37:36: 1H61 left railway at Manchester Link, track element 95-9, 1 minute early
+08:37:48: 9M48 passed Winwick Jn. on time
+08:37:59: 4S43 passed Warrington Bank Quay 1 minute early
+08:38:00: 4M83 entered railway at Crewe Link, track element 57-33, on time
+08:38:00: 1D32 departed from Helsby on time
+08:38:00: 6H89 departed from Middlewich on time
+08:38:00: 1V37 departed from Stockport on time
+08:38:16: 2H83 arrived at Stockport on time
+08:38:37: 2H22 arrived at Wilmslow 2 minutes late
+08:38:49: 1F11 passed Acton Bridge 2 minutes late
+08:38:50: 9M48 arrived at Warrington Bank Quay 2 minutes early
+08:39:00: 2H33 became new service 5J33 at Stockport on time
+08:39:00: 9M25 departed from Newton-le-Willows, on time
+08:39:07: 2H22 departed from Wilmslow 2 minutes late
+08:39:18: 4M83 passed Sandbach on time
+08:39:24: 1E54 arrived at Runcorn East 1 minute late
+08:39:26: 4S43 passed Winwick Jn. 3 minutes early
+08:39:46: 1F11 passed Weaver Jn. 1 minute late
+08:39:54: 1E54 departed from Runcorn East on time
+08:40:00: 2K32 departed from Chelford on time
+08:40:00: 1D71 departed from Warrington Bank Quay on time
+08:40:00: 2H83 departed from Stockport on time
+08:40:10: 1H82 left railway at Manchester Link, track element 92-8, 2 minutes late
+08:40:21: 2H34 arrived at Knutsford 4 minutes early
+08:40:37: 2H83 passed Heaton Norris Jn. 1 minute early
+08:40:43: 9M25 passed Earlestown on time
+08:41:00: 1F46 entered railway at Crewe Link, track element 56-31, on time
+08:41:29: 1D32 passed Mickle Trafford Jn. 4 minutes early
+08:41:32: 4S43 passed Golborne Jn. 6 minutes early
+08:41:47: 1G44 left railway at Crewe Link, track element 57-31, on time
+08:41:56: 6H89 passed Northwich 13 minutes early
+08:42:00: 5D19 entered railway at Crewe Link, track element 55-34, on time
+08:42:00: 6E09 entered railway at Liverpool Link, track element 17-8, on time
+08:42:00: 2A83 departed from Wilmslow on time
+08:42:05: 1D71 passed Acton Grange Jn. on time
+08:42:10: 1D52 left railway at Chester Link, track element 7-32, on time
+08:42:12: 6H66 arrived at Hartford Jn. 3 minutes early
+08:42:26: 2A83 left railway at Manchester Airport Link, track element 87-26, 1 minute early
+08:42:28: 1F11 passed Halton Jn. 1 minute late
+08:42:35: 2H83 left railway at Manchester Link, track element 95-9, 1 minute early
+08:42:47: 9M25 left railway at Liverpool Link, track element 17-9, on time
+08:42:49: 1E54 passed Acton Grange Jn. 1 minute early
+08:42:51: 4S43 left railway at Wigan Link, track element 40-N2, 8 minutes early
+08:42:59: 2H22 arrived at Cheadle Hulme on time
+08:43:00: 5J33 departed from Stockport on time
+08:43:00: 9M48 departed from Warrington Bank Quay on time
+08:43:05: 6B71 passed Altrincham 6 minutes early
+08:43:06: 2D42 arrived at Knutsford 5 minutes early
+08:43:29: 2H22 departed from Cheadle Hulme on time
+08:43:39: 1F11 arrived at Runcorn on time
+08:43:43: 5J33 passed Heaton Norris Jn. 1 minute early
+08:43:44: 1D71 passed Runcorn East 2 minutes early
+08:43:46: 1E54 arrived at Warrington Bank Quay 4 minutes early
+08:44:00: 6N42 departed from Northwich Goods Loop on time
+08:44:23: 1V37 arrived at Wilmslow 1 minute early
+08:44:40: 1H17 passed Wilmslow on time
+08:44:40: 2A12 left railway at Manchester Link, track element 92-8, 1 minute late
+08:44:55: 9M48 passed Acton Grange Jn. on time
+08:44:57: 2K32 arrived at Holmes Chapel 2 minutes early
+08:45:00: 1F93 entered railway at Chester Link, track element 7-31, on time
+08:45:00: 1F11 departed from Runcorn on time
+08:45:22: 1F46 passed Hartford Jn. 1 minute early
+08:45:28: 9M48 passed Weaver Jn. 3 minutes early
+08:45:41: 5J33 left railway at Manchester Link, track element 94-9, 1 minute early
+08:46:25: 1F11 left railway at Liverpool Link, track element 17-11, on time
+08:46:31: 1D32 left railway at Chester Link, track element 7-32, 2 minutes early
+08:47:00: 2K82 entered railway at Manchester Link, track element 96-9, on time
+08:47:00: 1G45 entered railway at Liverpool Link, track element 17-10, on time
+08:47:00: 1M41 entered railway at Wigan Link, track element 41-N2, on time
+08:47:00: 2H34 departed from Knutsford on time
+08:47:01: 1D71 passed Frodsham on time
+08:47:02: 6E09 passed Earlestown 4 minutes early
+08:47:28: 2H22 arrived at Stockport on time
+08:47:29: 9M48 passed Acton Bridge 2 minutes early
+08:47:29: 1F46 arrived at Acton Bridge 1 minute early
+08:47:30: 6N42 passed Hartford CLC Jn. 4 minutes early
+08:48:00: 2K32 departed from Holmes Chapel on time
+08:48:00: 2H22 departed from Stockport on time
+08:48:19: 2K82 passed Heaton Norris Jn. 1 minute early
+08:48:19: 1F93 passed Mickle Trafford Jn. on time
+08:48:28: 1M41 passed Golborne Jn. on time
+08:48:36: 1G45 arrived at Runcorn on time
+08:48:43: 2H22 passed Heaton Norris Jn. 1 minute early
+08:48:45: 9M48 passed Hartford Jn. 2 minutes early
+08:49:00: 1E54 departed from Warrington Bank Quay on time
+08:49:00: 1V37 departed from Wilmslow on time
+08:49:04: 2K82 arrived at Stockport 2 minutes early
+08:49:12: 1D71 passed Helsby 1 minute early
+08:50:00: 2K16 entered railway at Manchester Link, track element 96-9, on time
+08:50:00: 2H43 entered railway at Crewe Link, track element 57-33, on time
+08:50:00: 2D42 departed from Knutsford on time
+08:50:00: 1F46 departed from Acton Bridge on time
+08:50:07: 1M41 passed Winwick Jn. on time
+08:50:35: 1E54 passed Winwick Jn. 2 minutes early
+08:50:41: 2H22 left railway at Manchester Link, track element 94-9, 2 minutes early
+08:51:00: 1G45 departed from Runcorn on time
+08:51:20: 1W12 arrived at Wilmslow 2 minutes late
+08:51:26: 2H43 arrived at Sandbach on time
+08:51:32: 1M41 arrived at Warrington Goods 4 minutes early
+08:51:37: 1F93 arrived at Helsby on time
+08:51:39: 1F46 passed Weaver Jn. on time
+08:51:46: 1E54 arrived at Earlestown 4 minutes early
+08:51:54: 1G45 passed Halton Jn. on time
+08:51:56: 2K16 passed Heaton Norris Jn. on time
+08:52:00: 1W12 departed from Wilmslow on time
+08:52:00: 1H17 arrived at Stockport 1 minute late
+08:52:05: 2K32 arrived at Sandbach on time
+08:52:07: 1F93 departed from Helsby on time
+08:52:36: 9M48 left railway at Crewe Link, track element 57-31, 3 minutes early
+08:52:47: 2K16 arrived at Stockport 1 minute early
+08:53:00: 1K33 entered railway at Chester Link, track element 7-31, on time
+08:53:00: 2K32 departed from Sandbach on time
+08:53:00: 1H17 departed from Stockport on time
+08:53:00: 2K82 departed from Stockport on time
+08:53:00: 2H43 departed from Sandbach on time
+08:53:33: 1D71 passed Mickle Trafford Jn. 3 minutes early
+08:53:37: 1H17 passed Heaton Norris Jn. 3 minutes early
+08:53:40: 1A14 left railway at Crewe Link, track element 55-33, on time
+08:53:48: 6E09 passed Winwick Jn. 3 minutes early
+08:53:54: 4M83 passed Wilmslow 6 minutes early
+08:54:00 HELD: 1H83 can't enter railway, train obstructing entry position Chester Link
+08:54:11: 4M83 left railway at Manchester Airport Link, track element 87-26, 7 minutes early
+08:54:17: 2K32 left railway at Crewe Link, track element 57-34, on time
+08:54:25: 1F46 passed Halton Jn. on time
+08:54:33: 2H34 arrived at Altrincham 8 minutes early
+08:54:35: 1H83 entered railway at Chester Link, track element 7-31, on time
+08:54:59: 6E09 passed Warrington Bank Quay 7 minutes early
+08:55:00: 2K16 departed from Stockport on time
+08:55:16: 1G45 passed Weaver Jn. on time
+08:55:35: 1H17 left railway at Manchester Link, track element 95-9, 3 minutes early
+08:55:36: 1F46 arrived at Runcorn 1 minute early
+08:55:56: 6N42 arrived at Acton Bridge Loop 4 minutes early
+08:56:06: 1F93 arrived at Frodsham on time
+08:56:46: 2K82 arrived at Cheadle Hulme on time
+08:56:57: 2D42 arrived at Northwich 5 minutes early
+08:57:00: 1E54 departed from Earlestown on time
+08:57:00: 1F93 departed from Frodsham on time
+08:57:19: 2H43 arrived at Holmes Chapel on time
+08:58:00: 6H66 departed from Hartford Jn. on time
+08:58:00: 1F46 departed from Runcorn on time
+08:58:00: 2K82 departed from Cheadle Hulme on time
+08:58:00: 2H43 departed from Holmes Chapel on time
+08:58:24: 1G45 arrived at Acton Bridge on time
+08:58:27: 1W12 arrived at Stockport 1 minute early
+08:58:38: 2K16 arrived at Cheadle Hulme on time
+08:58:46: 1V37 left railway at Crewe Link, track element 57-34, 5 minutes early
+08:58:52: 6E09 passed Acton Grange Jn. 5 minutes early
+08:59:00: 1D33 entered railway at Manchester Link, track element 92-9, on time
+08:59:00: 1A16 entered railway at Liverpool Link, track element 17-10, on time
+08:59:00: 3S71 entered railway at Crewe Link, track element 55-34, on time
+08:59:23: 1E54 arrived at Newton-le-Willows, 1 minute late
+08:59:25: 1F46 left railway at Liverpool Link, track element 17-11, on time
+08:59:39: 1H83 passed Mickle Trafford Jn. 2 minutes late
+08:59:53: 1E54 departed from Newton-le-Willows, on time
+09:00:00: 1A17 entered railway at Manchester Link, track element 96-9, on time
+09:00:00: 2H35 entered railway at Chester Link, track element 7-31, on time
+09:00:00: 3S09 entered railway at Rochdale Link, track element 101-10, on time
+09:00:00: 1G45 departed from Acton Bridge on time
+09:00:00: 2K16 departed from Cheadle Hulme on time
+09:00:04: 1F93 passed Halton Jn. on time
+09:00:36: 1A16 arrived at Runcorn on time
+09:00:37: 2K16 left railway at Macclesfield Link, track element 96-34, on time
+09:01:09: 6H66 passed Hartford CLC Jn. on time
+09:01:10: 1E54 passed Parkside Jn. on time
+09:01:18: 1A17 passed Heaton Norris Jn. on time
+09:01:19: 1F93 arrived at Runcorn on time
+09:01:59: 2K82 arrived at Wilmslow 1 minute early
+09:02:00: 1S42 entered railway at Crewe Link, track element 56-31, on time
+09:02:00: 4H67 entered railway at Crewe Link, track element 57-33, on time
+09:02:00: 1W12 departed from Stockport on time
+09:02:02: 1D71 left railway at Chester Link, track element 7-32, 2 minutes late
+09:02:09: 1A17 arrived at Stockport 1 minute early
+09:02:33: 1G45 passed Hartford Jn. on time
+09:02:43: 1W12 passed Heaton Norris Jn. 1 minute early
+09:02:47: 3S09 passed Stockport 7 minutes early
+09:02:57: 1H83 arrived at Helsby 1 minute late
+09:03:00: 2D42 departed from Northwich on time
+09:03:00: 1F93 departed from Runcorn on time
+09:03:00: 1A16 departed from Runcorn on time
+09:03:05: 4H67 passed Sandbach on time
+09:03:27: 1H83 departed from Helsby 1 minute late
+09:03:33: 3S09 passed Edgeley Jn. No. 2 9 minutes early
+09:03:46: 2H43 arrived at Chelford 1 minute early
+09:04:00: 2H34 departed from Altrincham on time
+09:04:00: 2K82 departed from Wilmslow on time
+09:04:24: 1F93 left railway at Liverpool Link, track element 17-11, on time
+09:04:31: 1A16 passed Halton Jn. on time
+09:04:41: 1W12 left railway at Manchester Link, track element 94-9, 1 minute early
+09:04:47: 2H35 passed Mickle Trafford Jn. 2 minutes late
+09:04:56: 1D33 passed Parkside Jn. on time
+09:05:00: 1A17 departed from Stockport on time
+09:05:17: 2D42 passed Northwich West Jn. 4 minutes early
+09:05:31: 5D19 left railway at Chester Link, track element 7-32, 1 minute late
+09:06:00: 1D03 entered railway at Liverpool Link, track element 17-10, on time
+09:06:00: 2H43 departed from Chelford on time
+09:06:21: 1S42 passed Hartford Jn. on time
+09:06:26: 1D33 arrived at Newton-le-Willows, on time
+09:06:27: 6H66 passed Northwich 1 minute early
+09:06:39: 1G45 left railway at Crewe Link, track element 57-31, on time
+09:07:00: 1D33 departed from Newton-le-Willows, on time
+09:07:02: 2K82 left railway at Alderley Edge Up Siding, track element 77-31, on time
+09:07:10: 1E54 left railway at Manchester Link, track element 92-8, 2 minutes late
+09:07:26: 1H83 arrived at Frodsham 2 minutes late
+09:07:38: 1D03 arrived at Runcorn on time
+09:07:39: 1S42 passed Acton Bridge on time
+09:07:56: 1H83 departed from Frodsham 1 minute late
+09:08:00: 1P19 entered railway at Liverpool Link, track element 17-8, on time
+09:08:00: 2A94 entered railway at Manchester Airport Link, track element 87-27, on time
+09:08:00: 1F47 entered railway at Crewe Link, track element 56-31, on time
+09:08:18: 6B71 passed Northwich 9 minutes early
+09:08:39: 2D42 arrived at Cuddington 4 minutes early
+09:08:49: 2A94 arrived at Wilmslow on time
+09:09:00: 1D03 departed from Runcorn on time
+09:09:15: 1D33 arrived at Earlestown on time
+09:09:20: 6E09 passed Hartford Jn. 9 minutes early
+09:09:28: 1A16 passed Weaver Jn. 1 minute late
+09:09:46: 2H35 arrived at Mouldsworth 2 minutes late
+09:09:52: 6H89 passed Altrincham 7 minutes early
+09:10:00: 2F25 entered railway at Manchester Link, track element 92-9, on time
+09:10:00: 1H62 entered railway at Crewe Link, track element 57-33, on time
+09:10:00: 1D33 departed from Earlestown on time
+09:10:00: 1D03 passed Halton Jn. on time
+09:10:16: 2H35 departed from Mouldsworth 1 minute late
+09:10:26: 1P19 passed Earlestown on time
+09:10:53: 2H43 arrived at Wilmslow 2 minutes early
+09:11:00: 1D33 passed Winwick Jn. 2 minutes early
+09:11:22: 1A17 arrived at Wilmslow 1 minute early
+09:11:47: 1S42 passed Weaver Jn. 1 minute late
+09:11:56: 1D33 arrived at Warrington Bank Quay 8 minutes early
+09:11:58: 1A16 passed Acton Bridge 1 minute late
+09:12:12: 1P19 arrived at Newton-le-Willows, on time
+09:12:23: 6E09 arrived at Hartford CLC Jn. 13 minutes early
+09:12:51: 1H83 arrived at Runcorn East 2 minutes late
+09:13:00: 1P19 departed from Newton-le-Willows, on time
+09:13:05: 1F47 passed Hartford Jn. on time
+09:13:09: 1S42 passed Acton Grange Jn. 1 minute late
+09:13:21: 1H83 departed from Runcorn East 2 minutes late
+09:13:22: 1K33 left railway at Crewe Link, track element 55-33, on time
+09:13:35: 1A16 passed Hartford Jn. 2 minutes late
+09:13:44: 1D03 arrived at Frodsham on time
+09:13:44: 3S09 passed Altrincham 12 minutes early
+09:14:00: 9S44 entered railway at Crewe Link, track element 56-31, on time
+09:14:00: 2D42 departed from Cuddington on time
+09:14:00: 2H43 departed from Wilmslow on time
+09:14:00: 1A17 departed from Wilmslow on time
+09:14:00: 1S42 arrived at Warrington Bank Quay on time
+09:14:11: 2H35 arrived at Delamere on time
+09:14:14: 1D03 departed from Frodsham on time
+09:14:16: 1P19 passed Parkside Jn. on time
+09:15:00: 2H35 departed from Delamere on time
+09:15:02: 2K33 entered railway at Manchester Link, track element 96-9, on time
+09:15:21: 1F47 passed Acton Bridge on time
+09:15:40: 2H34 arrived at Stockport 4 minutes early
+09:16:00: 1S42 departed from Warrington Bank Quay on time
+09:16:09: 2F25 passed Parkside Jn. on time
+09:16:24: 1H83 passed Acton Grange Jn. on time
+09:16:58: 2K33 passed Heaton Norris Jn. on time
+09:17:00: 2D43 entered railway at Manchester Link, track element 96-9, on time
+09:17:00: 2A94 departed from Wilmslow on time
+09:17:01: 1F47 passed Weaver Jn. on time
+09:17:21: 1H83 arrived at Warrington Bank Quay 2 minutes early
+09:17:26: 1S42 passed Winwick Jn. 1 minute early
+09:17:29: 1A16 left railway at Crewe Link, track element 57-31, 1 minute late
+09:17:33: 2F25 arrived at Newton-le-Willows, on time
+09:17:39: 1D03 arrived at Helsby 1 minute late
+09:17:43: 2K33 arrived at Stockport on time
+09:17:52: 2H43 arrived at Cheadle Hulme 3 minutes early
+09:18:00: 1M07 entered railway at Wigan Link, track element 41-N2, on time
+09:18:00: 2D42 arrived at Delamere on time
+09:18:09: 1D03 departed from Helsby 1 minute late
+09:18:56: 2D43 passed Heaton Norris Jn. on time
+09:18:57: 1S42 passed Golborne Jn. 1 minute early
+09:18:58: 6H66 passed Altrincham 7 minutes early
+09:19:00: 2D42 departed from Delamere on time
+09:19:00: 2F25 departed from Newton-le-Willows, on time
+09:19:00: 2K33 departed from Stockport on time
+09:19:00: 2H35 arrived at Cuddington on time
+09:19:16: 1M07 passed Golborne Jn. on time
+09:19:24: 6H89 left railway at Chinley Link, track element 92-21, 5 minutes early
+09:19:47: 2D43 arrived at Stockport on time
+09:19:49: 1S42 left railway at Wigan Link, track element 40-N2, 2 minutes early
+09:20:00: 2A84 entered railway at Crewe Link, track element 57-33, on time
+09:20:00: 1A19 entered railway at Chester Link, track element 7-31, on time
+09:20:00: 2H35 departed from Cuddington on time
+09:20:10: 3S71 left railway at Chester Link, track element 7-32, 1 minute early
+09:20:16: 1P19 left railway at Manchester Link, track element 92-8, on time
+09:20:25: 9S44 passed Hartford Jn. 1 minute late
+09:20:44: 1M07 passed Winwick Jn. on time
+09:21:00: 1D72 entered railway at Manchester Link, track element 92-9, on time
+09:21:00: 2H34 departed from Stockport on time
+09:21:00: 1H83 departed from Warrington Bank Quay on time
+09:21:00: 1D33 departed from Warrington Bank Quay on time
+09:21:13: 1F47 passed Halton Jn. 1 minute late
+09:21:26: 2A84 arrived at Sandbach on time
+09:21:27: 2F25 arrived at Earlestown on time
+09:21:43: 2H34 passed Heaton Norris Jn. 1 minute early
+09:21:46: 1M07 arrived at Warrington Bank Quay 1 minute early
+09:21:57: 9S44 passed Acton Bridge 1 minute late
+09:22:00: 1D53 entered railway at Crewe Link, track element 55-34, on time
+09:22:00: 1G46 entered railway at Liverpool Link, track element 17-10, on time
+09:22:00: 2H43 departed from Cheadle Hulme on time
+09:22:00: 2F25 departed from Earlestown on time
+09:22:00: 2D43 departed from Stockport on time
+09:22:18: 2H35 passed Hartford CLC Jn. on time
+09:22:24: 1F47 arrived at Runcorn on time
+09:22:35: 1H83 passed Winwick Jn. 2 minutes early
+09:22:43: 1D03 passed Mickle Trafford Jn. on time
+09:22:51: 2K33 arrived at Cheadle Hulme on time
+09:23:00: 2A84 departed from Sandbach on time
+09:23:00: 2D42 arrived at Mouldsworth on time
+09:23:08: 1D33 passed Acton Grange Jn. 1 minute early
+09:23:36: 1G46 arrived at Runcorn on time
+09:23:41: 2H34 left railway at Manchester Link, track element 94-9, 1 minute early
+09:23:46: 1H83 arrived at Earlestown 4 minutes early
+09:23:46: 1A17 left railway at Crewe Link, track element 57-34, 5 minutes early
+09:24:00: 1F47 departed from Runcorn on time
+09:24:00: 2K33 departed from Cheadle Hulme on time
+09:24:01: 9S44 passed Weaver Jn. 2 minutes late
+09:24:28: 4H67 passed Wilmslow 4 minutes late
+09:24:48: 2F25 left railway at Liverpool Link, track element 17-9, on time
+09:25:00: 4M95 entered railway at Crewe Link, track element 57-33, on time
+09:25:00: 2D42 departed from Mouldsworth on time
+09:25:00: 1M07 departed from Warrington Bank Quay on time
+09:25:25: 1F47 left railway at Liverpool Link, track element 17-11, on time
+09:25:36: 1D33 arrived at Runcorn East 2 minutes early
+09:25:39: 2H43 arrived at Stockport on time
+09:26:00: 1G46 departed from Runcorn on time
+09:26:15: 6H66 left railway at Chinley Link, track element 92-21, 38 minutes early
+09:26:17: 4M95 passed Sandbach on time
+09:26:41: 9S44 passed Acton Grange Jn. 2 minutes late
+09:26:46: 2H35 arrived at Northwich 2 minutes early
+09:26:54: 1G46 passed Halton Jn. on time
+09:26:56: 1D72 passed Parkside Jn. 1 minute late
+09:27:00: 2H43 departed from Stockport on time
+09:27:02: 1M07 passed Acton Grange Jn. on time
+09:27:06: 3S09 passed Northwich 22 minutes early
+09:27:20: 2A84 arrived at Holmes Chapel on time
+09:27:29: 9S44 arrived at Warrington Bank Quay 1 minute late
+09:27:35: 1M07 passed Weaver Jn. 3 minutes early
+09:27:43: 2H43 passed Heaton Norris Jn. on time
+09:27:59: 2K33 arrived at Wilmslow 3 minutes early
+09:28:00: 6E09 departed from Hartford CLC Jn. on time
+09:28:00: 9S44 departed from Warrington Bank Quay on time
+09:28:00: 2A84 departed from Holmes Chapel on time
+09:28:08: 2A94 arrived at Holmes Chapel on time
+09:28:26: 1D72 arrived at Newton-le-Willows, 2 minutes late
+09:28:56: 1D72 departed from Newton-le-Willows, 1 minute late
+09:29:00: 9M26 entered railway at Manchester Link, track element 92-9, on time
+09:29:00: 2A13 entered railway at Liverpool Link, track element 17-8, on time
+09:29:00: 1F12 entered railway at Crewe Link, track element 56-31, on time
+09:29:00: 1A99 entered railway at Liverpool Link, track element 17-10, on time
+09:29:00: 1H83 departed from Earlestown on time
+09:29:00: 1D33 departed from Runcorn East on time
+09:29:00: 2A94 departed from Holmes Chapel on time
+09:29:35: 1M07 passed Acton Bridge 2 minutes early
+09:29:37: 1D03 left railway at Chester Link, track element 7-32, 2 minutes late
+09:29:39: 9S44 passed Winwick Jn. 1 minute early
+09:29:41: 2H43 left railway at Manchester Link, track element 94-9, 1 minute early
+09:30:00: 1E56 entered railway at Chester Link, track element 7-31, on time
+09:30:00: 2H35 departed from Northwich on time
+09:30:01: 3S09 passed Northwich West Jn. 23 minutes early
+09:30:24: 1H62 arrived at Wilmslow 5 minutes late
+09:30:36: 1A99 arrived at Runcorn on time
+09:30:51: 2D42 passed Mickle Trafford Jn. on time
+09:30:52: 1M07 passed Hartford Jn. 2 minutes early
+09:30:54: 1H62 departed from Wilmslow 4 minutes late
+09:31:09: 9S44 passed Golborne Jn. on time
+09:31:23: 1H83 arrived at Newton-le-Willows, 1 minute late
+09:31:39: 4H67 passed Edgeley Jn. No. 2 7 minutes early
+09:31:45: 1G46 passed Weaver Jn. 2 minutes early
+09:31:53: 1H83 departed from Newton-le-Willows, on time
+09:31:57: 2A13 arrived at Earlestown on time
+09:32:00: 2H23 entered railway at Alderley Edge Up Siding, track element 77-31, on time
+09:32:00: 1V38 entered railway at Manchester Link, track element 96-9, on time
+09:32:00: 2K33 departed from Wilmslow on time
+09:32:02: 9S44 left railway at Wigan Link, track element 40-N2, 1 minute early
+09:32:27: 2A13 departed from Earlestown on time
+09:32:36: 4H67 passed Stockport 6 minutes early
+09:32:53: 1D72 arrived at Earlestown 3 minutes late
+09:33:00: 1A99 departed from Runcorn on time
+09:33:02: 2H84 entered railway at Macclesfield Link, track element 95-34, on time
+09:33:05: 2A94 arrived at Sandbach 1 minute late
+09:33:09: 4H67 passed Heaton Norris Jn. 10 minutes early
+09:33:10: 1H83 passed Parkside Jn. on time
+09:33:18: 1V38 passed Heaton Norris Jn. on time
+09:33:19: 1E56 passed Mickle Trafford Jn. on time
+09:33:23: 1D72 departed from Earlestown 3 minutes late
+09:33:35: 2A94 departed from Sandbach on time
+09:33:39: 1D33 arrived at Frodsham on time
+09:33:51: 6B71 passed Sandbach North Jn. 17 minutes early
+09:33:54: 1A99 passed Halton Jn. on time
+09:34:00: 1W13 entered railway at Crewe Link, track element 57-33, on time
+09:34:01: 6E09 arrived at Northwich Goods Loop 2 minutes early
+09:34:02: 2D43 arrived at Altrincham 3 minutes early
+09:34:04: 1V38 arrived at Stockport 1 minute early
+09:34:05: 1F12 passed Hartford Jn. on time
+09:34:09: 1D33 departed from Frodsham on time
+09:34:23: 1D72 passed Winwick Jn. on time
+09:34:31: 2A84 arrived at Wilmslow 5 minutes early
+09:34:43: 1M07 left railway at Crewe Link, track element 57-31, 3 minutes early
+09:34:48: 2A13 arrived at Newton-le-Willows, on time
+09:34:50: 2H84 arrived at Cheadle Hulme on time
+09:34:53: 2A94 left railway at Crewe Link, track element 57-34, on time
+09:35:08: 4H67 left railway at Manchester Link, track element 94-9, 12 minutes early
+09:35:18: 2A13 departed from Newton-le-Willows, on time
+09:35:20: 1D72 arrived at Warrington Bank Quay 2 minutes early
+09:35:20: 2H84 departed from Cheadle Hulme on time
+09:35:20: 9M26 passed Parkside Jn. on time
+09:35:27: 1F12 passed Acton Bridge on time
+09:35:30: 2D42 left railway at Chester Link, track element 7-32, 2 minutes late
+09:35:43: 1G46 passed Acton Bridge on time
+09:36:14: 1E56 passed Helsby on time
+09:36:20: 1F12 passed Weaver Jn. 1 minute early
+09:36:35: 2A13 passed Parkside Jn. on time
+09:36:44: 9M26 arrived at Newton-le-Willows, on time
+09:36:55: 2K33 arrived at Chelford 2 minutes early
+09:37:18: 1G46 passed Hartford Jn. on time
+09:37:21: 2H35 arrived at Knutsford 4 minutes early
+09:37:31: 1A99 passed Weaver Jn. on time
+09:37:34: 1D33 arrived at Helsby on time
+09:38:00: 1V38 departed from Stockport on time
+09:38:02: 6B71 left railway at Crewe Link, track element 57-34, 23 minutes early
+09:38:04: 1D33 departed from Helsby on time
+09:38:19: 2H84 arrived at Stockport on time
+09:38:36: 2H23 arrived at Wilmslow 2 minutes late
+09:38:54: 1E56 passed Frodsham 2 minutes early
+09:39:00: 2D43 departed from Altrincham on time
+09:39:00: 1D72 departed from Warrington Bank Quay on time
+09:39:00: 9M26 departed from Newton-le-Willows, on time
+09:39:01: 1F12 passed Halton Jn. 1 minute early
+09:39:06: 2H23 departed from Wilmslow 2 minutes late
+09:39:09: 1H83 left railway at Manchester Link, track element 92-8, 2 minutes late
+09:39:20: 3S09 passed Mouldsworth 31 minutes early
+09:40:00: 2K33 departed from Chelford on time
+09:40:00: 2H84 departed from Stockport on time
+09:40:13: 1F12 arrived at Runcorn 2 minutes early
+09:40:30: 1A19 left railway at Crewe Link, track element 55-33, on time
+09:40:37: 2H84 passed Heaton Norris Jn. 1 minute early
+09:40:43: 1H62 arrived at Stockport 6 minutes late
+09:40:43: 9M26 passed Earlestown on time
+09:41:00: 1F48 entered railway at Crewe Link, track element 56-31, on time
+09:41:00: 6N42 departed from Acton Bridge Loop on time
+09:41:00: 1M41 departed from Warrington Goods on time
+09:41:05: 1D72 passed Acton Grange Jn. 1 minute early
+09:41:11: 1G46 left railway at Crewe Link, track element 57-31, on time
+09:41:13: 1H62 departed from Stockport 6 minutes late
+09:41:35: 1A99 passed Acton Bridge 1 minute late
+09:41:56: 1H62 passed Heaton Norris Jn. 4 minutes late
+09:42:00: 4O73 created at track element 23-8, on time
+09:42:00: 2A84 departed from Wilmslow on time
+09:42:02: 1D53 left railway at Chester Link, track element 7-32, on time
+09:42:26: 2A84 left railway at Manchester Airport Link, track element 87-26, 1 minute early
+09:42:28: 1E56 passed Runcorn East on time
+09:42:35: 2H84 left railway at Manchester Link, track element 95-9, 1 minute early
+09:42:44: 1D72 passed Runcorn East 2 minutes early
+09:42:47: 9M26 left railway at Liverpool Link, track element 17-9, on time
+09:43:09: 1A99 passed Hartford Jn. 2 minutes late
+09:43:10: 2H23 arrived at Cheadle Hulme 1 minute late
+09:43:34: 4M95 passed Wilmslow 3 minutes early
+09:43:40: 2H23 departed from Cheadle Hulme on time
+09:43:48: 1M41 passed Acton Grange Jn. 5 minutes early
+09:43:51: 4M95 left railway at Manchester Airport Link, track element 87-26, 5 minutes early
+09:43:54: 1H62 left railway at Manchester Link, track element 94-9, 4 minutes late
+09:44:00: 2H35 departed from Knutsford on time
+09:44:09: 2A13 left railway at Manchester Link, track element 92-8, 1 minute late
+09:44:17: 1V38 arrived at Wilmslow 1 minute early
+09:44:25: 3S09 passed Mickle Trafford Jn. 32 minutes early
+09:44:42: 1E56 passed Acton Grange Jn. 1 minute early
+09:44:57: 2K33 arrived at Holmes Chapel 2 minutes early
+09:45:00: 1F94 entered railway at Chester Link, track element 7-31, on time
+09:45:00: 1F12 departed from Runcorn on time
+09:45:11: 4O73 passed Earlestown 4 minutes early
+09:45:41: 1E56 arrived at Warrington Bank Quay 4 minutes early
+09:46:00: 6E09 departed from Northwich Goods Loop on time
+09:46:09: 1F48 passed Hartford Jn. on time
+09:46:25: 1F12 left railway at Liverpool Link, track element 17-11, on time
+09:46:25: 4O73 passed Winwick Jn. 8 minutes early
+09:46:51: 1D72 passed Frodsham on time
+09:47:00: 2K83 entered railway at Manchester Link, track element 96-9, on time
+09:47:00: 1G47 entered railway at Liverpool Link, track element 17-10, on time
+09:47:02: 1A99 left railway at Crewe Link, track element 57-31, 1 minute late
+09:47:06: 2D43 arrived at Knutsford 5 minutes early
+09:47:38: 4O73 arrived at Warrington Bank Quay 11 minutes early
+09:47:38: 2H23 arrived at Stockport on time
+09:47:49: 1D33 passed Mickle Trafford Jn. 2 minutes late
+09:48:00: 4O21 entered railway at Manchester Airport Link, track element 87-27, on time
+09:48:00: 2K33 departed from Holmes Chapel on time
+09:48:08: 2H23 departed from Stockport on time
+09:48:18: 2K83 passed Heaton Norris Jn. 1 minute early
+09:48:19: 1F94 passed Mickle Trafford Jn. on time
+09:48:36: 1G47 arrived at Runcorn on time
+09:48:45: 1M41 passed Hartford Jn. 7 minutes early
+09:48:46: 2H23 passed Heaton Norris Jn. 1 minute early
+09:48:52: 1F48 arrived at Acton Bridge on time
+09:49:00: 1V38 departed from Wilmslow on time
+09:49:01: 6N42 passed Acton Grange Jn. 7 minutes early
+09:49:04: 2K83 arrived at Stockport 2 minutes early
+09:49:06: 3S09 left railway at Chester Link, track element 7-32, 30 minutes early
+09:49:09: 4O21 arrived at Wilmslow on time
+09:49:35: 1D72 passed Helsby 1 minute early
+09:50:00: 2K18 entered railway at Manchester Link, track element 96-9, on time
+09:50:00: 2H44 entered railway at Crewe Link, track element 57-33, on time
+09:50:00: 1F48 departed from Acton Bridge on time
+09:50:26: 6N42 arrived at Warrington Goods 13 minutes early
+09:50:44: 2H23 left railway at Manchester Link, track element 95-9, 2 minutes early
+09:51:00: 5D41 entered railway at Crewe Link, track element 55-34, on time
+09:51:00: 1E56 departed from Warrington Bank Quay on time
+09:51:00: 1G47 departed from Runcorn on time
+09:51:19: 2K18 passed Heaton Norris Jn. on time
+09:51:26: 2H44 arrived at Sandbach on time
+09:51:33: 2H35 arrived at Altrincham 8 minutes early
+09:51:37: 1F94 arrived at Helsby on time
+09:51:39: 1F48 passed Weaver Jn. on time
+09:51:55: 1G47 passed Halton Jn. on time
+09:52:05: 2K33 arrived at Sandbach on time
+09:52:07: 1F94 departed from Helsby on time
+09:52:09: 2K18 arrived at Stockport 1 minute early
+09:52:14: 1D72 passed Mickle Trafford Jn. 4 minutes early
+09:52:35: 1E56 passed Winwick Jn. 2 minutes early
+09:52:50: 1D33 left railway at Chester Link, track element 7-32, 4 minutes late
+09:53:00: 2K33 departed from Sandbach on time
+09:53:00: 2K83 departed from Stockport on time
+09:53:00: 2H44 departed from Sandbach on time
+09:53:03: 1W13 arrived at Wilmslow 4 minutes late
+09:53:32: 1M41 left railway at Crewe Link, track element 57-31, 9 minutes early
+09:53:33: 1W13 departed from Wilmslow 1 minute late
+09:53:46: 1E56 arrived at Earlestown 4 minutes early
+09:54:00: 1H84 entered railway at Chester Link, track element 7-31, on time
+09:54:00: 2D43 departed from Knutsford on time
+09:54:00: 4O21 departed from Wilmslow on time
+09:54:17: 2K33 left railway at Crewe Link, track element 57-34, on time
+09:54:25: 1F48 passed Halton Jn. on time
+09:55:00 HELD: 1K07 can't enter railway, train obstructing entry position Chester Link
+09:55:00: 2K18 departed from Stockport on time
+09:55:16: 1G47 passed Weaver Jn. on time
+09:55:36: 1F48 arrived at Runcorn 1 minute early
+09:55:37: 1K07 entered railway at Chester Link, track element 7-31, on time
+09:56:00: 3P90 entered railway at Crewe Link, track element 56-31, on time
+09:56:06: 1F94 arrived at Frodsham on time
+09:56:46: 2K83 arrived at Cheadle Hulme on time
+09:56:55: 1D72 left railway at Chester Link, track element 7-32, 3 minutes early
+09:57:00: 6F33 entered railway at Rochdale Link, track element 101-10, on time
+09:57:00: 1F94 departed from Frodsham on time
+09:57:20: 1H84 passed Mickle Trafford Jn. on time
+09:57:20: 2H44 arrived at Holmes Chapel on time
+09:58:00: 1D34 entered railway at Manchester Link, track element 92-9, on time
+09:58:00: 1F48 departed from Runcorn on time
+09:58:00: 2K83 departed from Cheadle Hulme on time
+09:58:00: 2H44 departed from Holmes Chapel on time
+09:58:24: 1G47 arrived at Acton Bridge on time
+09:58:35: 2K18 arrived at Cheadle Hulme on time
+09:59:00: 1A22 entered railway at Liverpool Link, track element 17-10, on time
+09:59:00: 1E56 departed from Earlestown on time
+09:59:08: 1V38 left railway at Crewe Link, track element 57-34, 4 minutes early
+09:59:25: 1F48 left railway at Liverpool Link, track element 17-11, on time
+09:59:32: 1W13 arrived at Stockport on time
+10:00:00: 1A23 entered railway at Manchester Link, track element 96-9, on time
+10:00:00: 2H36 entered railway at Chester Link, track element 7-31, on time
+10:00:00: 6V84 entered railway at Wigan Link, track element 41-N2, on time
+10:00:00: 1G47 departed from Acton Bridge on time
+10:00:00: 2K18 departed from Cheadle Hulme on time
+10:00:04: 1F94 passed Halton Jn. on time
+10:00:36: 1A22 arrived at Runcorn on time
+10:00:37: 2K18 left railway at Macclesfield Link, track element 96-34, on time
+10:00:37: 3P90 passed Hartford Jn. on time
+10:00:38: 1H84 arrived at Helsby on time
+10:00:57: 2D43 arrived at Northwich 5 minutes early
+10:00:58: 6F33 passed Stockport 6 minutes early
+10:01:00: 2H35 departed from Altrincham on time
+10:01:00: 4O73 departed from Warrington Bank Quay on time
+10:01:20: 1F94 arrived at Runcorn on time
+10:01:23: 1E56 arrived at Newton-le-Willows, on time
+10:01:55: 3P90 passed Acton Bridge on time
+10:01:59: 2K83 arrived at Wilmslow 1 minute early
+10:02:00: 1S45 entered railway at Crewe Link, track element 56-31, on time
+10:02:00: 1E56 departed from Newton-le-Willows, on time
+10:02:00: 1W13 departed from Stockport on time
+10:02:00: 1H84 departed from Helsby on time
+10:02:04: 1A23 passed Heaton Norris Jn. on time
+10:02:33: 1G47 passed Hartford Jn. on time
+10:02:43: 1W13 passed Heaton Norris Jn. 1 minute early
+10:02:49: 1A23 arrived at Stockport 1 minute early
+10:02:50: 6F33 passed Edgeley Jn. No. 2 7 minutes early
+10:03:00: 1F94 departed from Runcorn on time
+10:03:00: 1A22 departed from Runcorn on time
+10:03:16: 1E56 passed Parkside Jn. on time
+10:03:23: 6V84 passed Golborne Jn. 1 minute late
+10:03:29: 2H44 arrived at Chelford 1 minute early
+10:03:33: 4O73 passed Acton Grange Jn. 2 minutes early
+10:03:54: 1A22 passed Halton Jn. on time
+10:03:56: 1D34 passed Parkside Jn. on time
+10:04:00: 2K83 departed from Wilmslow on time
+10:04:24: 1F94 left railway at Liverpool Link, track element 17-11, on time
+10:04:34: 4O73 passed Weaver Jn. 8 minutes early
+10:04:41: 1W13 left railway at Manchester Link, track element 94-9, 1 minute early
+10:04:47: 2H36 passed Mickle Trafford Jn. 2 minutes late
+10:04:49: 3P90 passed Weaver Jn. on time
+10:05:00: 1D43 entered railway at Crewe Link, track element 55-34, on time
+10:05:00: 1A23 departed from Stockport on time
+10:05:26: 1D34 arrived at Newton-le-Willows, on time
+10:05:30: 6V84 passed Winwick Jn. on time
+10:05:58: 1H84 arrived at Frodsham on time
+10:06:00: 6N42 departed from Warrington Goods on time
+10:06:00: 2H44 departed from Chelford on time
+10:06:00: 1D34 departed from Newton-le-Willows, on time
+10:06:02: 1D04 entered railway at Liverpool Link, track element 17-10, on time
+10:06:11: 3P90 passed Acton Grange Jn. on time
+10:06:28: 1H84 departed from Frodsham on time
+10:06:31: 6V84 passed Warrington Bank Quay 1 minute early
+10:06:39: 1G47 left railway at Crewe Link, track element 57-31, on time
+10:06:53: 4O21 passed Sandbach 6 minutes early
+10:06:58: 6N42 passed Dallam Jn. 1 minute early
+10:07:00: 2D43 departed from Northwich on time
+10:07:02: 2K83 left railway at Alderley Edge Up Siding, track element 77-31, on time
+10:07:02: 3P90 arrived at Warrington Bank Quay 2 minutes early
+10:07:28: 6E09 passed Altrincham 1 minute early
+10:07:41: 1D04 arrived at Runcorn on time
+10:07:51: 4O21 left railway at Crewe Link, track element 57-34, 7 minutes early
+10:08:00: 1P21 entered railway at Liverpool Link, track element 17-8, on time
+10:08:00: 2A95 entered railway at Manchester Airport Link, track element 87-27, on time
+10:08:00: 1F49 entered railway at Crewe Link, track element 56-31, on time
+10:08:15: 1D34 arrived at Earlestown on time
+10:08:24: 1S45 passed Hartford Jn. 1 minute late
+10:08:37: 4O73 passed Acton Bridge 6 minutes early
+10:08:49: 2A95 arrived at Wilmslow on time
+10:09:00: 4M27 entered railway at Wigan Link, track element 41-N2, on time
+10:09:00: 1D34 departed from Earlestown on time
+10:09:00: 1D04 departed from Runcorn on time
+10:09:03: 1A22 passed Weaver Jn. 1 minute late
+10:09:16: 1E56 left railway at Manchester Link, track element 92-8, 2 minutes late
+10:09:17: 2D43 passed Northwich West Jn. 4 minutes early
+10:09:46: 2H36 arrived at Mouldsworth 2 minutes late
+10:09:46: 6V84 passed Acton Grange Jn. on time
+10:09:56: 6N42 passed Golborne Jn. 5 minutes early
+10:10:00: 2F29 entered railway at Manchester Link, track element 92-9, on time
+10:10:00: 1H63 entered railway at Crewe Link, track element 57-33, on time
+10:10:02: 1S45 passed Acton Bridge 2 minutes late
+10:10:16: 2H36 departed from Mouldsworth 1 minute late
+10:10:42: 1D34 passed Winwick Jn. 1 minute early
+10:10:53: 2H44 arrived at Wilmslow 2 minutes early
+10:10:59: 1D04 passed Halton Jn. on time
+10:11:18: 1A22 passed Acton Bridge 1 minute late
+10:11:23: 1H84 arrived at Runcorn East 1 minute late
+10:11:40: 2H35 arrived at Stockport 5 minutes early
+10:11:45: 1D34 arrived at Warrington Bank Quay 4 minutes early
+10:11:54: 1H84 departed from Runcorn East on time
+10:11:54: 1P21 passed Earlestown 1 minute late
+10:11:56: 4O73 arrived at Hartford Jn. 6 minutes early
+10:12:10: 5D41 left railway at Chester Link, track element 7-32, 4 minutes early
+10:12:11: 6N42 left railway at Wigan Link, track element 38-N2, 7 minutes early
+10:12:16: 4M27 passed Golborne Jn. 1 minute late
+10:12:37: 1A22 passed Hartford Jn. 1 minute late
+10:12:39: 2D43 arrived at Cuddington 4 minutes early
+10:12:45: 1A23 arrived at Wilmslow on time
+10:13:00: 9P47 entered railway at Crewe Link, track element 56-31, on time
+10:13:00: 6G92 entered railway at Chinley Link, track element 92-21, on time
+10:13:03: 6F33 passed Altrincham 15 minutes early
+10:13:03: 1S45 passed Weaver Jn. 3 minutes late
+10:13:19: 1F49 passed Hartford Jn. on time
+10:13:38: 1P21 arrived at Newton-le-Willows, 1 minute late
+10:14:00: 2H44 departed from Wilmslow on time
+10:14:00: 1A23 departed from Wilmslow on time
+10:14:08: 1P21 departed from Newton-le-Willows, 1 minute late
+10:14:11: 2H36 arrived at Delamere on time
+10:14:39: 1S45 passed Acton Grange Jn. 2 minutes late
+10:15:00: 2K34 entered railway at Manchester Link, track element 96-9, on time
+10:15:00: 2H36 departed from Delamere on time
+10:15:00: 1D04 arrived at Frodsham 2 minutes late
+10:15:25: 1P21 passed Parkside Jn. 1 minute late
+10:15:30: 1D04 departed from Frodsham 1 minute late
+10:15:31: 4M27 passed Winwick Jn. on time
+10:15:36: 1S45 arrived at Warrington Bank Quay 1 minute late
+10:15:56: 2F29 passed Parkside Jn. on time
+10:16:04: 4M27 passed Dallam Jn. 3 minutes early
+10:16:06: 1S45 departed from Warrington Bank Quay on time
+10:16:19: 2K34 passed Heaton Norris Jn. on time
+10:16:28: 1A22 left railway at Crewe Link, track element 57-31, on time
+10:16:31: 1F49 passed Acton Bridge 1 minute late
+10:16:55: 4M27 arrived at Warrington Goods 6 minutes early
+10:17:00: 2D44 entered railway at Manchester Link, track element 96-9, on time
+10:17:00: 1D34 departed from Warrington Bank Quay on time
+10:17:00: 2A95 departed from Wilmslow on time
+10:17:04: 2K34 arrived at Stockport on time
+10:17:19: 1K07 left railway at Crewe Link, track element 55-33, 1 minute late
+10:17:25: 1H84 passed Acton Grange Jn. 1 minute late
+10:17:26: 2F29 arrived at Newton-le-Willows, on time
+10:17:29: 1F49 passed Weaver Jn. on time
+10:17:38: 1S45 passed Winwick Jn. 1 minute early
+10:17:52: 2H44 arrived at Cheadle Hulme 3 minutes early
+10:18:00: 1M08 entered railway at Wigan Link, track element 41-N2, on time
+10:18:00: 2H35 departed from Stockport on time
+10:18:00: 2D43 departed from Cuddington on time
+10:18:09: 6V84 passed Hartford Jn. 2 minutes early
+10:18:22: 1H84 arrived at Warrington Bank Quay 1 minute early
+10:18:43: 2H35 passed Heaton Norris Jn. 1 minute early
+10:18:54: 1D04 arrived at Helsby 2 minutes late
+10:18:56: 2D44 passed Heaton Norris Jn. on time
+10:19:00: 2F29 departed from Newton-le-Willows, on time
+10:19:00: 2K34 departed from Stockport on time
+10:19:00: 2H36 arrived at Cuddington on time
+10:19:09: 1S45 passed Golborne Jn. on time
+10:19:10: 1D34 passed Acton Grange Jn. 1 minute early
+10:19:16: 1M08 passed Golborne Jn. on time
+10:19:24: 1D04 departed from Helsby 2 minutes late
+10:19:35: 9P47 passed Hartford Jn. 1 minute late
+10:19:47: 2D44 arrived at Stockport on time
+10:20:00: 2A85 entered railway at Crewe Link, track element 57-33, on time
+10:20:00: 2H36 departed from Cuddington on time
+10:20:01: 1S45 left railway at Wigan Link, track element 40-N2, on time
+10:20:10: 1F49 passed Halton Jn. on time
+10:20:39: 6E09 arrived at Signal Ey1.20 12 minutes early
+10:20:41: 2H35 left railway at Manchester Link, track element 94-9, 1 minute early
+10:20:44: 1M08 passed Winwick Jn. on time
+10:21:00: 1D73 entered railway at Manchester Link, track element 92-9, on time
+10:21:00: 1H84 departed from Warrington Bank Quay on time
+10:21:22: 1F49 arrived at Runcorn 1 minute early
+10:21:24: 1P21 left railway at Manchester Link, track element 92-8, 1 minute late
+10:21:26: 2A85 arrived at Sandbach on time
+10:21:27: 2F29 arrived at Earlestown on time
+10:21:38: 1D34 arrived at Runcorn East 2 minutes early
+10:21:40: 1M08 arrived at Warrington Bank Quay 1 minute early
+10:22:00: 1D54 entered railway at Crewe Link, track element 55-34, on time
+10:22:00: 1K48 entered railway at Liverpool Link, track element 17-10, on time
+10:22:00: 2H44 departed from Cheadle Hulme on time
+10:22:00: 2F29 departed from Earlestown on time
+10:22:00: 2D44 departed from Stockport on time
+10:22:00: 2D43 arrived at Delamere on time
+10:22:17: 2H36 passed Hartford CLC Jn. on time
+10:22:35: 1H84 passed Winwick Jn. 2 minutes early
+10:22:39: 9P47 passed Acton Bridge 3 minutes late
+10:22:46: 2K34 arrived at Cheadle Hulme on time
+10:22:57: 6V84 left railway at Crewe Link, track element 57-31, 5 minutes early
+10:23:00: 6M90 entered railway at Crewe Link, track element 56-31, on time
+10:23:00: 2D43 departed from Delamere on time
+10:23:00: 2A85 departed from Sandbach on time
+10:23:05: 1D04 passed Mickle Trafford Jn. on time
+10:23:36: 1K48 arrived at Runcorn on time
+10:23:46: 1A23 left railway at Crewe Link, track element 57-34, 5 minutes early
+10:23:46: 1H84 arrived at Earlestown 4 minutes early
+10:24:00: 1F49 departed from Runcorn on time
+10:24:00: 2K34 departed from Cheadle Hulme on time
+10:24:22: 9P47 passed Weaver Jn. 3 minutes late
+10:24:26: 1H63 arrived at Wilmslow on time
+10:24:46: No random delays selected on loading session
+10:24:46: No random failures selected on loading session
+10:24:49: 2F29 left railway at Liverpool Link, track element 17-9, on time
+10:25:00: 4M18 entered railway at Crewe Link, track element 57-33, on time
+10:25:00: 1D34 departed from Runcorn East on time
+10:25:00: 1M08 departed from Warrington Bank Quay on time
+10:25:08: 6F33 passed Northwich 24 minutes early
+10:25:25: 1F49 left railway at Liverpool Link, track element 17-11, on time
+10:25:27: 2H44 arrived at Stockport on time
+10:25:57: 9P47 passed Acton Grange Jn. 2 minutes late
+10:26:00: 1H63 departed from Wilmslow on time
+10:26:00: 1K48 departed from Runcorn on time
+10:26:10: 1D43 left railway at Chester Link, track element 7-32, on time
+10:26:17: 4M18 passed Sandbach on time
+10:26:25: 2A95 arrived at Holmes Chapel 1 minute early
+10:26:46: 2H36 arrived at Northwich 2 minutes early
+10:26:50: 1M08 passed Acton Grange Jn. 1 minute early
+10:26:54: 9P47 arrived at Warrington Bank Quay on time
+10:26:54: 1K48 passed Halton Jn. on time
+10:27:00: 2H44 departed from Stockport on time
+10:27:00: 2D43 arrived at Mouldsworth on time
+10:27:20: 2A85 arrived at Holmes Chapel on time
+10:27:23: 1M08 passed Weaver Jn. 3 minutes early
+10:27:37: 2H44 passed Heaton Norris Jn. on time
+10:27:59: 2K34 arrived at Wilmslow 3 minutes early
+10:28:00: 9P47 departed from Warrington Bank Quay on time
+10:28:00: 2A85 departed from Holmes Chapel on time
+10:28:25: 1D73 passed Parkside Jn. 3 minutes late
+10:29:00: 9M27 entered railway at Manchester Link, track element 92-9, on time
+10:29:00: 2A14 entered railway at Liverpool Link, track element 17-8, on time
+10:29:00: 5P45 entered railway at Crewe Link, track element 55-34, on time
+10:29:00: 1E58 entered railway at Chester Link, track element 7-31, on time
+10:29:00: 1F14 entered railway at Crewe Link, track element 56-31, on time
+10:29:00: 2D43 departed from Mouldsworth on time
+10:29:00: 1H84 departed from Earlestown on time
+10:29:00: 2A95 departed from Holmes Chapel on time
+10:29:00: 4M27 departed from Warrington Goods on time
+10:29:24: 1M08 passed Acton Bridge 2 minutes early
+10:29:35: 2H44 left railway at Manchester Link, track element 95-9, 1 minute early
+10:29:39: 1D34 arrived at Frodsham on time
+10:29:42: 6G92 passed Altrincham 13 minutes early
+10:29:47: 9P47 passed Winwick Jn. 1 minute early
+10:29:49: 1D04 left railway at Chester Link, track element 7-32, 2 minutes late
+10:29:51: 1D73 arrived at Newton-le-Willows, 3 minutes late
+10:30:00: 3P90 departed from Warrington Bank Quay on time
+10:30:00: 2H36 departed from Northwich on time
+10:30:09: 1D34 departed from Frodsham on time
+10:30:21: 1D73 departed from Newton-le-Willows, 3 minutes late
+10:30:25: 6F33 passed Hartford CLC Jn. 25 minutes early
+10:30:34: 6M90 passed Hartford Jn. on time
+10:30:41: 1M08 passed Hartford Jn. 2 minutes early
+10:31:01: 1K48 passed Weaver Jn. 2 minutes early
+10:31:18: 9P47 passed Golborne Jn. on time
+10:31:23: 1H84 arrived at Newton-le-Willows, 1 minute late
+10:31:53: 1H84 departed from Newton-le-Willows, on time
+10:31:57: 2A14 arrived at Earlestown on time
+10:32:00: 2K34 departed from Wilmslow on time
+10:32:02: 2H24 entered railway at Alderley Edge Up Siding, track element 77-31, on time
+10:32:02: 1V39 entered railway at Manchester Link, track element 96-9, on time
+10:32:02: 1A26 entered railway at Chester Link, track element 7-31, on time
+10:32:10: 9P47 left railway at Wigan Link, track element 40-N2, on time
+10:32:19: 1E58 passed Mickle Trafford Jn. on time
+10:32:27: 2A14 departed from Earlestown on time
+10:32:27: 3P90 passed Winwick Jn. 4 minutes early
+10:32:32: 4M27 passed Acton Grange Jn. on time
+10:32:39: 1D73 arrived at Earlestown 3 minutes late
+10:32:56: 1H63 arrived at Stockport 1 minute early
+10:33:01: 2H85 entered railway at Macclesfield Link, track element 95-34, on time
+10:33:02: 6M90 passed Acton Bridge 1 minute late
+10:33:06: 2A95 arrived at Sandbach 1 minute late
+10:33:09: 1D73 departed from Earlestown 3 minutes late
+10:33:10: 1H84 passed Parkside Jn. on time
+10:33:11: 1K48 passed Acton Bridge 2 minutes early
+10:33:21: 1V39 passed Heaton Norris Jn. on time
+10:33:34: 1D34 arrived at Helsby on time
+10:33:36: 2A95 departed from Sandbach on time
+10:33:37: 2D43 passed Mickle Trafford Jn. 1 minute early
+10:34:00: 1W54 entered railway at Crewe Link, track element 57-33, on time
+10:34:04: 3P90 passed Golborne Jn. 3 minutes early
+10:34:12: 1V39 arrived at Stockport 1 minute early
+10:34:29: 1K48 passed Hartford Jn. 3 minutes early
+10:34:32: 1M08 left railway at Crewe Link, track element 57-31, 3 minutes early
+10:34:32: 2A85 arrived at Wilmslow 5 minutes early
+10:34:48: 2H85 arrived at Cheadle Hulme on time
+10:34:51: 1D73 passed Winwick Jn. on time
+10:34:53: 2A95 left railway at Crewe Link, track element 57-34, on time
+10:35:00: 9M51 entered railway at Wigan Link, track element 41-N2, on time
+10:35:00: 6V35 entered railway at Wigan Link, track element 39-N2, on time
+10:35:00: 1M21 entered railway at Dallam Royal Mail Terminal, track element 47-14, on time
+10:35:00: 1D34 departed from Helsby on time
+10:35:00: 1H63 departed from Stockport on time
+10:35:01: 1E58 passed Helsby on time
+10:35:16: 6M90 passed Weaver Jn. 1 minute late
+10:35:18: 1F14 passed Hartford Jn. on time
+10:35:18: 2H85 departed from Cheadle Hulme on time
+10:35:37: 1H63 passed Heaton Norris Jn. 1 minute early
+10:35:48: 1D73 arrived at Warrington Bank Quay 2 minutes early
+10:36:12: 2A14 arrived at Newton-le-Willows, 2 minutes late
+10:36:14: 1M21 passed Dallam Jn. 36 minutes early
+10:36:19: 3P90 left railway at Wigan Link, track element 38-N2, 2 minutes early
+10:36:42: 2A14 departed from Newton-le-Willows, 1 minute late
+10:36:45: 9M51 passed Golborne Jn. on time
+10:36:49: 9M27 passed Parkside Jn. 1 minute late
+10:36:56: 2H24 arrived at Wilmslow on time
+10:36:58: 6V35 arrived at Golborne Holding Area on time
+10:36:59: 6M90 passed Acton Grange Jn. 3 minutes early
+10:37:06: 1M21 passed Warrington Goods 37 minutes early
+10:37:19: 1F14 passed Acton Bridge 1 minute late
+10:37:21: 2H36 arrived at Knutsford 4 minutes early
+10:37:26: 2H24 departed from Wilmslow on time
+10:37:35: 1E58 passed Frodsham 2 minutes early
+10:37:36: 1H63 left railway at Manchester Link, track element 95-9, 1 minute early
+10:37:59: 2A14 passed Parkside Jn. on time
+10:38:00: 1V39 departed from Stockport on time
+10:38:04: 6M90 passed Warrington Bank Quay 3 minutes early
+10:38:12: 1F14 passed Weaver Jn. on time
+10:38:16: 9M27 arrived at Newton-le-Willows, 2 minutes late
+10:38:16: 2D43 left railway at Chester Link, track element 7-32, 1 minute late
+10:38:20: 1K48 left railway at Crewe Link, track element 57-31, 4 minutes early
+10:38:23: 9M51 passed Winwick Jn. on time
+10:39:00: 1D73 departed from Warrington Bank Quay on time
+10:39:00: 9M27 departed from Newton-le-Willows, on time
+10:39:10: 1H84 left railway at Manchester Link, track element 92-8, 2 minutes late
+10:39:24: 1M21 passed Acton Grange Jn. 40 minutes early
+10:39:25: 9M51 arrived at Warrington Bank Quay 1 minute early
+10:39:28: 6M90 passed Winwick Jn. 7 minutes early
+10:39:29: 2K34 arrived at Chelford on time
+10:39:57: 2D44 arrived at Altrincham 1 minute late
+10:40:00: 6E09 departed from Signal Ey1.20 on time
+10:40:00: 2K34 departed from Chelford on time
+10:40:04: 2H85 arrived at Stockport 1 minute late
+10:40:27: 2D44 departed from Altrincham 1 minute late
+10:40:29: 1D34 passed Mickle Trafford Jn. 1 minute early
+10:40:34: 2H85 departed from Stockport on time
+10:40:43: 9M27 passed Earlestown on time
+10:40:54: 1F14 passed Halton Jn. on time
+10:41:00: 1F50 entered railway at Crewe Link, track element 56-31, on time
+10:41:10: 1E58 passed Runcorn East on time
+10:41:12: 2H85 passed Heaton Norris Jn. on time
+10:41:18: 2H24 arrived at Cheadle Hulme on time
+10:41:34: 6M90 passed Golborne Jn. 9 minutes early
+10:41:45: 6F33 arrived at Acton Bridge Loop 26 minutes early
+10:41:47: 6G92 passed Northwich 38 minutes early
+10:41:48: 6E09 passed Stockport 1 minute early
+10:42:00: 2A85 departed from Wilmslow on time
+10:42:05: 1F14 arrived at Runcorn on time
+10:42:26: 2A85 left railway at Manchester Airport Link, track element 87-26, 1 minute early
+10:42:47: 9M27 left railway at Liverpool Link, track element 17-9, on time
+10:42:51: 1D73 passed Acton Grange Jn. on time
+10:42:53: 6M90 left railway at Wigan Link, track element 40-N2, 10 minutes early
+10:42:58: 4M18 passed Wilmslow 4 minutes early
+10:43:00: 2H24 departed from Cheadle Hulme on time
+10:43:00: 9M51 departed from Warrington Bank Quay on time
+10:43:10: 2H85 left railway at Manchester Link, track element 95-9, on time
+10:43:15: 4M18 left railway at Manchester Airport Link, track element 87-26, 5 minutes early
+10:43:21: 4M27 passed Hartford Jn. 1 minute late
+10:43:24: 1E58 passed Acton Grange Jn. 1 minute early
+10:43:38: 1D54 left railway at Chester Link, track element 7-32, on time
+10:43:58: 2A14 left railway at Manchester Link, track element 92-8, on time
+10:44:00: 2H36 departed from Knutsford on time
+10:44:21: 6E09 left railway at Manchester Link, track element 94-9, 5 minutes early
+10:44:23: 1E58 arrived at Warrington Bank Quay 3 minutes early
+10:44:29: 1D73 passed Runcorn East on time
+10:44:57: 2K34 arrived at Holmes Chapel 2 minutes early
+10:45:00: 1F95 entered railway at Chester Link, track element 7-31, on time
+10:45:00: 1D83 entered railway at Crewe Link, track element 55-34, on time
+10:45:00: 1F14 departed from Runcorn on time
+10:45:00: 6V35 departed from Golborne Holding Area on time
+10:45:17: 1V39 arrived at Wilmslow on time
+10:45:21: 1F50 passed Hartford Jn. 1 minute early
+10:45:23: 9M51 passed Acton Grange Jn. on time
+10:45:56: 9M51 passed Weaver Jn. 3 minutes early
+10:46:04: 2H24 arrived at Stockport on time
+10:46:07: 6G92 passed Sandbach North Jn. 63 minutes early
+10:46:25: 1F14 left railway at Liverpool Link, track element 17-11, on time
+10:47:00: 2K84 entered railway at Manchester Link, track element 96-9, on time
+10:47:00: 1G49 entered railway at Liverpool Link, track element 17-10, on time
+10:47:29: 1F50 arrived at Acton Bridge 1 minute early
+10:47:37: 1D34 left railway at Chester Link, track element 7-32, 2 minutes late
+10:47:47: 1D73 passed Frodsham on time
+10:47:56: 9M51 passed Acton Bridge 2 minutes early
+10:48:00: 2K34 departed from Holmes Chapel on time
+10:48:00: 2H24 departed from Stockport on time
+10:48:16: 6V35 passed Winwick Jn. 1 minute early
+10:48:19: 1F95 passed Mickle Trafford Jn. on time
+10:48:34: 2D44 arrived at Knutsford 4 minutes early
+10:48:36: 1G49 arrived at Runcorn on time
+10:48:37: 2H24 passed Heaton Norris Jn. 1 minute early
+10:48:56: 2K84 passed Heaton Norris Jn. 1 minute early
+10:49:00: 1E58 departed from Warrington Bank Quay on time
+10:49:00: 1V39 departed from Wilmslow on time
+10:49:12: 6G92 left railway at Crewe Link, track element 57-34, 71 minutes early
+10:49:20: 9M51 passed Hartford Jn. 1 minute early
+10:49:26: 6V35 passed Warrington Bank Quay 4 minutes early
+10:49:41: 2K84 arrived at Stockport 2 minutes early
+10:49:58: 1D73 passed Helsby 1 minute early
+10:50:00: 1F50 departed from Acton Bridge on time
+10:50:00: 2K10 entered railway at Manchester Link, track element 96-9, on time
+10:50:00: 2H45 entered railway at Crewe Link, track element 57-33, on time
+10:50:00: 4K95 entered railway at Manchester Airport Link, track element 87-27, on time
+10:50:27: 4M27 left railway at Crewe Link, track element 57-31, 1 minute late
+10:50:35: 2H24 left railway at Manchester Link, track element 95-9, 2 minutes early
+10:50:50: 4K95 passed Wilmslow 1 minute early
+10:51:00: 1G49 departed from Runcorn on time
+10:51:03: 1E58 passed Winwick Jn. 2 minutes early
+10:51:17: 5P45 left railway at Chester Link, track element 7-32, 6 minutes early
+10:51:26: 2H45 arrived at Sandbach on time
+10:51:33: 2H36 arrived at Altrincham 8 minutes early
+10:51:38: 1F95 arrived at Helsby on time
+10:51:39: 1F50 passed Weaver Jn. on time
+10:51:42: 1W54 arrived at Wilmslow 2 minutes late
+10:51:54: 1G49 passed Halton Jn. on time
+10:52:00: 6B21 entered railway at Chinley Link, track element 92-21, on time
+10:52:00: 4F63 entered railway at Crewe Link, track element 56-31, on time
+10:52:05: 2K34 arrived at Sandbach on time
+10:52:06: 2K10 passed Heaton Norris Jn. on time
+10:52:08: 1F95 departed from Helsby on time
+10:52:12: 1W54 departed from Wilmslow on time
+10:52:14: 1E58 arrived at Earlestown 3 minutes early
+10:52:56: 2K10 arrived at Stockport 1 minute early
+10:53:00: 4O73 departed from Hartford Jn. on time
+10:53:00: 2K34 departed from Sandbach on time
+10:53:00: 2K84 departed from Stockport on time
+10:53:00: 2H45 departed from Sandbach on time
+10:53:25: 1D73 passed Mickle Trafford Jn. 3 minutes early
+10:53:32: 6V35 passed Acton Grange Jn. 2 minutes early
+10:53:34: 9M51 left railway at Crewe Link, track element 57-31, 2 minutes early
+10:53:38: No random delays selected on loading session
+10:53:38: No random failures selected on loading session
+10:54:00: 1H85 entered railway at Chester Link, track element 7-31, on time
+10:54:00: 2D44 departed from Knutsford on time
+10:54:17: 2K34 left railway at Crewe Link, track element 57-34, on time
+10:54:25: 1F50 passed Halton Jn. on time
+10:55:00 HELD: 1K08 can't enter railway, train obstructing entry position Chester Link
+10:55:00: 2K10 departed from Stockport on time
+10:55:05: 1A26 left railway at Crewe Link, track element 55-33, 2 minutes late
+10:55:16: 1G49 passed Weaver Jn. on time
+10:55:36: 1F50 arrived at Runcorn 1 minute early
+10:55:37: 1K08 entered railway at Chester Link, track element 7-31, on time
+10:56:07: 1F95 arrived at Frodsham on time
+10:56:46: 2K84 arrived at Cheadle Hulme on time
+10:57:00: 1E58 departed from Earlestown on time
+10:57:00: 1F95 departed from Frodsham on time
+10:57:19: 1H85 passed Mickle Trafford Jn. on time
+10:57:20: 2H45 arrived at Holmes Chapel on time
+10:58:00: 1D35 entered railway at Manchester Link, track element 92-9, on time
+10:58:00: 1F50 departed from Runcorn on time
+10:58:00: 2K84 departed from Cheadle Hulme on time
+10:58:00: 2H45 departed from Holmes Chapel on time
+10:58:02: 1W54 arrived at Stockport 1 minute early
+10:58:06: 1D73 left railway at Chester Link, track element 7-32, 1 minute early
+10:58:24: 1G49 arrived at Acton Bridge on time
+10:58:33: 4F63 passed Hartford Jn. on time
+10:58:45: 2K10 arrived at Cheadle Hulme on time
+10:58:49: 1M21 passed Hartford Jn. 27 minutes early
+10:59:00: 1A28 entered railway at Liverpool Link, track element 17-10, on time
+10:59:23: 1E58 arrived at Newton-le-Willows, on time
+10:59:25: 1F50 left railway at Liverpool Link, track element 17-11, on time
+11:00:00: 1A29 entered railway at Manchester Link, track element 96-9, on time
+11:00:00: 2H37 entered railway at Chester Link, track element 7-31, on time
+11:00:00: 1E58 departed from Newton-le-Willows, on time
+11:00:00: 1G49 departed from Acton Bridge on time
+11:00:00: 2K10 departed from Cheadle Hulme on time
+11:00:04: 1F95 passed Halton Jn. on time
+11:00:28: 4F63 passed Acton Bridge on time
+11:00:36: 1A28 arrived at Runcorn on time
+11:00:37: 1V39 left railway at Crewe Link, track element 57-34, 3 minutes early
+11:00:37: 2K10 left railway at Macclesfield Link, track element 96-34, on time
+11:00:37: 1H85 arrived at Helsby on time
+11:00:57: 2D44 arrived at Northwich 5 minutes early
+11:01:00: 2H36 departed from Altrincham on time
+11:01:16: 1E58 passed Parkside Jn. on time
+11:01:19: 1F95 arrived at Runcorn on time
+11:01:20: 4O73 left railway at Crewe Link, track element 57-31, 1 minute late
+11:01:50: 6B21 passed Altrincham 23 minutes early
+11:01:56: 1A29 passed Heaton Norris Jn. on time
+11:01:59: 2K84 arrived at Wilmslow 1 minute early
+11:02:00: 1S48 entered railway at Crewe Link, track element 56-31, on time
+11:02:00: 1W54 departed from Stockport on time
+11:02:00: 1H85 departed from Helsby on time
+11:02:14: 4F63 passed Weaver Jn. on time
+11:02:34: 1G49 passed Hartford Jn. on time
+11:02:41: 1A29 arrived at Stockport 1 minute early
+11:02:43: 1W54 passed Heaton Norris Jn. 1 minute early
+11:03:00: 1F95 departed from Runcorn on time
+11:03:00: 1A28 departed from Runcorn on time
+11:03:28: 2H45 arrived at Chelford 1 minute early
+11:03:44: 4F63 passed Acton Grange Jn. 3 minutes early
+11:03:54: 1A28 passed Halton Jn. on time
+11:03:56: 1D35 passed Parkside Jn. on time
+11:04:00: 2K84 departed from Wilmslow on time
+11:04:24: 1F95 left railway at Liverpool Link, track element 17-11, on time
+11:04:41: 1W54 left railway at Manchester Link, track element 94-9, 1 minute early
+11:04:47: 2H37 passed Mickle Trafford Jn. 2 minutes late
+11:04:55: 4F63 passed Warrington Bank Quay 5 minutes early
+11:05:00: 1A29 departed from Stockport on time
+11:05:26: 1D35 arrived at Newton-le-Willows, on time
+11:05:55: 1M21 left railway at Crewe Link, track element 57-31, 27 minutes early
+11:05:58: 1H85 arrived at Frodsham on time
+11:06:00: 1D05 entered railway at Liverpool Link, track element 17-10, on time
+11:06:00: 2H45 departed from Chelford on time
+11:06:00: 1D35 departed from Newton-le-Willows, on time
+11:06:10: 1D83 left railway at Chester Link, track element 7-32, on time
+11:06:22: 1S48 passed Hartford Jn. on time
+11:06:28: 1H85 departed from Frodsham on time
+11:06:41: 4F63 passed Winwick Jn. 13 minutes early
+11:07:00: 2D44 departed from Northwich on time
+11:07:02: 2K84 left railway at Alderley Edge Up Siding, track element 77-31, on time
+11:07:16: 1E58 left railway at Manchester Link, track element 92-8, 1 minute late
+11:07:32: 4F63 passed Earlestown 16 minutes early
+11:07:38: 1D05 arrived at Runcorn on time
+11:07:39: 1S48 passed Acton Bridge on time
+11:07:53: 1A28 passed Weaver Jn. on time
+11:07:56: 4K95 passed Sandbach 1 minute early
+11:08:00: 1P23 entered railway at Liverpool Link, track element 17-8, on time
+11:08:00: 2A96 entered railway at Manchester Airport Link, track element 87-27, on time
+11:08:49: 2A96 arrived at Wilmslow on time
+11:08:54: 4K95 left railway at Crewe Link, track element 57-34, 2 minutes early
+11:09:00: 1D05 departed from Runcorn on time
+11:09:18: 2D44 passed Northwich West Jn. 4 minutes early
+11:09:28: 1D35 arrived at Earlestown 1 minute late
+11:09:37: 1G49 left railway at Crewe Link, track element 57-31, 2 minutes late
+11:09:46: 2H37 arrived at Mouldsworth 2 minutes late
+11:09:58: 1D35 departed from Earlestown on time
+11:10:00: 2F33 entered railway at Manchester Link, track element 92-9, on time
+11:10:00: 1H64 entered railway at Crewe Link, track element 57-33, on time
+11:10:00: 0K42 entered railway at Chester Link, track element 7-31, on time
+11:10:00: 1D05 passed Halton Jn. on time
+11:10:13: 1P23 passed Earlestown on time
+11:10:16: 2H37 departed from Mouldsworth 1 minute late
+11:10:33: 1S48 passed Weaver Jn. on time
+11:10:43: 4F63 left railway at Liverpool Link, track element 17-9, 20 minutes early
+11:10:52: 2H45 arrived at Wilmslow 2 minutes early
+11:10:58: 1D35 passed Winwick Jn. 2 minutes early
+11:11:23: 1H85 arrived at Runcorn East 1 minute late
+11:11:43: 6V35 arrived at Hartford Jn. 2 minutes late
+11:11:48: 1A28 passed Acton Bridge 1 minute late
+11:11:53: 1H85 departed from Runcorn East on time
+11:11:54: 1D35 arrived at Warrington Bank Quay 7 minutes early
+11:11:56: 1S48 passed Acton Grange Jn. on time
+11:11:58: 1P23 arrived at Newton-le-Willows, on time
+11:12:14: 2H36 arrived at Stockport 4 minutes early
+11:12:39: 2D44 arrived at Cuddington 4 minutes early
+11:12:46: 1A29 arrived at Wilmslow on time
+11:12:46: 1S48 arrived at Warrington Bank Quay 1 minute early
+11:13:00: 2D45 entered railway at Manchester Link, track element 96-9, on time
+11:13:00: 6V35 departed from Hartford Jn. on time
+11:13:00: 1P23 departed from Newton-le-Willows, on time
+11:13:13: 1D05 arrived at Frodsham on time
+11:14:00: 2H45 departed from Wilmslow on time
+11:14:00: 1A29 departed from Wilmslow on time
+11:14:00: 1D05 departed from Frodsham on time
+11:14:00: 9S54 entered railway at Crewe Link, track element 56-31, on time
+11:14:11: 2H37 arrived at Delamere on time
+11:14:16: 1P23 passed Parkside Jn. on time
+11:14:19: 2D45 passed Heaton Norris Jn. on time
+11:14:49: 1H85 passed Acton Grange Jn. 1 minute early
+11:15:00: 2K35 entered railway at Manchester Link, track element 96-9, on time
+11:15:00: 2H37 departed from Delamere on time
+11:15:04: 2D45 arrived at Stockport on time
+11:15:07: 1A28 passed Hartford Jn. 4 minutes late
+11:15:46: 1H85 arrived at Warrington Bank Quay 4 minutes early
+11:15:56: 2F33 passed Parkside Jn. on time
+11:15:58: 6B21 passed Northwich 34 minutes early
+11:16:00: 1S48 departed from Warrington Bank Quay on time
+11:16:18: 2K35 passed Heaton Norris Jn. on time
+11:17:00: 2A96 departed from Wilmslow on time
+11:17:09: 2K35 arrived at Stockport on time
+11:17:24: 1D05 arrived at Helsby 1 minute late
+11:17:26: 2F33 arrived at Newton-le-Willows, on time
+11:17:26: 1S48 passed Winwick Jn. 1 minute early
+11:17:52: 2H45 arrived at Cheadle Hulme 3 minutes early
+11:17:54: 1D05 departed from Helsby on time
+11:18:00: 1M09 entered railway at Wigan Link, track element 41-N2, on time
+11:18:00: 2H36 departed from Stockport on time
+11:18:00: 2D44 departed from Cuddington on time
+11:18:00: 2D45 departed from Stockport on time
+11:18:01: 1K08 left railway at Crewe Link, track element 55-33, 2 minutes late
+11:18:23: 9S54 passed Hartford Jn. on time
+11:18:43: 2H36 passed Heaton Norris Jn. 1 minute early
+11:18:57: 1S48 passed Golborne Jn. 1 minute early
+11:19:00: 6C31 entered railway at Crewe Link, track element 56-31, on time
+11:19:00: 2F33 departed from Newton-le-Willows, on time
+11:19:00: 2K35 departed from Stockport on time
+11:19:00: 2H37 arrived at Cuddington on time
+11:19:34: 9S54 passed Acton Bridge on time
+11:19:46: 6B21 passed Sandbach North Jn. 60 minutes early
+11:19:49: 1S48 left railway at Wigan Link, track element 40-N2, 1 minute early
+11:20:00: 2A86 entered railway at Crewe Link, track element 57-33, on time
+11:20:00: 1D35 departed from Warrington Bank Quay on time
+11:20:00: 2H37 departed from Cuddington on time
+11:20:16: 1P23 left railway at Manchester Link, track element 92-8, on time
+11:20:20: 6V35 left railway at Crewe Link, track element 57-31, on time
+11:20:30: 1M09 passed Golborne Jn. 1 minute late
+11:20:41: 2H36 left railway at Manchester Link, track element 94-9, 1 minute early
+11:21:00: 1H85 departed from Warrington Bank Quay on time
+11:21:02: 1D74 entered railway at Manchester Link, track element 92-9, on time
+11:21:02: 1M36 entered railway at Wigan Link, track element 41-N2, on time
+11:21:03: 9S54 passed Weaver Jn. on time
+11:21:25: 2A86 arrived at Sandbach on time
+11:21:27: 2F33 arrived at Earlestown on time
+11:22:00: 1D55 entered railway at Crewe Link, track element 55-34, on time
+11:22:00: 6F33 departed from Acton Bridge Loop on time
+11:22:00: 2H45 departed from Cheadle Hulme on time
+11:22:00: 2F33 departed from Earlestown on time
+11:22:00: 2D44 arrived at Delamere on time
+11:22:12: 1M09 passed Winwick Jn. 2 minutes late
+11:22:13: 1D05 passed Mickle Trafford Jn. on time
+11:22:26: 9S54 passed Acton Grange Jn. 1 minute early
+11:22:35: 2H37 passed Hartford CLC Jn. on time
+11:22:35: 1H85 passed Winwick Jn. 2 minutes early
+11:22:41: 6B21 left railway at Crewe Link, track element 57-34, 68 minutes early
+11:22:52: 2K35 arrived at Cheadle Hulme on time
+11:23:00: 2D44 departed from Delamere on time
+11:23:00: 2A86 departed from Sandbach on time
+11:23:14: 1M09 arrived at Warrington Bank Quay on time
+11:23:17: 9S54 arrived at Warrington Bank Quay 2 minutes early
+11:23:17: 1H64 arrived at Wilmslow 1 minute early
+11:23:46: 1H85 arrived at Earlestown 4 minutes early
+11:23:56: 1M36 passed Golborne Jn. on time
+11:24:00: 2K35 departed from Cheadle Hulme on time
+11:24:36: 1D35 passed Acton Grange Jn. on time
+11:24:49: 2F33 left railway at Liverpool Link, track element 17-9, on time
+11:24:57: 2H45 arrived at Stockport 1 minute early
+11:25:00: 1M09 departed from Warrington Bank Quay on time
+11:25:29: 1A28 left railway at Crewe Link, track element 57-31, 9 minutes late
+11:25:37: 1A29 left railway at Crewe Link, track element 57-34, 3 minutes early
+11:25:45: 1M36 passed Winwick Jn. 1 minute late
+11:26:00: 0O29 entered railway at Crewe Link, track element 57-33, on time
+11:26:00: 1H64 departed from Wilmslow on time
+11:26:35: 6F33 passed Weaver Jn. on time
+11:26:50: 6C31 passed Hartford Jn. on time
+11:26:53: 1D05 left railway at Chester Link, track element 7-32, on time
+11:26:58: 1D74 passed Parkside Jn. 1 minute late
+11:27:00: 2H45 departed from Stockport on time
+11:27:00: 2D44 arrived at Mouldsworth on time
+11:27:00: 1M36 arrived at Warrington Bank Quay on time
+11:27:03: 1D35 arrived at Runcorn East on time
+11:27:04: 2H37 arrived at Northwich 1 minute early
+11:27:05: 0O29 passed Sandbach on time
+11:27:06: 1M09 passed Acton Grange Jn. on time
+11:27:19: 2A86 arrived at Holmes Chapel on time
+11:27:37: 2H45 passed Heaton Norris Jn. on time
+11:27:40: 1M09 passed Weaver Jn. 3 minutes early
+11:27:59: 2K35 arrived at Wilmslow 3 minutes early
+11:28:00: 6J34 entered railway at Liverpool Link, track element 17-10, on time
+11:28:00: 1D35 departed from Runcorn East on time
+11:28:00: 9S54 departed from Warrington Bank Quay on time
+11:28:00: 2A86 departed from Holmes Chapel on time
+11:28:01: 2A96 arrived at Holmes Chapel on time
+11:28:29: 1D74 arrived at Newton-le-Willows, 2 minutes late
+11:28:59: 1D74 departed from Newton-le-Willows, 1 minute late
+11:29:00: 9M28 entered railway at Manchester Link, track element 92-9, on time
+11:29:00: 2A15 entered railway at Liverpool Link, track element 17-8, on time
+11:29:00: 1E60 entered railway at Chester Link, track element 7-31, on time
+11:29:00: 1F16 entered railway at Crewe Link, track element 56-31, on time
+11:29:00: 2D44 departed from Mouldsworth on time
+11:29:00: 1H85 departed from Earlestown on time
+11:29:00: 2A96 departed from Holmes Chapel on time
+11:29:14: 6J34 passed Runcorn 3 minutes early
+11:29:17: 6C31 passed Acton Bridge 1 minute late
+11:29:26: 9S54 passed Winwick Jn. 1 minute early
+11:29:35: 2H45 left railway at Manchester Link, track element 95-9, 1 minute early
+11:29:42: 1M09 passed Acton Bridge 2 minutes early
+11:29:48: 6J34 passed Halton Jn. 5 minutes early
+11:29:56: 2D45 arrived at Altrincham 4 minutes early
+11:30:00: 2H37 departed from Northwich on time
+11:30:00: 1M36 departed from Warrington Bank Quay on time
+11:30:21: 0K42 left railway at Crewe Link, track element 55-33, 9 minutes early
+11:30:37: 6F33 passed Halton Jn. 1 minute early
+11:30:57: 9S54 passed Golborne Jn. 1 minute early
+11:30:58: 1M09 passed Hartford Jn. 2 minutes early
+11:31:21: 6F33 passed Runcorn 5 minutes early
+11:31:23: 1H85 arrived at Newton-le-Willows, 1 minute late
+11:31:49: 9S54 left railway at Wigan Link, track element 40-N2, 2 minutes early
+11:31:53: 1M36 passed Acton Grange Jn. 1 minute early
+11:31:53: 1H85 departed from Newton-le-Willows, on time
+11:31:57: 2A15 arrived at Earlestown on time
+11:31:58: 1H64 arrived at Stockport 2 minutes early
+11:32:00: 2H25 entered railway at Alderley Edge Up Siding, track element 77-31, on time
+11:32:00: 1V40 entered railway at Manchester Link, track element 96-9, on time
+11:32:00: 2K35 departed from Wilmslow on time
+11:32:19: 1E60 passed Mickle Trafford Jn. on time
+11:32:26: 6F33 left railway at Liverpool Link, track element 17-11, 9 minutes early
+11:32:27: 2A15 departed from Earlestown on time
+11:32:28: 1D74 arrived at Earlestown 3 minutes late
+11:32:30: 6C31 passed Weaver Jn. 2 minutes late
+11:32:39: 1D35 arrived at Frodsham on time
+11:32:58: 1D74 departed from Earlestown 2 minutes late
+11:33:00: 2H86 entered railway at Macclesfield Link, track element 95-34, on time
+11:33:06: 2A96 arrived at Sandbach 1 minute late
+11:33:09: 1D35 departed from Frodsham on time
+11:33:10: 1H85 passed Parkside Jn. on time
+11:33:18: 1V40 passed Heaton Norris Jn. on time
+11:33:36: 1F16 passed Hartford Jn. 1 minute early
+11:33:36: 2A96 departed from Sandbach on time
+11:33:37: 2D44 passed Mickle Trafford Jn. 1 minute early
+11:33:59: 1D74 passed Winwick Jn. on time
+11:34:00: 1W55 entered railway at Crewe Link, track element 57-33, on time
+11:34:04: 1V40 arrived at Stockport 1 minute early
+11:34:25: 6C31 passed Acton Grange Jn. on time
+11:34:31: 2A86 arrived at Wilmslow 5 minutes early
+11:34:47: 2H86 arrived at Cheadle Hulme on time
+11:34:48: 2A15 arrived at Newton-le-Willows, on time
+11:34:49: 1M09 left railway at Crewe Link, track element 57-31, 3 minutes early
+11:34:54: 2A96 left railway at Crewe Link, track element 57-34, on time
+11:34:55: 1D74 arrived at Warrington Bank Quay 4 minutes early
+11:34:56: 9M28 passed Parkside Jn. on time
+11:35:00: 9M52 entered railway at Wigan Link, track element 41-N2, on time
+11:35:00: 1H64 departed from Stockport on time
+11:35:00: 2D45 departed from Altrincham on time
+11:35:01: 1E60 passed Helsby on time
+11:35:17: 2H86 departed from Cheadle Hulme on time
+11:35:19: 2A15 departed from Newton-le-Willows, on time
+11:35:40: 1F16 passed Acton Bridge on time
+11:35:43: 1H64 passed Heaton Norris Jn. 1 minute early
+11:35:50: 6C31 arrived at Warrington Goods 2 minutes early
+11:36:24: 9M52 passed Golborne Jn. on time
+11:36:26: 9M28 arrived at Newton-le-Willows, on time
+11:36:30: 6J34 passed Weaver Jn. 6 minutes early
+11:36:34: 1D35 arrived at Helsby on time
+11:36:34: 1F16 passed Weaver Jn. 1 minute early
+11:36:36: 2A15 passed Parkside Jn. on time
+11:36:53: 1M36 passed Hartford Jn. 2 minutes early
+11:36:55: 2K35 arrived at Chelford 2 minutes early
+11:37:21: 2H37 arrived at Knutsford 4 minutes early
+11:37:35: 1E60 passed Frodsham 2 minutes early
+11:37:41: 1H64 left railway at Manchester Link, track element 94-9, 1 minute early
+11:37:54: 9M52 passed Winwick Jn. on time
+11:38:00: 1D35 departed from Helsby on time
+11:38:00: 1V40 departed from Stockport on time
+11:38:16: 2H86 arrived at Stockport on time
+11:38:16: 2D44 left railway at Chester Link, track element 7-32, 1 minute late
+11:38:37: 2H25 arrived at Wilmslow 2 minutes late
+11:38:56: 9M52 arrived at Warrington Bank Quay 2 minutes early
+11:39:00: 9M28 departed from Newton-le-Willows, on time
+11:39:07: 2H25 departed from Wilmslow 2 minutes late
+11:39:10: 1H85 left railway at Manchester Link, track element 92-8, 2 minutes late
+11:39:16: 1F16 passed Halton Jn. 1 minute early
+11:40:00: 3S09 entered railway at Chester Link, track element 7-31, on time
+11:40:00: 2K35 departed from Chelford on time
+11:40:00: 1D74 departed from Warrington Bank Quay on time
+11:40:00: 2H86 departed from Stockport on time
+11:40:27: 1F16 arrived at Runcorn 2 minutes early
+11:40:33: 6J34 passed Acton Bridge 5 minutes early
+11:40:37: 2H86 passed Heaton Norris Jn. 1 minute early
+11:40:43: 9M28 passed Earlestown on time
+11:41:00: 1F52 entered railway at Crewe Link, track element 56-31, on time
+11:41:05: 1E60 passed Runcorn East on time
+11:41:40: 1M36 left railway at Crewe Link, track element 57-31, 4 minutes early
+11:42:00: 6C31 departed from Warrington Goods on time
+11:42:00: 2A86 departed from Wilmslow on time
+11:42:02: 1D55 left railway at Chester Link, track element 7-32, on time
+11:42:05: 1D74 passed Acton Grange Jn. on time
+11:42:26: 2A86 left railway at Manchester Airport Link, track element 87-26, 1 minute early
+11:42:36: 2H86 left railway at Manchester Link, track element 95-9, 1 minute early
+11:42:47: 9M28 left railway at Liverpool Link, track element 17-9, on time
+11:42:50: 1E60 passed Acton Grange Jn. 2 minutes early
+11:42:59: 2H25 arrived at Cheadle Hulme on time
+11:43:00: 9M52 departed from Warrington Bank Quay on time
+11:43:06: 2D45 arrived at Knutsford 5 minutes early
+11:43:17: 6C31 passed Winwick Jn. 3 minutes early
+11:43:21: 0O29 passed Wilmslow 1 minute early
+11:43:29: 2H25 departed from Cheadle Hulme on time
+11:43:38: 0O29 left railway at Manchester Airport Link, track element 87-26, 3 minutes early
+11:43:44: 1D74 passed Runcorn East 1 minute early
+11:43:47: 1E60 arrived at Warrington Bank Quay 4 minutes early
+11:43:49: 3S09 passed Mickle Trafford Jn. on time
+11:43:52: 6J34 arrived at Hartford Jn. 6 minutes early
+11:44:00: 2H37 departed from Knutsford on time
+11:44:10: 2A15 left railway at Manchester Link, track element 92-8, 1 minute late
+11:44:16: 1V40 arrived at Wilmslow 1 minute early
+11:44:55: 9M52 passed Acton Grange Jn. on time
+11:44:57: 2K35 arrived at Holmes Chapel 2 minutes early
+11:45:00: 1F96 entered railway at Chester Link, track element 7-31, on time
+11:45:00: 1D84 entered railway at Crewe Link, track element 55-34, on time
+11:45:00: 1F16 departed from Runcorn on time
+11:45:13: 6C31 passed Golborne Jn. 4 minutes early
+11:45:22: 1F52 passed Hartford Jn. 1 minute early
+11:45:28: 9M52 passed Weaver Jn. 3 minutes early
+11:46:20: 1D35 passed Mickle Trafford Jn. on time
+11:46:25: 1F16 left railway at Liverpool Link, track element 17-11, on time
+11:46:34: 2H25 arrived at Stockport on time
+11:47:00: 2K85 entered railway at Manchester Link, track element 96-9, on time
+11:47:00: 1G51 entered railway at Liverpool Link, track element 17-10, on time
+11:47:01: 1D74 passed Frodsham on time
+11:47:28: 6C31 left railway at Wigan Link, track element 38-N2, 4 minutes early
+11:47:29: 9M52 passed Acton Bridge 2 minutes early
+11:47:30: 1F52 arrived at Acton Bridge 1 minute early
+11:48:00: 6E26 entered railway at Wigan Link, track element 39-N2, on time
+11:48:00: 2K35 departed from Holmes Chapel on time
+11:48:00: 2H25 departed from Stockport on time
+11:48:06: 3S09 passed Mouldsworth on time
+11:48:19: 2K85 passed Heaton Norris Jn. 1 minute early
+11:48:28: 1F96 passed Mickle Trafford Jn. on time
+11:48:36: 1G51 arrived at Runcorn on time
+11:48:37: 2H25 passed Heaton Norris Jn. 1 minute early
+11:48:45: 9M52 passed Hartford Jn. 2 minutes early
+11:49:00: 0K95 entered railway at Manchester Airport Link, track element 87-27, on time
+11:49:00: 1E60 departed from Warrington Bank Quay on time
+11:49:00: 1V40 departed from Wilmslow on time
+11:49:04: 2K85 arrived at Stockport 2 minutes early
+11:49:12: 1D74 passed Helsby 1 minute early
+11:49:30: 6E26 passed Golborne Jn. 1 minute early
+11:49:42: 1W55 arrived at Wilmslow on time
+11:49:50: 0K95 passed Wilmslow 1 minute early
+11:50:00: 2K12 entered railway at Manchester Link, track element 96-9, on time
+11:50:00: 2H46 entered railway at Crewe Link, track element 57-33, on time
+11:50:00: 2D45 departed from Knutsford on time
+11:50:00: 1F52 departed from Acton Bridge on time
+11:50:35: 1E60 passed Winwick Jn. 3 minutes early
+11:50:35: 2H25 left railway at Manchester Link, track element 95-9, 2 minutes early
+11:51:00: 1G51 departed from Runcorn on time
+11:51:00: 1D35 left railway at Chester Link, track element 7-32, 2 minutes late
+11:51:19: 2K12 passed Heaton Norris Jn. on time
+11:51:26: 2H46 arrived at Sandbach on time
+11:51:31: 1D74 passed Mickle Trafford Jn. 5 minutes early
+11:51:33: 2H37 arrived at Altrincham 8 minutes early
+11:51:39: 1F52 passed Weaver Jn. on time
+11:51:46: 1F96 arrived at Helsby on time
+11:51:46: 1E60 arrived at Earlestown 4 minutes early
+11:51:54: 1G51 passed Halton Jn. on time
+11:51:59: 6E26 passed Winwick Jn. 4 minutes early
+11:52:00: 1W55 departed from Wilmslow on time
+11:52:05: 2K35 arrived at Sandbach on time
+11:52:10: 2K12 arrived at Stockport 1 minute early
+11:52:16: 1F96 departed from Helsby on time
+11:52:32: 6E26 passed Dallam Jn. 6 minutes early
+11:52:36: 9M52 left railway at Crewe Link, track element 57-31, 3 minutes early
+11:53:00: 2K35 departed from Sandbach on time
+11:53:00: 2K85 departed from Stockport on time
+11:53:00: 2H46 departed from Sandbach on time
+11:53:24: 6E26 arrived at Warrington Goods 7 minutes early
+11:54:00: 1H86 entered railway at Chester Link, track element 7-31, on time
+11:54:17: 2K35 left railway at Crewe Link, track element 57-34, on time
+11:54:25: 1F52 passed Halton Jn. on time
+11:55:00 HELD: 1K09 can't enter railway, train obstructing entry position Chester Link
+11:55:00: 2K12 departed from Stockport on time
+11:55:16: 1G51 passed Weaver Jn. on time
+11:55:36: 1F52 arrived at Runcorn 1 minute early
+11:55:37: 1K09 entered railway at Chester Link, track element 7-31, on time
+11:56:00: 4D59 entered railway at Crewe Link, track element 55-34, on time
+11:56:12: 1D74 left railway at Chester Link, track element 7-32, 3 minutes early
+11:56:14: 1F96 arrived at Frodsham on time
+11:56:46: 2K85 arrived at Cheadle Hulme on time
+11:56:57: 2D45 arrived at Northwich 5 minutes early
+11:57:00: 1E60 departed from Earlestown on time
+11:57:00: 1F96 departed from Frodsham on time
+11:57:10: 3S09 passed Hartford CLC Jn. on time
+11:57:19: 1H86 passed Mickle Trafford Jn. on time
+11:57:20: 2H46 arrived at Holmes Chapel on time
+11:57:27: No random delays selected on loading session
+11:57:27: No random failures selected on loading session
+11:57:45: 1W55 arrived at Stockport 2 minutes early
+11:58:00: 1D36 entered railway at Manchester Link, track element 92-9, on time
+11:58:00: 6L11 entered railway at Chinley Link, track element 92-21, on time
+11:58:00: 1F52 departed from Runcorn on time
+11:58:00: 2K85 departed from Cheadle Hulme on time
+11:58:00: 2H46 departed from Holmes Chapel on time
+11:58:23: 1G51 arrived at Acton Bridge on time
+11:58:35: 2K12 arrived at Cheadle Hulme on time
+11:58:46: 1V40 left railway at Crewe Link, track element 57-34, 5 minutes early
+11:59:00: 1A34 entered railway at Liverpool Link, track element 17-10, on time
+11:59:23: 1E60 arrived at Newton-le-Willows, on time
+11:59:25: 1F52 left railway at Liverpool Link, track element 17-11, on time
+12:00:00: 1A35 entered railway at Manchester Link, track element 96-9, on time
+12:00:00: 2H38 entered railway at Chester Link, track element 7-31, on time
+12:00:00: 1E60 departed from Newton-le-Willows, on time
+12:00:00: 1G51 departed from Acton Bridge on time
+12:00:00: 2K12 departed from Cheadle Hulme on time
+12:00:04: 1F96 passed Halton Jn. on time
+12:00:36: 1A34 arrived at Runcorn on time
+12:00:37: 2K12 left railway at Macclesfield Link, track element 96-34, on time
+12:00:38: 1H86 arrived at Helsby on time
+12:00:38: 3S09 passed Northwich 1 minute early
+12:01:00: 2H37 departed from Altrincham on time
+12:01:16: 1E60 passed Parkside Jn. on time
+12:01:18: 1A35 passed Heaton Norris Jn. on time
+12:01:19: 1F96 arrived at Runcorn on time
+12:01:59: 2K85 arrived at Wilmslow 1 minute early
+12:02:00: 1S52 entered railway at Crewe Link, track element 56-31, on time
+12:02:00: 1W55 departed from Stockport on time
+12:02:00: 1H86 departed from Helsby on time
+12:02:04: 1A35 arrived at Stockport 1 minute early
+12:02:33: 1G51 passed Hartford Jn. on time
+12:02:43: 1W55 passed Heaton Norris Jn. 1 minute early
+12:03:00: 2D45 departed from Northwich on time
+12:03:00: 1F96 departed from Runcorn on time
+12:03:00: 6E26 departed from Warrington Goods on time
+12:03:00: 1A34 departed from Runcorn on time
+12:03:29: 2H46 arrived at Chelford 1 minute early
+12:03:54: 1A34 passed Halton Jn. on time
+12:03:56: 1D36 passed Parkside Jn. on time
+12:04:00: 2K85 departed from Wilmslow on time
+12:04:25: 1F96 left railway at Liverpool Link, track element 17-11, on time
+12:04:41: 1W55 left railway at Manchester Link, track element 94-9, 1 minute early
+12:04:47: 2H38 passed Mickle Trafford Jn. 2 minutes late
+12:05:00: 1A35 departed from Stockport on time
+12:05:01: 1D84 left railway at Chester Link, track element 7-32, on time
+12:05:17: 2D45 passed Northwich West Jn. 4 minutes early
+12:05:26: 1D36 arrived at Newton-le-Willows, on time
+12:05:52: 6E26 passed Acton Grange Jn. 7 minutes early
+12:05:58: 1H86 arrived at Frodsham on time
+12:06:00: 1D06 entered railway at Liverpool Link, track element 17-10, on time
+12:06:00: 3S06 entered railway at Chester Link, track element 7-31, on time
+12:06:00: 2H46 departed from Chelford on time
+12:06:00: 1D36 departed from Newton-le-Willows, on time
+12:06:21: 1S52 passed Hartford Jn. on time
+12:06:22: 0K95 passed Sandbach 1 minute early
+12:06:28: 1H86 departed from Frodsham on time
+12:06:30: 6L11 passed Altrincham 18 minutes early
+12:06:39: 1G51 left railway at Crewe Link, track element 57-31, on time
+12:07:00: 6J34 departed from Hartford Jn. on time
+12:07:02: 2K85 left railway at Alderley Edge Up Siding, track element 77-31, on time
+12:07:16: 1E60 left railway at Manchester Link, track element 92-8, 1 minute late
+12:07:20: 0K95 left railway at Crewe Link, track element 57-34, 2 minutes early
+12:07:38: 1D06 arrived at Runcorn on time
+12:07:39: 1S52 passed Acton Bridge on time
+12:08:00: 1P25 entered railway at Liverpool Link, track element 17-8, on time
+12:08:00: 2A97 entered railway at Manchester Airport Link, track element 87-27, on time
+12:08:15: 1D36 arrived at Earlestown on time
+12:08:39: 2D45 arrived at Cuddington 4 minutes early
+12:08:49: 2A97 arrived at Wilmslow on time
+12:09:00: 1D36 departed from Earlestown on time
+12:09:00: 1D06 departed from Runcorn on time
+12:09:46: 2H38 arrived at Mouldsworth 2 minutes late
+12:10:00: 2F37 entered railway at Manchester Link, track element 92-9, on time
+12:10:00: 1H65 entered railway at Crewe Link, track element 57-33, on time
+12:10:00: 1D36 passed Winwick Jn. 1 minute early
+12:10:00: 1D06 passed Halton Jn. on time
+12:10:09: 6J34 passed Hartford CLC Jn. on time
+12:10:13: 1P25 passed Earlestown on time
+12:10:16: 2H38 departed from Mouldsworth 1 minute late
+12:10:33: 1S52 passed Weaver Jn. on time
+12:10:55: 3S06 passed Mickle Trafford Jn. on time
+12:10:56: 1D36 arrived at Warrington Bank Quay 6 minutes early
+12:11:00: 2H46 arrived at Wilmslow 1 minute early
+12:11:23: 1H86 arrived at Runcorn East 1 minute late
+12:11:32: 1A35 arrived at Wilmslow 1 minute early
+12:11:53: 1H86 departed from Runcorn East on time
+12:11:56: 1S52 passed Acton Grange Jn. on time
+12:11:58: 1P25 arrived at Newton-le-Willows, on time
+12:12:45: 2H37 arrived at Stockport 4 minutes early
+12:12:46: 1S52 arrived at Warrington Bank Quay 1 minute early
+12:13:00: 2D46 entered railway at Manchester Link, track element 96-9, on time
+12:13:00: 9S55 entered railway at Crewe Link, track element 56-31, on time
+12:13:00: 1P25 departed from Newton-le-Willows, on time
+12:13:08: 1A34 passed Weaver Jn. 5 minutes late
+12:13:13: 1D06 arrived at Frodsham on time
+12:13:54: 3S09 arrived at Altrincham 7 minutes early
+12:14:00: 2D45 departed from Cuddington on time
+12:14:00: 2H46 departed from Wilmslow on time
+12:14:00: 1A35 departed from Wilmslow on time
+12:14:00: 1D06 departed from Frodsham on time
+12:14:11: 2H38 arrived at Delamere on time
+12:14:16: 1P25 passed Parkside Jn. on time
+12:14:17: 3S06 passed Helsby on time
+12:14:18: 2D46 passed Heaton Norris Jn. on time
+12:14:28: 6E26 arrived at Hartford Jn. 13 minutes early
+12:14:49: 1H86 passed Acton Grange Jn. 1 minute early
+12:15:00: 2K36 entered railway at Manchester Link, track element 96-9, on time
+12:15:00: 2H38 departed from Delamere on time
+12:15:09: 2D46 arrived at Stockport on time
+12:15:24: 1A34 passed Acton Bridge 5 minutes late
+12:15:27: 6J34 passed Northwich 2 minutes early
+12:15:46: 1H86 arrived at Warrington Bank Quay 4 minutes early
+12:15:56: 2F37 passed Parkside Jn. on time
+12:16:00: 1S52 departed from Warrington Bank Quay on time
+12:16:18: 2K36 passed Heaton Norris Jn. on time
+12:16:27: 4D59 left railway at Chester Link, track element 7-32, 4 minutes early
+12:16:43: 1A34 passed Hartford Jn. 5 minutes late
+12:17:00: 2A97 departed from Wilmslow on time
+12:17:04: 2K36 arrived at Stockport on time
+12:17:18: 1K09 left railway at Crewe Link, track element 55-33, 1 minute late
+12:17:21: 9S55 passed Hartford Jn. on time
+12:17:24: 1D06 arrived at Helsby 1 minute late
+12:17:26: 2F37 arrived at Newton-le-Willows, on time
+12:17:26: 1S52 passed Winwick Jn. 1 minute early
+12:17:52: 2H46 arrived at Cheadle Hulme 3 minutes early
+12:17:54: 1D06 departed from Helsby on time
+12:18:00: 1M10 entered railway at Wigan Link, track element 41-N2, on time
+12:18:00: 2H37 departed from Stockport on time
+12:18:00: 1D36 departed from Warrington Bank Quay on time
+12:18:00: 2D46 departed from Stockport on time
+12:18:00: 2D45 arrived at Delamere on time
+12:18:36: 6L11 passed Northwich 32 minutes early
+12:18:39: 9S55 passed Acton Bridge on time
+12:18:43: 2H37 passed Heaton Norris Jn. 1 minute early
+12:18:57: 1S52 passed Golborne Jn. 1 minute early
+12:19:00: 2D45 departed from Delamere on time
+12:19:00: 2F37 departed from Newton-le-Willows, on time
+12:19:00: 2K36 departed from Stockport on time
+12:19:00: 2H38 arrived at Cuddington on time
+12:19:09: 3S06 passed Frodsham Jn. on time
+12:19:16: 1M10 passed Golborne Jn. on time
+12:19:49: 1S52 left railway at Wigan Link, track element 40-N2, 1 minute early
+12:20:00: 2A87 entered railway at Crewe Link, track element 57-33, on time
+12:20:00: 2H38 departed from Cuddington on time
+12:20:05: 1D36 passed Acton Grange Jn. on time
+12:20:16: 1P25 left railway at Manchester Link, track element 92-8, on time
+12:20:33: 1A34 left railway at Crewe Link, track element 57-31, 4 minutes late
+12:20:41: 2H37 left railway at Manchester Link, track element 94-9, 1 minute early
+12:20:43: 1M10 passed Winwick Jn. on time
+12:21:00: 1D75 entered railway at Manchester Link, track element 92-9, on time
+12:21:00: 1H86 departed from Warrington Bank Quay on time
+12:21:26: 2A87 arrived at Sandbach on time
+12:21:27: 2F37 arrived at Earlestown on time
+12:21:45: 1M10 arrived at Warrington Bank Quay 2 minutes early
+12:21:55: 3S06 passed Runcorn East 1 minute early
+12:22:00: 1D56 entered railway at Crewe Link, track element 55-34, on time
+12:22:00: 2H46 departed from Cheadle Hulme on time
+12:22:00: 2F37 departed from Earlestown on time
+12:22:00: 1D06 passed Mickle Trafford Jn. on time
+12:22:05: 9S55 passed Weaver Jn. 1 minute late
+12:22:18: 2H38 passed Hartford CLC Jn. on time
+12:22:33: 1D36 arrived at Runcorn East 1 minute early
+12:22:35: 1H86 passed Winwick Jn. 2 minutes early
+12:22:53: 2K36 arrived at Cheadle Hulme on time
+12:23:00: 2A87 departed from Sandbach on time
+12:23:00: 2D45 arrived at Mouldsworth on time
+12:23:19: 1H65 arrived at Wilmslow 1 minute early
+12:23:46: 1A35 left railway at Crewe Link, track element 57-34, 5 minutes early
+12:23:46: 1H86 arrived at Earlestown 4 minutes early
+12:23:54: No random delays selected on loading session
+12:23:54: No random failures selected on loading session
+12:24:00: 2K36 departed from Cheadle Hulme on time
+12:24:18: 9S55 passed Acton Grange Jn. 1 minute late
+12:24:48: 2F37 left railway at Liverpool Link, track element 17-9, on time
+12:25:00: 2D45 departed from Mouldsworth on time
+12:25:00: 3S09 departed from Altrincham on time
+12:25:00: 1D36 departed from Runcorn East on time
+12:25:07: 9S55 arrived at Warrington Bank Quay on time
+12:25:15: 2H46 arrived at Stockport on time
+12:26:00: 1H65 departed from Wilmslow on time
+12:26:00: 1M10 departed from Warrington Bank Quay on time
+12:26:28: 2A97 arrived at Holmes Chapel 1 minute early
+12:26:40: 1D06 left railway at Chester Link, track element 7-32, on time
+12:26:46: 2H38 arrived at Northwich 2 minutes early
+12:26:56: 1D75 passed Parkside Jn. 1 minute late
+12:26:56: 6L11 passed Sandbach North Jn. 54 minutes early
+12:27:00: 6E10 entered railway at Liverpool Link, track element 17-8, on time
+12:27:00: 2H46 departed from Stockport on time
+12:27:00: 9S55 departed from Warrington Bank Quay on time
+12:27:20: 2A87 arrived at Holmes Chapel on time
+12:27:37: 2H46 passed Heaton Norris Jn. on time
+12:27:43: 3S06 passed Acton Grange Jn. 2 minutes early
+12:27:59: 2K36 arrived at Wilmslow 3 minutes early
+12:28:00: 2A87 departed from Holmes Chapel on time
+12:28:08: 1M10 passed Acton Grange Jn. on time
+12:28:26: 1D75 arrived at Newton-le-Willows, 2 minutes late
+12:28:26: 9S55 passed Winwick Jn. 1 minute early
+12:28:41: 1M10 passed Weaver Jn. 3 minutes early
+12:28:42: 3S06 passed Warrington Bank Quay 4 minutes early
+12:28:56: 1D75 departed from Newton-le-Willows, 1 minute late
+12:29:00: 9M29 entered railway at Manchester Link, track element 92-9, on time
+12:29:00: 2A16 entered railway at Liverpool Link, track element 17-8, on time
+12:29:00: 1E62 entered railway at Chester Link, track element 7-31, on time
+12:29:00: 1F18 entered railway at Crewe Link, track element 56-31, on time
+12:29:00: 1H86 departed from Earlestown on time
+12:29:00: 2A97 departed from Holmes Chapel on time
+12:29:35: 2H46 left railway at Manchester Link, track element 95-9, 1 minute early
+12:29:39: 1D36 arrived at Frodsham on time
+12:29:51: 6L11 left railway at Crewe Link, track element 57-34, 62 minutes early
+12:29:57: 9S55 passed Golborne Jn. 1 minute early
+12:30:00: 2H38 departed from Northwich on time
+12:30:02: 2D46 arrived at Altrincham 3 minutes early
+12:30:09: 1D36 departed from Frodsham on time
+12:30:25: 2D45 passed Mickle Trafford Jn. on time
+12:30:30: 6E10 passed Earlestown 6 minutes early
+12:30:42: 1M10 passed Acton Bridge 2 minutes early
+12:30:49: 9S55 left railway at Wigan Link, track element 40-N2, 1 minute early
+12:31:19: 6J34 passed Altrincham 4 minutes early
+12:31:23: 1H86 arrived at Newton-le-Willows, 1 minute late
+12:31:27: 3S06 passed Winwick Jn. 4 minutes early
+12:31:53: 1H86 departed from Newton-le-Willows, on time
+12:31:59: 1M10 passed Hartford Jn. 2 minutes early
+12:32:00: 2H26 entered railway at Alderley Edge Up Siding, track element 77-31, on time
+12:32:00: 1V42 entered railway at Manchester Link, track element 96-9, on time
+12:32:00: 1A38 entered railway at Chester Link, track element 7-31, on time
+12:32:00: 2K36 departed from Wilmslow on time
+12:32:17: 1H65 arrived at Stockport 1 minute early
+12:32:19: 1E62 passed Mickle Trafford Jn. on time
+12:32:27: 1D75 arrived at Earlestown 3 minutes late
+12:32:57: 1D75 departed from Earlestown 2 minutes late
+12:33:00: 2H87 entered railway at Macclesfield Link, track element 95-34, on time
+12:33:06: 2A97 arrived at Sandbach 1 minute late
+12:33:10: 1H86 passed Parkside Jn. on time
+12:33:19: 1V42 passed Heaton Norris Jn. on time
+12:33:20: 3S06 passed Golborne Jn. 5 minutes early
+12:33:34: 1D36 arrived at Helsby on time
+12:33:36: 2A97 departed from Sandbach on time
+12:33:43: 2A16 arrived at Earlestown 2 minutes late
+12:33:57: 1D75 passed Winwick Jn. on time
+12:34:00: 1W16 entered railway at Crewe Link, track element 57-33, on time
+12:34:04: 1V42 arrived at Stockport 1 minute early
+12:34:13: 2A16 departed from Earlestown 2 minutes late
+12:34:31: 2A87 arrived at Wilmslow 5 minutes early
+12:34:47: 2H87 arrived at Cheadle Hulme on time
+12:34:54: 2A97 left railway at Crewe Link, track element 57-34, on time
+12:34:54: 1D75 arrived at Warrington Bank Quay 3 minutes early
+12:34:56: 9M29 passed Parkside Jn. on time
+12:35:00: 9A53 entered railway at Wigan Link, track element 41-N2, on time
+12:35:00: 1D36 departed from Helsby on time
+12:35:00: 1H65 departed from Stockport on time
+12:35:00: 2D46 departed from Altrincham on time
+12:35:01: 1E62 passed Helsby on time
+12:35:10: 3S09 passed Edgeley Jn. No. 2 6 minutes early
+12:35:17: 2H87 departed from Cheadle Hulme on time
+12:35:24: 1F18 passed Hartford Jn. on time
+12:35:35: 2D45 left railway at Chester Link, track element 7-32, 2 minutes late
+12:35:35: 3S06 left railway at Wigan Link, track element 38-N2, 10 minutes early
+12:35:37: 1H65 passed Heaton Norris Jn. 1 minute early
+12:35:49: 1M10 left railway at Crewe Link, track element 57-31, 3 minutes early
+12:36:07: 3S09 passed Stockport 6 minutes early
+12:36:16: 9A53 passed Golborne Jn. on time
+12:36:26: 9M29 arrived at Newton-le-Willows, on time
+12:36:31: 2A16 arrived at Newton-le-Willows, 2 minutes late
+12:36:35: 6E10 passed Winwick Jn. 11 minutes early
+12:36:55: 2K36 arrived at Chelford 2 minutes early
+12:36:57: 1F18 passed Acton Bridge on time
+12:37:01: 2A16 departed from Newton-le-Willows, 2 minutes late
+12:37:08: 6E10 passed Dallam Jn. 14 minutes early
+12:37:21: 2H38 arrived at Knutsford 4 minutes early
+12:37:35: 1E62 passed Frodsham 2 minutes early
+12:37:35: 1H65 left railway at Manchester Link, track element 95-9, 1 minute early
+12:37:51: 1F18 passed Weaver Jn. on time
+12:38:00: 6F91 entered railway at Ince & Elton Sidings, track element 12-20, on time
+12:38:00: 1V42 departed from Stockport on time
+12:38:01: 6E10 arrived at Warrington Goods 14 minutes early
+12:38:04: 9A53 passed Winwick Jn. on time
+12:38:16: 2H87 arrived at Stockport on time
+12:38:18: 2A16 passed Parkside Jn. 1 minute late
+12:38:29: 1D36 passed Mickle Trafford Jn. 3 minutes early
+12:38:39: 3S09 left railway at Manchester Link, track element 94-9, 14 minutes early
+12:38:39: 2H26 arrived at Wilmslow 2 minutes late
+12:39:00: 1D75 departed from Warrington Bank Quay on time
+12:39:00: 9M29 departed from Newton-le-Willows, on time
+12:39:06: 9A53 arrived at Warrington Bank Quay 1 minute early
+12:39:09: 2H26 departed from Wilmslow 2 minutes late
+12:39:09: 1H86 left railway at Manchester Link, track element 92-8, 2 minutes late
+12:40:00: 2K36 departed from Chelford on time
+12:40:00: 2H87 departed from Stockport on time
+12:40:33: 1F18 passed Halton Jn. on time
+12:40:37: 2H87 passed Heaton Norris Jn. 1 minute early
+12:40:43: 9M29 passed Earlestown on time
+12:41:00: 1F54 entered railway at Crewe Link, track element 56-31, on time
+12:41:05: 1E62 passed Runcorn East on time
+12:41:05: 6F91 passed Helsby 3 minutes early
+12:41:05: 1D75 passed Acton Grange Jn. on time
+12:41:44: 1F18 arrived at Runcorn 1 minute early
+12:42:00: 2A87 departed from Wilmslow on time
+12:42:01: 1D56 left railway at Chester Link, track element 7-32, on time
+12:42:26: 2A87 left railway at Manchester Airport Link, track element 87-26, 1 minute early
+12:42:35: 2H87 left railway at Manchester Link, track element 95-9, 1 minute early
+12:42:44: 1D75 passed Runcorn East 2 minutes early
+12:42:47: 9M29 left railway at Liverpool Link, track element 17-9, on time
+12:42:50: 1E62 passed Acton Grange Jn. 2 minutes early
+12:42:51: 6J34 arrived at Signal Ey1.20 7 minutes early
+12:43:00: 9A53 departed from Warrington Bank Quay on time
+12:43:01: 2H26 arrived at Cheadle Hulme 1 minute late
+12:43:06: 2D46 arrived at Knutsford 5 minutes early
+12:43:31: 2H26 departed from Cheadle Hulme on time
+12:43:47: 1E62 arrived at Warrington Bank Quay 4 minutes early
+12:44:00: 6E26 departed from Hartford Jn. on time
+12:44:00: 2H38 departed from Knutsford on time
+12:44:17: 2A16 left railway at Manchester Link, track element 92-8, 1 minute late
+12:44:55: 9A53 passed Acton Grange Jn. on time
+12:44:57: 2K36 arrived at Holmes Chapel 2 minutes early
+12:44:57: 1V42 arrived at Wilmslow 1 minute early
+12:45:00: 1F97 entered railway at Chester Link, track element 7-31, on time
+12:45:00: 1F18 departed from Runcorn on time
+12:45:09: 1W16 arrived at Wilmslow 3 minutes early
+12:45:22: 1F54 passed Hartford Jn. 1 minute early
+12:45:28: 9A53 passed Weaver Jn. 2 minutes early
+12:45:39: 1D36 left railway at Chester Link, track element 7-32, on time
+12:46:01: 1D75 passed Frodsham on time
+12:46:25: 1F18 left railway at Liverpool Link, track element 17-11, on time
+12:46:26: 6F91 passed Frodsham Jn. 3 minutes early
+12:46:39: 2H26 arrived at Stockport on time
+12:47:00: 2K86 entered railway at Manchester Link, track element 96-9, on time
+12:47:00: 1G53 entered railway at Liverpool Link, track element 17-10, on time
+12:47:27: 6E26 passed Hartford CLC Jn. on time
+12:47:29: 9A53 passed Acton Bridge 2 minutes early
+12:47:30: 1F54 arrived at Acton Bridge 1 minute early
+12:48:00: 2K36 departed from Holmes Chapel on time
+12:48:00: 2H26 departed from Stockport on time
+12:48:12: 1D75 passed Helsby 1 minute early
+12:48:18: 2K86 passed Heaton Norris Jn. 1 minute early
+12:48:19: 1F97 passed Mickle Trafford Jn. on time
+12:48:36: 1G53 arrived at Runcorn on time
+12:48:37: 2H26 passed Heaton Norris Jn. 1 minute early
+12:48:45: 9A53 passed Hartford Jn. 2 minutes early
+12:49:00: 1E62 departed from Warrington Bank Quay on time
+12:49:00: 1V42 departed from Wilmslow on time
+12:49:04: 2K86 arrived at Stockport 2 minutes early
+12:49:11: 6F91 passed Runcorn East 2 minutes early
+12:50:00: 2K14 entered railway at Manchester Link, track element 96-9, on time
+12:50:00: 2H47 entered railway at Crewe Link, track element 57-33, on time
+12:50:00: 2D46 departed from Knutsford on time
+12:50:00: 1F54 departed from Acton Bridge on time
+12:50:35: 1E62 passed Winwick Jn. 3 minutes early
+12:50:35: 2H26 left railway at Manchester Link, track element 95-9, 2 minutes early
+12:51:00: 1K10 entered railway at Chester Link, track element 7-31, on time
+12:51:00: 4L90 entered railway at Manchester Airport Link, track element 87-27, on time
+12:51:00: 1G53 departed from Runcorn on time
+12:51:14: 6F91 passed Acton Grange Jn. 5 minutes early
+12:51:18: 2K14 passed Heaton Norris Jn. on time
+12:51:23: 1D75 passed Mickle Trafford Jn. 4 minutes early
+12:51:26: 2H47 arrived at Sandbach on time
+12:51:33: 2H38 arrived at Altrincham 8 minutes early
+12:51:37: 1F97 arrived at Helsby on time
+12:51:39: 1F54 passed Weaver Jn. on time
+12:51:46: 1E62 arrived at Earlestown 4 minutes early
+12:51:50: 4L90 passed Wilmslow 1 minute early
+12:51:54: 1G53 passed Halton Jn. on time
+12:52:00: 1W16 departed from Wilmslow on time
+12:52:06: 2K36 arrived at Sandbach on time
+12:52:07: 1F97 departed from Helsby on time
+12:52:09: 2K14 arrived at Stockport 1 minute early
+12:52:37: 9A53 left railway at Crewe Link, track element 57-31, 3 minutes early
+12:52:43: 6F91 arrived at Warrington Goods 15 minutes early
+12:52:55: 6E26 passed Northwich 4 minutes early
+12:53:00: 2K36 departed from Sandbach on time
+12:53:00: 2K86 departed from Stockport on time
+12:53:00: 2H47 departed from Sandbach on time
+12:53:30: 1A38 left railway at Crewe Link, track element 55-33, on time
+12:54:00: 1H87 entered railway at Chester Link, track element 7-31, on time
+12:54:17: 2K36 left railway at Crewe Link, track element 57-34, on time
+12:54:25: 1F54 passed Halton Jn. on time
+12:55:00: 2K14 departed from Stockport on time
+12:55:16: 1G53 passed Weaver Jn. on time
+12:55:36: 1F54 arrived at Runcorn 1 minute early
+12:56:00: 0M42 entered railway at Manchester Link, track element 97-9, on time
+12:56:04: No random delays selected on loading session
+12:56:04: No random failures selected on loading session
+12:56:06: 1F97 arrived at Frodsham on time
+12:56:46: 2K86 arrived at Cheadle Hulme on time
+12:56:57: 2D46 arrived at Northwich 5 minutes early
+12:57:00: 1E62 departed from Earlestown on time
+12:57:00: 1F97 departed from Frodsham on time
+12:57:00: 6K78 entered railway at Chinley Link, track element 92-21, on time
+12:57:20: 2H47 arrived at Holmes Chapel on time
+12:57:47: 1W16 arrived at Stockport 2 minutes early
+12:58:00: 1D35 entered railway at Manchester Link, track element 92-9, on time
+12:58:00: 1F54 departed from Runcorn on time
+12:58:00: 2K86 departed from Cheadle Hulme on time
+12:58:00: 2H47 departed from Holmes Chapel on time
+12:58:09: 0M42 arrived at Heaton Norris Jn. 1 minute early
+12:58:23: 1G53 arrived at Acton Bridge on time
+12:58:35: 2K14 arrived at Cheadle Hulme on time
+12:58:36: 1H87 passed Mickle Trafford Jn. 1 minute late
+12:58:56: 1V42 left railway at Crewe Link, track element 57-34, 5 minutes early
+12:59:00: 1A40 entered railway at Liverpool Link, track element 17-10, on time
+12:59:23: 1E62 arrived at Newton-le-Willows, on time
+12:59:25: 1F54 left railway at Liverpool Link, track element 17-11, on time
+13:00:00: 1A41 entered railway at Manchester Link, track element 96-9, on time
+13:00:00: 2H39 entered railway at Chester Link, track element 7-31, on time
+13:00:00: 1E62 departed from Newton-le-Willows, on time
+13:00:00: 1G53 departed from Acton Bridge on time
+13:00:00: 2K14 departed from Cheadle Hulme on time
+13:00:02: 1D75 left railway at Chester Link, track element 7-32, 1 minute late
+13:00:04: 1F97 passed Halton Jn. on time
+13:00:36: 1A40 arrived at Runcorn on time
+13:00:37: 2K14 left railway at Macclesfield Link, track element 96-34, on time
+13:01:00: 2H38 departed from Altrincham on time
+13:01:16: 1E62 passed Parkside Jn. on time
+13:01:19: 1A41 passed Heaton Norris Jn. on time
+13:01:19: 1F97 arrived at Runcorn on time
+13:01:54: 1H87 arrived at Helsby on time
+13:01:59: 2K86 arrived at Wilmslow 1 minute early
+13:02:00: 1S58 entered railway at Crewe Link, track element 56-31, on time
+13:02:00: 6J34 departed from Signal Ey1.20 on time
+13:02:00: 1W16 departed from Stockport on time
+13:02:04: 1A41 arrived at Stockport 1 minute early
+13:02:24: 1H87 departed from Helsby on time
+13:02:33: 1G53 passed Hartford Jn. on time
+13:02:37: 1W16 passed Heaton Norris Jn. 1 minute early
+13:03:00: 2D46 departed from Northwich on time
+13:03:00: 1F97 departed from Runcorn on time
+13:03:00: 1A40 departed from Runcorn on time
+13:03:00: 6J34 passed Stockport on time
+13:03:29: 2H47 arrived at Chelford 1 minute early
+13:03:30: 2H39 passed Mickle Trafford Jn. 1 minute late
+13:03:54: 1A40 passed Halton Jn. on time
+13:03:56: 1D35 passed Parkside Jn. on time
+13:04:00: 6F22 entered railway at Chester Link, track element 7-31, on time
+13:04:00: 6E10 departed from Warrington Goods on time
+13:04:00: 2K86 departed from Wilmslow on time
+13:04:24: 1F97 left railway at Liverpool Link, track element 17-11, on time
+13:04:35: 1W16 left railway at Manchester Link, track element 95-9, 1 minute early
+13:05:00: 0M42 departed from Heaton Norris Jn. on time
+13:05:00: 1A41 departed from Stockport on time
+13:05:17: 2D46 passed Northwich West Jn. 4 minutes early
+13:05:26: 1D35 arrived at Newton-le-Willows, on time
+13:05:31: 0M42 passed Stockport 2 minutes early
+13:05:32: 6J34 left railway at Manchester Link, track element 94-9, 8 minutes early
+13:05:34: 6K78 passed Altrincham 18 minutes early
+13:06:00: 2H47 departed from Chelford on time
+13:06:00: 1D35 departed from Newton-le-Willows, on time
+13:06:22: 1S58 passed Hartford Jn. on time
+13:06:22: 4L90 passed Sandbach 3 minutes early
+13:06:23: 1H87 arrived at Frodsham 1 minute late
+13:06:39: 1G53 left railway at Crewe Link, track element 57-31, on time
+13:06:53: 1H87 departed from Frodsham on time
+13:07:00: 4F57 entered railway at Crewe Link, track element 56-31, on time
+13:07:02: 2K86 left railway at Alderley Edge Up Siding, track element 77-31, on time
+13:07:16: 1E62 left railway at Manchester Link, track element 92-8, 1 minute late
+13:07:16: 1A40 passed Weaver Jn. on time
+13:07:20: 4L90 left railway at Crewe Link, track element 57-34, 4 minutes early
+13:07:27: 6E26 passed Altrincham 8 minutes early
+13:07:39: 1S58 passed Acton Bridge on time
+13:07:41: 0M42 passed Edgeley Jn. No. 2 1 minute early
+13:07:49: 6F22 passed Mickle Trafford Jn. 1 minute early
+13:07:58: 6E10 passed Acton Grange Jn. 3 minutes early
+13:08:00: 1P27 entered railway at Liverpool Link, track element 17-8, on time
+13:08:00: 2A98 entered railway at Manchester Airport Link, track element 87-27, on time
+13:08:15: 1D35 arrived at Earlestown on time
+13:08:29: 2H39 arrived at Mouldsworth 1 minute late
+13:08:39: 2D46 arrived at Cuddington 4 minutes early
+13:08:49: 2A98 arrived at Wilmslow on time
+13:09:00: 1D35 departed from Earlestown on time
+13:09:00: 2H39 departed from Mouldsworth on time
+13:09:10: 1A40 passed Acton Bridge on time
+13:09:32: 1S58 passed Weaver Jn. on time
+13:10:00: 2F11 entered railway at Manchester Link, track element 92-9, on time
+13:10:00: 1H66 entered railway at Crewe Link, track element 57-33, on time
+13:10:00: 1D35 passed Winwick Jn. 1 minute early
+13:10:13: 1P27 passed Earlestown on time
+13:10:27: 1A40 passed Hartford Jn. on time
+13:10:52: 2H47 arrived at Wilmslow 2 minutes early
+13:10:55: 1S58 passed Acton Grange Jn. 1 minute early
+13:10:56: 1D35 arrived at Warrington Bank Quay 6 minutes early
+13:11:09: 2H38 arrived at Stockport 5 minutes early
+13:11:16: 1A41 arrived at Wilmslow 1 minute early
+13:11:19: 6F22 passed Helsby 2 minutes early
+13:11:21: 1K10 left railway at Crewe Link, track element 55-33, on time
+13:11:46: 1S58 arrived at Warrington Bank Quay 2 minutes early
+13:11:48: 1H87 arrived at Runcorn East 1 minute late
+13:11:58: 1P27 arrived at Newton-le-Willows, on time
+13:12:18: 1H87 departed from Runcorn East 1 minute late
+13:12:54: 2H39 arrived at Delamere 1 minute early
+13:13:00: 2D47 entered railway at Manchester Link, track element 96-9, on time
+13:14:00: 9S60 entered railway at Crewe Link, track element 56-31, on time
+13:14:00: 2D46 departed from Cuddington on time
+13:14:00: 2H47 departed from Wilmslow on time
+13:14:00: 1A41 departed from Wilmslow on time
+13:14:01: 4F57 passed Hartford Jn. on time
+13:14:18: 1A40 left railway at Crewe Link, track element 57-31, 1 minute early
+13:14:18: 2D47 passed Heaton Norris Jn. on time
+13:14:39: 1H87 passed Acton Grange Jn. 1 minute early
+13:15:00: 2H39 departed from Delamere on time
+13:15:00: 1P27 departed from Newton-le-Willows, on time
+13:15:02: 2K37 entered railway at Manchester Link, track element 96-9, on time
+13:15:04: 2D47 arrived at Stockport on time
+13:15:37: 1H87 arrived at Warrington Bank Quay 4 minutes early
+13:15:56: 2F11 passed Parkside Jn. on time
+13:16:00: 1S58 departed from Warrington Bank Quay on time
+13:16:17: 1P27 passed Parkside Jn. on time
+13:16:21: 2K37 passed Heaton Norris Jn. on time
+13:17:00: 2A98 departed from Wilmslow on time
+13:17:02: 4F57 arrived at Acton Bridge Loop on time
+13:17:12: 2K37 arrived at Stockport on time
+13:17:19: 6E10 passed Hartford Jn. 7 minutes early
+13:17:26: 2F11 arrived at Newton-le-Willows, on time
+13:17:26: 1S58 passed Winwick Jn. 1 minute early
+13:17:40: 6K78 passed Northwich 32 minutes early
+13:17:52: 2H47 arrived at Cheadle Hulme 3 minutes early
+13:18:00: 2H38 departed from Stockport on time
+13:18:00: 1D35 departed from Warrington Bank Quay on time
+13:18:00: 2D47 departed from Stockport on time
+13:18:00: 2D46 arrived at Delamere on time
+13:18:01: 1M11 entered railway at Wigan Link, track element 41-N2, on time
+13:18:23: 6F22 passed Frodsham Jn. 2 minutes early
+13:18:43: 2H38 passed Heaton Norris Jn. 1 minute early
+13:18:48: 9S60 passed Hartford Jn. on time
+13:18:57: 1S58 passed Golborne Jn. 1 minute early
+13:19:00: 2D46 departed from Delamere on time
+13:19:00: 2F11 departed from Newton-le-Willows, on time
+13:19:00: 2K37 departed from Stockport on time
+13:19:00: 2H39 arrived at Cuddington on time
+13:19:18: 1M11 passed Golborne Jn. on time
+13:19:38: 6E26 arrived at Signal Ey1.20 12 minutes early
+13:19:49: 1S58 left railway at Wigan Link, track element 40-N2, 1 minute early
+13:20:00: 2A88 entered railway at Crewe Link, track element 57-33, on time
+13:20:00: 2H39 departed from Cuddington on time
+13:20:00: 9S60 passed Acton Bridge on time
+13:20:41: 2H38 left railway at Manchester Link, track element 94-9, 1 minute early
+13:20:43: 1D35 passed Acton Grange Jn. 1 minute early
+13:21:00: 1D76 entered railway at Manchester Link, track element 92-9, on time
+13:21:00: 1H87 departed from Warrington Bank Quay on time
+13:21:01: 0M42 passed Wilmslow 1 minute late
+13:21:04: 6E10 passed Hartford CLC Jn. 6 minutes early
+13:21:16: 6F22 passed Runcorn East 2 minutes early
+13:21:25: 2A88 arrived at Sandbach on time
+13:21:27: 2F11 arrived at Earlestown on time
+13:21:44: 1M11 passed Winwick Jn. on time
+13:22:00: 1D57 entered railway at Crewe Link, track element 55-34, on time
+13:22:00: 2H47 departed from Cheadle Hulme on time
+13:22:00: 2F11 departed from Earlestown on time
+13:22:11: 9S60 passed Weaver Jn. on time
+13:22:16: 1P27 left railway at Manchester Link, track element 92-8, on time
+13:22:18: 2H39 passed Hartford CLC Jn. on time
+13:22:35: 1H87 passed Winwick Jn. 2 minutes early
+13:22:42: 1M11 arrived at Warrington Bank Quay 1 minute early
+13:22:52: 2K37 arrived at Cheadle Hulme on time
+13:23:00: 4F57 departed from Acton Bridge Loop on time
+13:23:00: 2A88 departed from Sandbach on time
+13:23:00: 2D46 arrived at Mouldsworth on time
+13:23:11: 1D35 arrived at Runcorn East 1 minute early
+13:23:15: 1H66 arrived at Wilmslow 1 minute early
+13:23:46: 1A41 left railway at Crewe Link, track element 57-34, 5 minutes early
+13:23:46: 1H87 arrived at Earlestown 4 minutes early
+13:24:00: 2K37 departed from Cheadle Hulme on time
+13:24:24: 9S60 passed Acton Grange Jn. on time
+13:24:48: 2F11 left railway at Liverpool Link, track element 17-9, on time
+13:25:00: 2D46 departed from Mouldsworth on time
+13:25:04: 2H47 arrived at Stockport on time
+13:25:13: 9S60 arrived at Warrington Bank Quay on time
+13:25:53: 6K78 passed Sandbach North Jn. 53 minutes early
+13:26:00: 0L96 entered railway at Crewe Link, track element 57-33, on time
+13:26:00: 1D35 departed from Runcorn East on time
+13:26:00: 1H66 departed from Wilmslow on time
+13:26:00: 1M11 departed from Warrington Bank Quay on time
+13:26:46: 2H39 arrived at Northwich 2 minutes early
+13:26:56: 1D76 passed Parkside Jn. 1 minute late
+13:27:00: 2H47 departed from Stockport on time
+13:27:20: 2A88 arrived at Holmes Chapel on time
+13:27:37: 2H47 passed Heaton Norris Jn. on time
+13:27:55: 6F22 passed Acton Grange Jn. 1 minute early
+13:27:56: 1M11 passed Acton Grange Jn. on time
+13:27:57: 0L96 passed Sandbach on time
+13:27:59: 2A98 arrived at Holmes Chapel on time
+13:27:59: 2K37 arrived at Wilmslow 3 minutes early
+13:28:00: 9S60 departed from Warrington Bank Quay on time
+13:28:00: 2A88 departed from Holmes Chapel on time
+13:28:26: 1D76 arrived at Newton-le-Willows, 2 minutes late
+13:28:47: 1M11 passed Weaver Jn. 3 minutes early
+13:28:53: 6K78 left railway at Crewe Link, track element 57-34, 61 minutes early
+13:28:56: 1D76 departed from Newton-le-Willows, 1 minute late
+13:29:00: 9M30 entered railway at Manchester Link, track element 92-9, on time
+13:29:00: 2A17 entered railway at Liverpool Link, track element 17-8, on time
+13:29:00: 0D43 entered railway at Crewe Link, track element 55-34, on time
+13:29:00: 1E64 entered railway at Chester Link, track element 7-31, on time
+13:29:00: 1F20 entered railway at Crewe Link, track element 56-31, on time
+13:29:00: 1H87 departed from Earlestown on time
+13:29:00: 2A98 departed from Holmes Chapel on time
+13:29:06: 6F22 passed Warrington Bank Quay 6 minutes early
+13:29:24: 4F57 passed Weaver Jn. 2 minutes late
+13:29:25: 6E10 arrived at Northwich Goods Loop 6 minutes early
+13:29:26: 9S60 passed Winwick Jn. 1 minute early
+13:29:35: 2H47 left railway at Manchester Link, track element 95-9, 1 minute early
+13:29:56: 2D47 arrived at Altrincham 4 minutes early
+13:30:00: 2H39 departed from Northwich on time
+13:30:39: 1D35 arrived at Frodsham on time
+13:30:50: 2D46 passed Mickle Trafford Jn. on time
+13:30:57: 9S60 passed Golborne Jn. 1 minute early
+13:31:23: 1H87 arrived at Newton-le-Willows, 1 minute late
+13:31:27: 6F22 passed Winwick Jn. 10 minutes early
+13:31:41: 4F57 passed Acton Grange Jn. on time
+13:31:49: 9S60 left railway at Wigan Link, track element 40-N2, 2 minutes early
+13:31:53: 1H87 departed from Newton-le-Willows, on time
+13:31:57: 2A17 arrived at Earlestown on time
+13:32:00: 2H27 entered railway at Alderley Edge Up Siding, track element 77-31, on time
+13:32:00: 1V44 entered railway at Manchester Link, track element 96-9, on time
+13:32:00: 1D35 departed from Frodsham on time
+13:32:00: 2K37 departed from Wilmslow on time
+13:32:08: 1H66 arrived at Stockport 1 minute early
+13:32:18: 6F22 passed Earlestown 13 minutes early
+13:32:19: 1E64 passed Mickle Trafford Jn. on time
+13:32:27: 2A17 departed from Earlestown on time
+13:32:45: 1M11 passed Acton Bridge on time
+13:32:46: 4F57 passed Warrington Bank Quay on time
+13:33:00: 2H88 entered railway at Macclesfield Link, track element 95-34, on time
+13:33:05: 2A98 arrived at Sandbach 1 minute late
+13:33:10: 1H87 passed Parkside Jn. on time
+13:33:35: 2A98 departed from Sandbach on time
+13:33:42: 1D76 arrived at Earlestown 4 minutes late
+13:33:58: 1V44 passed Heaton Norris Jn. on time
+13:34:00: 1W57 entered railway at Crewe Link, track element 57-33, on time
+13:34:00: OK99 entered railway at Chinley Link, track element 92-21, on time
+13:34:05: 1F20 passed Hartford Jn. on time
+13:34:12: 1D76 departed from Earlestown 4 minutes late
+13:34:32: 4F57 passed Winwick Jn. 2 minutes early
+13:34:32: 2A88 arrived at Wilmslow 5 minutes early
+13:34:44: 1V44 arrived at Stockport 1 minute early
+13:34:47: 2H88 arrived at Cheadle Hulme on time
+13:34:53: 2A98 left railway at Crewe Link, track element 57-34, on time
+13:34:56: 9M30 passed Parkside Jn. on time
+13:35:00: 9M54 entered railway at Wigan Link, track element 41-N2, on time
+13:35:00: 1H66 departed from Stockport on time
+13:35:00: 2D47 departed from Altrincham on time
+13:35:01: 1E64 passed Helsby on time
+13:35:03: 2A17 arrived at Newton-le-Willows, 1 minute late
+13:35:17: 2H88 departed from Cheadle Hulme on time
+13:35:19: 1M11 passed Hartford Jn. 1 minute late
+13:35:24: 1D35 arrived at Helsby on time
+13:35:28: 1F20 passed Acton Bridge on time
+13:35:30: 2D46 left railway at Chester Link, track element 7-32, 2 minutes late
+13:35:33: 2A17 departed from Newton-le-Willows, on time
+13:35:37: 1H66 passed Heaton Norris Jn. 1 minute early
+13:35:44: 1D76 passed Winwick Jn. 1 minute late
+13:35:47: 6F22 left railway at Liverpool Link, track element 17-9, 20 minutes early
+13:36:16: 9M54 passed Golborne Jn. on time
+13:36:20: 4F57 passed Golborne Jn. 3 minutes early
+13:36:21: 1F20 passed Weaver Jn. 1 minute early
+13:36:27: 9M30 arrived at Newton-le-Willows, on time
+13:36:41: 1D76 arrived at Warrington Bank Quay 2 minutes early
+13:36:50: 2A17 passed Parkside Jn. on time
+13:36:55: 2K37 arrived at Chelford 2 minutes early
+13:37:00: 1D35 departed from Helsby on time
+13:37:21: 2H39 arrived at Knutsford 4 minutes early
+13:37:23: 4F57 left railway at Wigan Link, track element 40-N2, 4 minutes early
+13:37:35: 1E64 passed Frodsham 2 minutes early
+13:37:35: 1H66 left railway at Manchester Link, track element 95-9, 1 minute early
+13:37:44: 9M54 passed Winwick Jn. on time
+13:38:00: 1V44 departed from Stockport on time
+13:38:16: 2H88 arrived at Stockport on time
+13:38:38: 2H27 arrived at Wilmslow 2 minutes late
+13:38:46: 9M54 arrived at Warrington Bank Quay 2 minutes early
+13:39:00: 9M30 departed from Newton-le-Willows, on time
+13:39:02: 1F20 passed Halton Jn. 1 minute early
+13:39:08: 2H27 departed from Wilmslow 2 minutes late
+13:39:10: 1H87 left railway at Manchester Link, track element 92-8, 2 minutes late
+13:40:00: 6E26 departed from Signal Ey1.20 on time
+13:40:00: 2K37 departed from Chelford on time
+13:40:00: 1D76 departed from Warrington Bank Quay on time
+13:40:00: 2H88 departed from Stockport on time
+13:40:14: 1F20 arrived at Runcorn 2 minutes early
+13:40:24: 0M42 passed Sandbach 3 minutes early
+13:40:29: 1D35 passed Mickle Trafford Jn. 3 minutes early
+13:40:37: 2H88 passed Heaton Norris Jn. 1 minute early
+13:40:43: 9M30 passed Earlestown on time
+13:41:00: 1F56 entered railway at Crewe Link, track element 56-31, on time
+13:41:09: 1E64 passed Runcorn East on time
+13:41:17: 6E26 passed Stockport 1 minute early
+13:41:22: 0M42 left railway at Crewe Link, track element 57-34, 4 minutes early
+13:41:48: 1M11 left railway at Crewe Link, track element 57-31, 2 minutes late
+13:42:00: 6E10 departed from Northwich Goods Loop on time
+13:42:00: 2A88 departed from Wilmslow on time
+13:42:01: 1D57 left railway at Chester Link, track element 7-32, on time
+13:42:05: 1D76 passed Acton Grange Jn. on time
+13:42:26: 2A88 left railway at Manchester Airport Link, track element 87-26, 1 minute early
+13:42:35: 2H88 left railway at Manchester Link, track element 95-9, 1 minute early
+13:42:47: 9M30 left railway at Liverpool Link, track element 17-9, on time
+13:43:00: 9M54 departed from Warrington Bank Quay on time
+13:43:01: 2H27 arrived at Cheadle Hulme 1 minute late
+13:43:06: 2D47 arrived at Knutsford 5 minutes early
+13:43:22: 0L96 passed Wilmslow 4 minutes early
+13:43:23: 1E64 passed Acton Grange Jn. 1 minute early
+13:43:31: 2H27 departed from Cheadle Hulme on time
+13:43:36: 2A17 left railway at Manchester Link, track element 92-8, on time
+13:43:39: 0L96 left railway at Manchester Airport Link, track element 87-26, 6 minutes early
+13:43:44: 1D76 passed Runcorn East 2 minutes early
+13:43:50: 6E26 left railway at Manchester Link, track element 94-9, 9 minutes early
+13:44:00: 2H39 departed from Knutsford on time
+13:44:16: 1V44 arrived at Wilmslow 1 minute early
+13:44:22: 1E64 arrived at Warrington Bank Quay 3 minutes early
+13:44:24: OK99 passed Altrincham 13 minutes early
+13:44:57: 2K37 arrived at Holmes Chapel 2 minutes early
+13:45:00: 1F98 entered railway at Chester Link, track element 7-31, on time
+13:45:00: 1D86 entered railway at Crewe Link, track element 55-34, on time
+13:45:00: 1F20 departed from Runcorn on time
+13:45:01: 9M54 passed Acton Grange Jn. on time
+13:45:22: 1F56 passed Hartford Jn. 1 minute early
+13:45:42: 1D35 left railway at Chester Link, track element 7-32, 1 minute early
+13:45:51: 9M54 passed Weaver Jn. 3 minutes early
+13:46:25: 1F20 left railway at Liverpool Link, track element 17-11, on time
+13:46:35: 2H27 arrived at Stockport on time
+13:47:00: 2K87 entered railway at Manchester Link, track element 96-9, on time
+13:47:00: 1G55 entered railway at Liverpool Link, track element 17-10, on time
+13:47:01: 1D76 passed Frodsham on time
+13:47:29: 1F56 arrived at Acton Bridge 1 minute early
+13:48:00: 4L56 entered railway at Manchester Airport Link, track element 87-27, on time
+13:48:00: 2K37 departed from Holmes Chapel on time
+13:48:00: 2H27 departed from Stockport on time
+13:48:17: 4L56 passed Wilmslow 1 minute early
+13:48:19: 2K87 passed Heaton Norris Jn. 1 minute early
+13:48:19: 1F98 passed Mickle Trafford Jn. on time
+13:48:36: 1G55 arrived at Runcorn on time
+13:48:37: 2H27 passed Heaton Norris Jn. 1 minute early
+13:49:00: 6H35 entered railway at Liverpool Link, track element 17-10, on time
+13:49:00: 1E64 departed from Warrington Bank Quay on time
+13:49:00: 1V44 departed from Wilmslow on time
+13:49:04: 2K87 arrived at Stockport 2 minutes early
+13:49:12: 1D76 passed Helsby 1 minute early
+13:49:27: 0D43 left railway at Chester Link, track element 7-32, 8 minutes early
+13:49:49: 9M54 passed Acton Bridge on time
+13:50:00: 2K16 entered railway at Manchester Link, track element 96-9, on time
+13:50:00: 2H48 entered railway at Crewe Link, track element 57-33, on time
+13:50:00: 2D47 departed from Knutsford on time
+13:50:00: 1F56 departed from Acton Bridge on time
+13:50:35: 1E64 passed Winwick Jn. 3 minutes early
+13:50:35: 2H27 left railway at Manchester Link, track element 95-9, 2 minutes early
+13:51:00: 1K11 entered railway at Chester Link, track element 7-31, on time
+13:51:00: 1G55 departed from Runcorn on time
+13:51:18: 2K16 passed Heaton Norris Jn. on time
+13:51:26: 2H48 arrived at Sandbach on time
+13:51:33: 2H39 arrived at Altrincham 8 minutes early
+13:51:37: 1F98 arrived at Helsby on time
+13:51:39: 1F56 passed Weaver Jn. on time
+13:51:46: 1E64 arrived at Earlestown 4 minutes early
+13:51:52: 1D76 passed Mickle Trafford Jn. 5 minutes early
+13:51:54: 1G55 passed Halton Jn. on time
+13:52:05: 2K37 arrived at Sandbach on time
+13:52:07: 1F98 departed from Helsby on time
+13:52:09: 2K16 arrived at Stockport 1 minute early
+13:52:23: 9M54 passed Hartford Jn. 1 minute late
+13:53:00: 2K37 departed from Sandbach on time
+13:53:00: 2K87 departed from Stockport on time
+13:53:00: 2H48 departed from Sandbach on time
+13:53:20: 1W57 arrived at Wilmslow 4 minutes late
+13:53:24: 6H35 passed Runcorn on time
+13:53:50: 1W57 departed from Wilmslow 1 minute late
+13:54:00 HELD: 1H88 can't enter railway, train obstructing entry position Chester Link
+13:54:11: 6H35 passed Halton Jn. on time
+13:54:17: 2K37 left railway at Crewe Link, track element 57-34, on time
+13:54:25: 1F56 passed Halton Jn. on time
+13:54:35: 1H88 entered railway at Chester Link, track element 7-31, on time
+13:55:00: 2K16 departed from Stockport on time
+13:55:22: 1G55 passed Weaver Jn. on time
+13:55:36: 1F56 arrived at Runcorn 1 minute early
+13:56:06: 1F98 arrived at Frodsham on time
+13:56:32: 1D76 left railway at Chester Link, track element 7-32, 3 minutes early
+13:56:46: 2K87 arrived at Cheadle Hulme on time
+13:56:57: 2D47 arrived at Northwich 5 minutes early
+13:57:00: 1E64 departed from Earlestown on time
+13:57:00: 1F98 departed from Frodsham on time
+13:57:19: 2H48 arrived at Holmes Chapel on time
+13:58:00: 1F56 departed from Runcorn on time
+13:58:00: 2K87 departed from Cheadle Hulme on time
+13:58:00: 2H48 departed from Holmes Chapel on time
+13:58:30: 1G55 arrived at Acton Bridge on time
+13:58:36: 2K16 arrived at Cheadle Hulme on time
+13:58:52: 9M54 left railway at Crewe Link, track element 57-31, 2 minutes late
+13:59:00: 1A46 entered railway at Liverpool Link, track element 17-10, on time
+13:59:23: 1E64 arrived at Newton-le-Willows, on time
+13:59:25: 1F56 left railway at Liverpool Link, track element 17-11, on time
+13:59:26: 6H35 passed Weaver Jn. 1 minute early
+13:59:37: 1W57 arrived at Stockport on time
+13:59:52: 1H88 passed Mickle Trafford Jn. 2 minutes late
+14:00:00: 1A47 entered railway at Manchester Link, track element 96-9, on time
+14:00:00: 6F91 changed direction at Warrington Goods on time
+14:00:00: 1E64 departed from Newton-le-Willows, on time
+14:00:00: 1G55 departed from Acton Bridge on time
+14:00:00: 2K16 departed from Cheadle Hulme on time
+14:00:04: 1F98 passed Halton Jn. on time
+14:00:34: Timetable clock speed changed to twice normal
+14:00:36: 1A46 arrived at Runcorn on time
+14:00:37: 2K16 left railway at Macclesfield Link, track element 96-34, on time
+14:01:00: 2H39 departed from Altrincham on time
+14:01:02: 4L56 passed Sandbach 5 minutes early
+14:01:16: 1E64 passed Parkside Jn. on time
+14:01:19: 1A47 passed Heaton Norris Jn. on time
+14:01:19: 1F98 arrived at Runcorn on time
+14:01:59: 2K87 arrived at Wilmslow 1 minute early
+14:02:00: 1S63 entered railway at Crewe Link, track element 56-31, on time
+14:02:00: 6F91 departed from Warrington Goods on time
+14:02:00: 1W57 departed from Stockport on time
+14:02:00: 4L56 left railway at Crewe Link, track element 57-34, 6 minutes early
+14:02:10: 1A47 arrived at Stockport 1 minute early
+14:02:33: 1G55 passed Hartford Jn. on time
+14:02:37: 1W57 passed Heaton Norris Jn. 1 minute early
+14:03:00: 2D47 departed from Northwich on time
+14:03:00: 1F98 departed from Runcorn on time
+14:03:00: 1A46 departed from Runcorn on time
+14:03:10: 1H88 arrived at Helsby 2 minutes late
+14:03:25: 6H35 passed Acton Bridge on time
+14:03:28: 2H48 arrived at Chelford 1 minute early
+14:03:40: 1H88 departed from Helsby 1 minute late
+14:03:54: 1A46 passed Halton Jn. on time
+14:04:00: 2K87 departed from Wilmslow on time
+14:04:24: 1F98 left railway at Liverpool Link, track element 17-11, on time
+14:04:36: 1W57 left railway at Manchester Link, track element 95-9, 1 minute early
+14:05:00: 1A47 departed from Stockport on time
+14:05:02: 1D86 left railway at Chester Link, track element 7-32, 1 minute early
+14:05:05: 6F91 passed Acton Grange Jn. 4 minutes early
+14:05:18: 2D47 passed Northwich West Jn. 4 minutes early
+14:05:54: 6F91 passed Weaver Jn. 12 minutes early
+14:05:59: 6H35 passed Hartford Jn. 1 minute early
+14:06:00: 2H48 departed from Chelford on time
+14:06:22: 1S63 passed Hartford Jn. on time
+14:06:39: 1G55 left railway at Crewe Link, track element 57-31, on time
+14:07:03: 2K87 left railway at Alderley Edge Up Siding, track element 77-31, on time
+14:07:18: 1V44 left railway at Crewe Link, track element 57-34, 3 minutes late
+14:07:19: 1E64 left railway at Manchester Link, track element 92-8, 1 minute late
+14:07:29: 6E10 passed Altrincham 2 minutes late
+14:07:39: 1H88 arrived at Frodsham 2 minutes late
+14:07:40: 1S63 passed Acton Bridge on time
+14:07:53: OK99 passed Northwich 14 minutes early
+14:08:09: 1H88 departed from Frodsham 2 minutes late
+14:08:39: 2D47 arrived at Cuddington 4 minutes early
+14:08:59: 6H35 passed Hartford CLC Jn. 1 minute early
+14:09:30: 6F91 passed Acton Bridge 10 minutes early
+14:09:33: 1S63 passed Weaver Jn. on time
+14:10:53: 2H48 arrived at Wilmslow 2 minutes early
+14:10:56: 1S63 passed Acton Grange Jn. 1 minute early
+14:10:58: OK99 passed Sandbach North Jn. 40 minutes early
+14:11:11: 2H39 arrived at Stockport 5 minutes early
+14:11:47: 1S63 arrived at Warrington Bank Quay 2 minutes early
+14:12:10: 6F91 passed Hartford Jn. 9 minutes early
+14:12:41: 1A46 passed Weaver Jn. 4 minutes late
+14:13:05: 1H88 arrived at Runcorn East 3 minutes late
+14:13:05: 1A47 arrived at Wilmslow on time
+14:13:22: 1K11 left railway at Crewe Link, track element 55-33, 1 minute late
+14:13:32: OK99 left railway at Crewe Link, track element 57-34, 48 minutes early
+14:13:35: 1H88 departed from Runcorn East 2 minutes late
+14:13:43: Timetable clock speed changed to four times normal
+14:14:00: 9P65 entered railway at Crewe Link, track element 56-31, on time
+14:14:00: 2D47 departed from Cuddington on time
+14:14:00: 2H48 departed from Wilmslow on time
+14:14:00: 1A47 departed from Wilmslow on time
+14:14:18: 6H35 passed Northwich 2 minutes early
+14:14:57: 1A46 passed Acton Bridge 4 minutes late
+14:15:57: 1H88 passed Acton Grange Jn. on time
+14:16:00: 1S63 departed from Warrington Bank Quay on time
+14:16:29: 1A46 passed Hartford Jn. 5 minutes late
+14:16:56: 1H88 arrived at Warrington Bank Quay 3 minutes early
+14:17:27: 1S63 passed Winwick Jn. 1 minute early
+14:17:54: 2H48 arrived at Cheadle Hulme 3 minutes early
+14:18:00: 2H39 departed from Stockport on time
+14:18:01: 2D47 arrived at Delamere on time
+14:18:24: 9P65 passed Hartford Jn. on time
+14:18:43: 2H39 passed Heaton Norris Jn. 1 minute early
+14:18:59: 1S63 passed Golborne Jn. 1 minute early
+14:19:00: 2D47 departed from Delamere on time
+14:19:36: 9P65 passed Acton Bridge on time
+14:19:51: 1S63 left railway at Wigan Link, track element 40-N2, 1 minute early
+14:19:53: 6E10 arrived at Signal Ey1.20 14 minutes early
+14:20:12: 6F91 left railway at Crewe Link, track element 57-31, 6 minutes early
+14:20:42: 2H39 left railway at Manchester Link, track element 94-9, 1 minute early
+14:21:00: 1H88 departed from Warrington Bank Quay on time
+14:21:07: 9P65 passed Weaver Jn. on time
+14:22:00: 2H48 departed from Cheadle Hulme on time
+14:22:29: 9P65 passed Acton Grange Jn. 1 minute early
+14:22:36: 1H88 passed Winwick Jn. 2 minutes early
+14:22:47: Timetable clock speed changed to eight times normal
+14:23:03: 2D47 arrived at Mouldsworth on time
+14:23:20: 9P65 arrived at Warrington Bank Quay 2 minutes early
+14:23:49: 1H88 arrived at Earlestown 4 minutes early
+14:23:51: 1A47 left railway at Crewe Link, track element 57-34, 5 minutes early
+14:23:51: 1A46 left railway at Crewe Link, track element 57-31, 7 minutes late
+14:25:00: 2D47 departed from Mouldsworth on time
+14:25:08: 2H48 arrived at Stockport on time
+14:27:00: 2H48 departed from Stockport on time
+14:27:39: 2H48 passed Heaton Norris Jn. on time
+14:28:00: 9P65 departed from Warrington Bank Quay on time
+14:28:35: 6H35 arrived at Altrincham 5 minutes early
+14:29:00: 1H88 departed from Earlestown on time
+14:29:28: 9P65 passed Winwick Jn. 1 minute early
+14:29:39: 2H48 left railway at Manchester Link, track element 95-9, 1 minute early
+14:29:40: 2D47 passed Mickle Trafford Jn. 1 minute early
+14:31:00: 9P65 passed Golborne Jn. on time
+14:31:26: 1H88 arrived at Newton-le-Willows, 1 minute late
+14:31:53: 9P65 left railway at Wigan Link, track element 40-N2, 1 minute early
+14:31:56: 1H88 departed from Newton-le-Willows, on time
+14:33:14: 1H88 passed Parkside Jn. on time
+14:34:20: 2D47 left railway at Chester Link, track element 7-32, 1 minute late
+14:35:00: 6H35 departed from Altrincham on time
+14:39:20: 1H88 left railway at Manchester Link, track element 92-8, 2 minutes late
+14:41:00: 6E10 departed from Signal Ey1.20 on time
+14:42:17: 6H35 arrived at Northenden Jn. 1 minute early
+14:42:24: 6E10 passed Stockport on time
+14:45:00: 6E10 left railway at Manchester Link, track element 94-9, 7 minutes early
+14:53:00: 6H35 changed direction at Northenden Jn. on time
+15:02:00: 6H35 departed from Northenden Jn. on time
+15:04:49: 6H35 left railway at Northenden RTS, track element 80-25, on time
+
+
+***************************************
+
+Performance summary:
+356 on-time arrivals
+112 late arrivals (average 1.8 min)
+333 early arrivals (average 3.2 min)
+447 on-time passes
+101 late passes (average 1.8 min)
+435 early passes (average 4.6 min)
+120 on-time exits
+67 late exits (average 2.0 min)
+181 early exits (average 5.8 min)
+746 on-time departures
+57 late departures (average 1.8 min)
+0 missed stops
+0 other missed events
+0 skipped timetable events
+0 unexpected train exits
+0 incorrect train exits
+0 train failures
+0 SPAD risks
+0 SPADs
+0 derailments
+0 crashed trains
+
+***************************************
+
+Overall score: 96%
+Overall rating: Excellent
+
+***************************************

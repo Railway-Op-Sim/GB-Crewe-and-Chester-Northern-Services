@@ -1,0 +1,16 @@
+rly_file = "Crewe & Chester Northern Services.rly"
+ttb_files = [ "Crewe & Chester Northern Services.ttb",]
+img_files = [ "Crewe-and-Chester-Northern-Services.bmp",]
+doc_files = [ "Crewe & Chester Northern Services.pdf",]
+release_date = "November 2024"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2024
+display_name = "Crewe & Chester Northern Services"
+name = "Crewe & Chester Northern Services"
+signal_position = "left"
+author = "RailOS DevTeam"
+contributors = []
+ssn_files = [ "Crewe & Chester Northern Services pre-start session.ssn",]
